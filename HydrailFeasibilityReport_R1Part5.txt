@@ -1,0 +1,2659 @@
+Northwest
+
+Hydro and biofuel, with some wind and natural gas
+
+Resources generally exceed peak demand
+
+West
+
+Natural gas and wind, with some solar
+
+Resources generally exceed peak demand
+
+Southwest
+
+Wind and natural gas, with some solar
+
+Resources generally equal peak demand
+
+Toronto
+
+Nuclear, with some natural gas
+
+Resources are less than peak demand
+
+Essa
+
+Hydro, with some natural gas
+
+Resources are much less than peak demand
+
+Ottawa
+
+Cogeneration
+
+Resources are much less than peak demand
+
+The East and Southwest zones are not generally congested. The transmission systems in these zones
+operate well below capacity, allowing for the transfer of power to the Toronto and Ottawa zones in
+addition to supplying local demand.
+The Toronto, Ottawa, and Essa zones are load congested. These zones rely on transfers from other
+zones to meet zonal peak demand, and the transmission network within the zones operates at or near
+capacity during peak load periods.
+The Bruce, Niagara, and Northwest zones are generation congested. Installed generation capacity in
+the zones is equal to or greater than the combination of demand within the zones and the ability to
+transfer electricity out of the zone. This results in the zonal transmission systems operating at or near
+capacity whenever zonal generation peaks.
+The Northeast and West zones have some transfer capability available. In the Northeast zone,
+congestion is more likely than in the West given that it is tied to lower-cost baseload and peaking
+hydro generators. In the west zone, capability is limited when natural gas-fired generators are online.
+
+4.3.2.3 Distribution
+While some large industrial consumers are directly connected to the transmission grid and purchase
+electricity from the Ontario electricity market, most industrial customers and smaller consumers,
+including residential consumers, are served by local distribution companies (LDCs). LDCs own and
+operate infrastructure to convert high-voltage electricity to a lower voltage, and deliver electricity to
+end-users.
+There are currently 78124 licensed electricity distributors operating in Ontario. In addition to
+delivering electricity to end-users, LDCs perform billing functions reflecting distribution charges and
+other charges, as described in Section 4.3.1.4.
+
+123 Independent Electricity System Operator (IESO). 2016c. IESO Report: Energy Storage. March. Accessed October 2017.
+http://www.ieso.ca/-/media/files/ieso/document-library/energy-storage/ieso-energy-storage-report_march-2016.pdf
+124 “Licensed companies and licensing information.” 05 Oct. 2017.OEB.ca. Ontario Energy Board, n.d. Web.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+134
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.3.2.4 Electricity Exports
+Ontario is part of North America’s large,
+interconnected electricity system, allowing for
+added ability to manage generation surpluses
+and shortfalls. Ontario currently has
+interconnections with Quebec and Manitoba in
+Canada, and Minnesota, Michigan, and New
+York in the United States (U.S.); and can import
+and export electricity on a continual basis to
+balance the province’s electricity system.
+
+FIGURE 4-30 ONTARIO NET EXPORTS, 2007-2016125
+
+Ontario’s interconnection with neighbouring
+jurisdictions allows for the efficient import and
+export of electricity based on the province’s
+supply and demand levels, as well as that of its
+neighbours. This allows for operational and
+planning flexibility, and enhances the reliability and cost-effectiveness of the electricity system.
+Ontario is a net exporter of electricity, given surplus generation in the province. Net exports have
+trended up from 2007 through to 2015, from 5.1TWh to 16.8TWh, but declined to 13.9TWh in 2016, a
+trend that is expected to continue based on forecasts for the demand and supply of electricity as
+outlined in the ensuing sections.
+Electricity exports are priced on the wholesale market, at the HOEP. As discussed in Section 4.3.1.4,
+the cost of generating and transmitting electricity is reflected in other charges paid by Ontario
+consumers. Therefore, while generating some revenue, exports do not allow for recovery of the full
+cost of supplying the electricity exported.
+
+4.3.3
+
+Electricity Forecasts
+
+With the combination of economic and population growth, and improved energy efficiency across
+homes and business, all taken within the context of climate change and environmental considerations,
+demand and supply profiles have changed over time. This has given rise to the need for a long-term
+planning approach to meeting the Province’s energy needs.
+The LTEP is produced by the Ministry and is the tool by which the province plans for long-term energy
+needs and sets out long term energy policies. The planning process that LTEP follows balances costeffectiveness, reliability, clean energy, community engagement, and places emphasis on conservation
+and demand management before building new generation.
+Ontario’s first LTEP was released in 2010 and was updated in 2013 and again in 2017. The 2017 LTEP,
+released in Fall 2017, covers the 2017-2035 planning horizon.
+
+125 Independent Electricity System Operator (IESO). 2016a. Ontario Planning Outlook. September 1. Accessed October 2017.
+http://www.ieso.ca/sector-participants/planning-and-forecasting/ontario-planning-outlook.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+135
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.3.3.1 Ontario’s Long-term Energy Plan
+The Province’s plans, as outlined in the 2013 LTEP, include:
+
+
+Encouraging conservation, which will drive planning, approval and procurement processes;
+
+
+
+Retracting on previous plans to construct two new nuclear reactors, while moving forward with
+plans to decommission the Pickering Generating Station;
+
+
+
+Increasing the installed capacity of renewable energy;
+
+
+
+Using natural gas-fired generation to allow for flexible response to changes in demand and
+supply;
+
+
+
+Considering opportunities for clean energy imports from other jurisdictions; and
+
+
+
+Exploring opportunities for the use of energy storage technologies.
+
+The 2017 LTEP builds on the plans as previously outlined, with key initiatives including:
+
+
+Ensuring affordable energy, with projections for the cost of electricity for large industrial
+customers to, on average, increase in line with inflation over the forecast period.
+
+
+
+Spreading the cost of existing electricity infrastructure over a longer period by refinancing a
+portion of the Global Adjustment.
+
+
+
+Supporting expanded access to natural gas.
+
+
+
+Ensuring a flexible energy system, with a Market Renewal initiative being launched.
+
+
+
+Maximizing use of Ontario’s existing electricity infrastructure to limit future increases in the cost of
+electricity.
+
+
+
+Removing barriers to the deployment of cost-effective energy storage.
+
+
+
+Continued commitment to energy conservation.
+
+Based on the LTEP, the expectation is that, by 2025, there will be a significant reduction in surplus
+baseload generation (SBG), with demand response strategies addressing peak demand needs.
+
+4.3.3.2 Ontario Planning Outlook
+The Ontario Planning Outlook (OPO) was prepared by the IESO in response to the Minister’s request
+for a technical report on the adequacy and reliability of Ontario’s electricity resources to support
+development of the 2017 LTEP. The report reflects the IESO’s planning outlook for 2016 through to
+2035 (IESO, 2017).
+The OPO provides an overview of Ontario’s current electricity system, including:
+
+
+A demand outlook
+
+
+
+Potential for resources to meet that demand
+
+
+
+Risks associated with various resources
+
+
+
+Costs of the electricity system
+
+
+
+An emissions outlook for the electricity system
+
+While Ontario currently generates excess electricity, an excess is never planned. Based on the
+projection included in the OPO, the expectation is that, by 2025, there will be a significant reduction
+in surplus baseload generation (SBG), as discussed further in Section 4.3.3.6, with demand response
+strategies addressing peak demand needs.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+136
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.3.3.3 Electricity Demand Forecast
+The OPO considers a range of electricity demand levels in Ontario in 2035, from 133 TWh to
+197 TWh, under four scenarios:
+
+
+Outlook A explores lower electricity demand
+
+
+
+Outlook B explores a level of demand that roughly matches current demand levels
+
+
+
+Outlooks C and D explore higher demand driven by policy choices stemming from Ontario’s
+Climate Change Action Plan, including assumptions around the adoption of electric vehicles and
+planned electrified transit projects
+
+The scenarios include varying assumptions regarding the level of conservation, more stringent
+building codes, and higher equipment standards.
+Through the LTEP, the Province is planning for a flat demand scenario as reflected in Outlook B, while
+allowing for flexibility to adjust to changes in demand. Additionally, conservation and demand
+response programs are expected to have a significant impact on reducing total and peak demand.
+Demand Expectations
+Under a flat demand outlook
+(Outlook B), total electricity demand is
+expected to marginally increase, at a
+compounded annual growth rate of
+0.16 percent, from 143.4 TWh in 2016
+to 147.8 TWh in 2035 (Figure 4-31).
+The stable demand outlook largely
+assumes that population and economic
+growth that would otherwise increase
+demand are counterbalanced by
+conservation measures.
+
+FIGURE 4-31 ONTARIO NET ENERGY DEMAND ACROSS
+DEMAND OUTLOOKS126
+
+The outlook assumes an uptick in
+electricity requirements for electric vehicles and planned electrified transit projects, including RER and
+light rail projects as approved at the date of the report. Taken together, these initiatives are projected
+to account for a total of 4 TWh in 2035, of which approximately 0.55 TWh is attributed to transit
+projects. Peak demand is expected to be relatively unchanged from 2016 to 2025, ranging from 23.9
+to 24.1 MW, and then increasing to 24.8 MW by 2035. Transportation is expected to account for
+2 percent of peak demand in 2035 (IESO, 2016).
+Under a higher demand outlook (Outlook D), in 2035 the total electricity demanded is projected to be
+197 TWh. This assumes an increase in residential and commercial electricity demand due to increased
+electrical space and water heating, accounting for a total increase in electricity demand of 30 TWh.
+Outlook D also assumes a shift to electricity based energy generation in the industrial sector, an
+increased number of electric vehicles (2.4 million by 2035), and electrification of transit, accounting
+for approximately 9 TWh and 0.65 TWh, respectively. Peak demand is expected to grow to 35.4 MW
+by 2035 (IESO, 2016).
+
+126 Independent Electricity System Operator (IESO). 2016a. Ontario Planning Outlook. September 1. Accessed October 2017.
+http://www.ieso.ca/sector-participants/planning-and-forecasting/ontario-planning-outlook.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+137
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+The difference between summer and winter
+peak varies across demand outlooks and across
+the forecast period. There is currently a
+difference of approximately 1,800 MW between
+summer and winter peak demand (Figure 4-32).
+Over the forecast period, under a stable
+demand outlook, the variance is expected to
+increase to 2,369 MW in 2036. Under higher
+demand outlooks, Ontario is expected to
+become a winter peaking province; if this
+occurs, the variance between summer and
+winter peak demand is significantly reduced by
+2025, and winter peak demand is projected to
+exceed summer peak demand by as much as
+6,900 MW in Outlook D128.
+
+FIGURE 4-32 NET SUMMER PEAK MINUS NET
+WINTER PEAK127
+
+Conservation and Demand Response Programs
+A significant percentage of the forecasted growth in electricity demand is expected to be offset by
+conservation programs and improved codes and standards. The LTEP includes a long-term
+conservation target of 30 TWh in 2032.
+Demand response programs provide a variety of incentives to encourage end-users to reduce
+electricity use during peak hours. Demand response initiatives led to a reduction in peak demand of
+approximately 1.8 gigawatt (GW) in 2015 and are expected to reduce peak demand by 10 percent, or
+approximately 2.5 GW by 2025.
+
+4.3.3.4 Electricity Supply Forecast
+Supply assumptions are based on existing
+resources that have been procured but are not
+yet in service, and resources that have neither
+been procured nor acquired as of the date of
+the OPO, but have been directed to meet
+provincial policy objectives.
+
+FIGURE 4-33 INSTALLED CAPACITY AND CAPACITY
+CONTRIBUTIONS129
+
+Assuming that all current resources continue
+until contract expiration and all nuclear
+refurbishments, as well as committed and
+directed resources, come into service as
+scheduled, total installed capacity is expected
+to slowly increase from 39.6 GW in 2016 to
+42.6 GW in 2035, 7 percent growth over the
+Source: (IESO, 2016)
+period. While the installed capacity increases,
+there will be an increasing reliance on renewable energy sources, which are, in the case of solar and
+wind, more variable. Accordingly, while installed capacity generally increases, except for a decline in
+the late 2020s, the capacity contribution of resources is generally unchanged over the forecast period.
+127 Independent Electricity System Operator (IESO). 2016a. Ontario Planning Outlook. September 1. Accessed October 2017.
+http://www.ieso.ca/sector-participants/planning-and-forecasting/ontario-planning-outlook.
+128 ibid.
+129 ibid.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+138
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Expectations for each source of electricity, based on current resources as well as committed and
+directed resources, are described in the following paragraphs.
+
+Nuclear
+While previous forecasts indicated the need for additional nuclear generating capacity, based on the
+current outlook, and given revised demand forecasts, additional capacity is not necessary.
+Accordingly, the Province is not planning to move ahead with plans to build additional nuclear plants
+and will proceed with plans to decommission the Pickering plant, which currently has six units in
+operation and an installed capacity of 3,100 MW. Two units will be retired at the end of 2022 and four
+units at the end of 2024.
+Nuclear energy is expected to account for 48 percent of Ontario’s electricity production in 2035
+The Province retains the option to build additional nuclear capacity if future needs dictate. It is the
+Ministry’s intention to maintain the licence granted by the Canadian Nuclear Safety Commission for
+the construction of new nuclear units.
+
+Hydro
+Ontario has significant additional hydro potential; however, most of the potential exists in relatively
+remote northern communities, and would, therefore, be developed at a relatively high cost. Hydro
+power is expected to account for 27 percent of total electricity production in 2035.
+
+Natural Gas
+The natural gas fleet allows for flexibility to respond to variability in renewable energy sources. This
+relatively low-carbon source is, therefore, an important part of Ontario’s supply mix. Natural gas
+production is expected to account for 9 percent of total electricity production in 2035.
+
+Wind, Solar and Bioenergy
+Wind, solar and bioenergy are expected to make more significant contributions to Ontario’s energy
+mix in 2025 and beyond. Collectively, these non-water renewables are expected to account for
+16 percent of electricity production in 2035, largely due to the expansion of wind electricity
+production.
+
+4.3.3.5 Forecasted Demand Relative to Supply
+The IESO’s assessment is that there are sufficient resources to meet flat demand levels (Outlooks B),
+with relatively low surplus generation during peak demand periods. The higher demand scenarios
+would, however, present challenges of scale and integration, requiring the deployment of multiple
+low-carbon options and significant investments in transmission and distribution systems. The OPO,
+however, underscores the need for more conservation, rather than investment in additional
+generating capacity, to meet the higher demand under those scenarios. The Province will be able to
+adapt to a lower demand scenario by choosing not to renew existing contracts for generation upon
+expiration, if the energy is not needed.
+The capacity contribution (that is, maximum output) of installed capacity relative to peak demand
+(including a planning reserve) under Outlook B is outlined below (Figure 4-34).
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+139
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 4-34 CAPACITY CONTRIBUTION VS. DEMAND
+Winter Capacity Contribution vs Demand
+
+Summer Capacity Contribution vs Demand
+45,000
+
+45,000
+
+40,000
+
+40,000
+
+35,000
+
+35,000
+
+30,000
+
+30,000
+
+25,000
+
+25,000
+
+20,000
+
+20,000
+
+Outlook A
+
+Outlook D
+
+Outlook A
+
+Summer Capacity Contribution
+
+Outlook D
+
+Winter Capacity Contribution
+
+Source: (IESO, 2016)130
+
+The forecast suggests that under a stable demand scenario, Ontario will generate sufficient electricity
+to meet peak demand. In a higher demand outlook such as Outlook D, the province is expected to
+have sufficient resources to meet demand through to 2022 however additional resources would be
+required to meet demand beyond 2022. It is however noted that demand and supply forecasts are
+based on a variety of assumptions, including median weather conditions and consumer preferences
+such as actual adoption of electric vehicles and use of electricity for home heating, to name a few.
+Extreme weather events or significant changes in consumer preferences can therefore have a
+significant impact on forecasts.
+
+4.3.3.6 Surplus Baseload Generation
+SBG refers to baseload generation in excess of provincial demand plus net exports. SBG is managed
+through exports, by diverting water from hydro turbines, by curtailing wind and solar generation, and
+by managing units at the Bruce Nuclear Generating Station.
+In FYE 2016, as shown on Figure 4-35, SBG
+amounted to approximately 9 percent of
+Ontario net demand. The OPO indicates that
+SBG is expected to decline through to 2035,
+largely due to the decommissioning of the
+Pickering Nuclear Generating Station and, from
+2020-2028, as units at the Darlington and Bruce
+Nuclear Generating Stations are being brought
+out-of-service for refurbishment in the 2020s.
+Periods of SBG will be further impacted by:
+
+FIGURE 4-35 SURPLUS BASELOAD GENERATION AS
+A PERCENTAGE OF NET DEMAND
+
+
+
+Variability in seasonal demand and supply
+patterns, with period of SBG being more
+prevalent in the spring and fall months
+
+
+
+Shifting demand patterns brought on by demand response programs that seek to reduce peak
+energy usage, thereby shifting demand to traditionally off-peak periods
+
+130 Independent Electricity System Operator (IESO). 2016a. Ontario Planning Outlook. September 1. Accessed October 2017.
+http://www.ieso.ca/sector-participants/planning-and-forecasting/ontario-planning-outlook.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+140
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+
+
+Increased uptake of electric vehicles, leading to increased demand for electricity overnight
+
+
+
+Increased use of electricity for heating homes
+
+
+
+Energy storage programs that will seek to store energy during periods of SBG, thereby limiting the
+availability of surplus electricity
+
+4.3.3.7 Forecasted Grid Capacity
+Capacity of the transmission network has implications for the location, size, and number of hydrogen
+generation facilities proposed to support Hydrail. Consideration would need to be given to
+forecasted capacity and congestion levels within each zone of the electricity system, which will have to
+be weighed against the cost associated with larger hydrogen generation and storage facilities, ability
+of the supplier to exercise flexibility in the timing of hydrogen production, and the cost of hydrogen
+transportation.
+While congestion in the system is currently manageable, future changes in demand and supply can be
+expected to increase congestion challenges as more variable and distributed energy resources come
+into service. Additionally, the retirement of the Pickering Nuclear Generating Station may increase
+flows from southwestern Ontario, resulting in higher congestion in the Southwest and Toronto zones.
+As Figure 4-36 shows, generation capacity in the
+Toronto and Bruce zones are expected to
+decline by 2020, due to a reduction in nuclear
+generation. Assuming flat demand, it can be
+expected that load congestion in the Toronto
+zone will be magnified, while generation
+congestion in the Bruce zone is expected to be
+somewhat alleviated, but not eliminated.
+
+FIGURE 4-36 ZONE GENERATION CAPACITY
+
+Generation capacity in the East, West, and
+Southwest zones is expected to increase.
+However, as noted in Section 4.3.2.2, these
+zones are currently uncongested, with some
+transfer capability.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+141
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.3.4
+
+Electricity Pricing
+
+Electricity prices in Ontario primarily comprise
+the HOEP and the GA. Transmission,
+distribution, regulatory, and other charges
+combined may also account for roughly
+20-30 percent of prices, and vary depending on
+location within the transmission grid.
+
+FIGURE 4-37 HOEP VS. GA
+
+The HOEP is the wholesale price of electricity
+and is determined in a real-time market,
+operated by the IESO. The HOEP changes
+hourly, based on demand and supply of
+electricity. It is significantly impacted by time of
+day, day of week, weather factors, and economic
+conditions.
+Every day, the IESO forecasts electricity demand for the days and weeks ahead. Generators and
+electricity importers submit offers to supply electricity and indicate the prices they are willing to
+accept. Large customers and exporters submit bids for electricity purchases at specified prices. The
+IESO accepts the lowest cost offers to supply electricity to meet demand. A new market clearing price
+is set every 5 minutes. The HOEP is the average of the 12 market clearing prices set in each hour. The
+impact of demand and supply forces on the electricity market results in a higher HOEP during peak
+demand periods and a lower HOEP during periods of excess supply (SBG).
+The GA is paid by all Ontario electricity customers, and reflects the net cost of electricity generation
+and the cost of delivering conservation programs. The GA varies monthly, adjusting for the difference
+between the HOEP and the cost of regulated and contracted generation.
+The main components of the GA are:
+
+
+GA-OEFC-NUG (M$) – Contracts administered by the Ontario Electricity Financial Corporation with
+existing generation facilities
+
+
+
+GA-OPG (M$) – Ontario Power Generation nuclear and baseload hydro generating stations
+
+
+
+GA-OPA (M$) – Contracts with the IESO (and with the former Ontario Power Authority) for new
+gas-fired generation, renewable facilities, energy from waste and biomass, nuclear
+refurbishments, as well as conservation programs.
+
+4.3.4.1 Electricity Pricing for Large Businesses
+Industrial customers with an average peak demand of over 1 MW and targeted manufacturing and
+industrial customers with peak demand of over 500 KW and under 1MW (collectively, Class A
+customers) are eligible for participation in the Industrial Conservation Initiative (ICI), which was
+introduced in 2010.
+Through the ICI the GA attributed to participating customers is calculated based on the customer’s
+percentage contribution to the top five peak Ontario demand hours, over a 12-month base period.
+The ICI, therefore, allows participating customers to manage their GA costs by reducing demand
+during peak periods, and allows the province to defer building new electricity infrastructure to meet
+peak demand. It is estimated that in 2016, the ICI helped to reduce peak electricity demand by
+approximately 1.3 GW.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+142
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+The peak demand factor (PDF) is calculated by taking the sum of the customer’s demand during the
+top five peak Ontario demand hours in the base period (May 1 to April 30), and dividing it by the total
+system consumption during those hours. The calculated ratio is the customer’s peak demand factor.
+The customer’s monthly GA cost is calculated by multiplying the PDF by the provincial GA cost in each
+of the ensuing 12 months (July 1 to June 30).
+A participating customer can manage their GA costs by reducing electricity use during forecasted
+peak hours. The IESO provides tools to track current and projected demand, along with a forecast of
+system conditions. Peak periods generally coincide with:
+
+
+Heat waves in the summer or cold snaps in the winter
+
+
+
+Weekday afternoons in the summer
+
+
+
+Early weekday evenings during the winter
+
+A customer who can significantly reduce electricity usage during peak hours will have relatively
+minimal GA costs. It is however noted, as discussed in sections 4.3.3.5 and 4.3.3.6, that a variety of
+factors can impact demand patterns and that demand patterns are expected to the change in the
+future. An important consideration for Hydrail is that peak demand hours may be more difficult to
+predict than they are presently.
+
+4.3.4.2 Policy Initiatives Impact on Electricity Prices in Ontario
+Electricity prices are driven by decisions of the past and those decisions impact prices long into the
+future. Policy initiatives or pricing regimes may either shift the cost of investments from one user
+group to another or defer costs to future generations, based on economic or social factors at play at
+the time of consideration. As history has shown in Ontario, electricity policy and investment priorities
+change over time and likely will continue to evolve as market conditions and government policy
+priorities evolve.
+The ICI is a policy initiative of the Government of Ontario that was designed to reduce peak demand
+and to support Ontario’s industrial sector. While the ICI has effectively achieved its objective to date,
+the policy could be challenged on merit, as it may be argued that the ability to shift consumption of
+electricity away from peak hours should not absolve a company of its obligation to share in the costs
+that the GA is designed to recover.
+Notwithstanding, it is noted that electricity pricing in Ontario is generally expected to move to more of
+a market-driven model. Under such a model, consumption during hours of high demand should
+ultimately result in higher electricity costs, with the reverse also applying. Accordingly, while the ICI
+may be terminated or decline in significance in the future, the principle upon which it is based will
+likely still apply.
+Other recent policy initiatives of the Province have led to an average 25 percent reduction in
+electricity prices for residential and small business customers in 2017 under the Fair Hydro Act, 2017.
+Initiatives under the Fair Hydro Act 2017 include refinancing of a portion of the GA to spread the cost
+of electricity investments over a longer time period, thereby reflecting the longer lifecycle of existing
+facilities, and sharing the costs with future generations.
+As outlined in the 2017 LTEP, the government is also considering measures to provide electricity rate
+assistance to non-Class A mid-sized customers (Class B customers). One such consideration is a
+change to the way the GA is charged to these customers, who currently pay the same GA charges
+regardless of time of use. It is not yet known whether these measures will impact the way GA costs are
+charged to other customers.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+143
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.3.4.3 Market Renewal
+Market Renewal is a set of initiatives intended to redesign Ontario’s electricity market, leading to
+reduced supply costs and increased flexibility. These initiatives will:
+
+
+Improve the way Ontario acquires supply to meet medium- and long-term needs;
+
+
+
+Enable the IESO to more cost-effectively schedule and dispatch electricity to meet demand as it
+changes from hour-to-hour and minute-to-minute; and
+
+
+
+Increase flexibility, enabling the IESO to more efficiently manage unexpected short-term changes
+to the system, like those that can be caused by variable generation such as wind and solar.
+
+Market renewal is expected to result in cost savings, given more efficient use of existing assets, which
+is consistent with the province’s long-term plans. It will also lead to greater market competition and a
+more flexible procurement process that is better aligned with system needs.
+
+4.3.4.4 Pricing Outlook
+Under Outlook B, the IESO expects that the average unit cost of operating the electricity system will
+gradually increase to $152/MWh by 2025, relative to $144/MWh in 2016. Thereafter, the cost is
+expected to generally decline to $131/MWh by 2035. The decline is based on the renewal of existing
+generating contracts at lower rates, as existing generators continue to operate at costs below existing
+contract rates, and given reduced investment in electricity resources.
+Under Outlook D, the cost of electricity in
+2025 is expected to range from $155/MWh to
+$160/MWh, given the need to invest in
+additional resources to meet higher demand,
+while keeping emissions low. The average
+unit cost is expected to generally decline,
+ranging from $137/MWh to $142/MWh by
+2035, as existing contracts are renewed at
+lower rates and higher volumes reduce the
+average cost of operation.
+
+FIGURE 4-38 CLASS A ELECTRICITY PRICE FORECAST
+
+The projection for the price of electricity for a
+typical large industrial customer, as presented
+in the 2017 LTEP is outlined in Figure 4-38.
+The all-in price of electricity, reflecting the HOEP, transmission, regulatory and other costs, and the
+GA, is expected to range from $102/MWh in 2025 to $116/MWh in 2035.
+
+4.3.5
+
+Implications for Hydrail
+
+4.3.5.1 Provincial Policy Objectives
+Electrification of transportation, both by means of overhead electrification and using HFC technology,
+is consistent with policy objectives as set out in the Premier’s mandate letter to the Minister of Energy.
+The use of HFC technology presents the added benefit of supporting the growth of the low-carbon
+economy and the reduction of GHG emissions, by potentially allowing for a broader replacement of
+diesel trains on the GO network with electric trains than would be possible through overhead
+electrification. Further to this, Hydrail could allow for load-shifting, by consuming electricity when
+there is SBG, versus adding to peak demand as would be the case with overhead electrification.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+144
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Hydrail, therefore, also could support the Province’s goal of driving efficiencies and limiting
+expenditure on new electricity infrastructure.
+
+4.3.5.2 Capturing SBG
+The assessment shows that, while the level of SBG is expected to decline, electricity production is
+expected to exceed Ontario net demand by 1-4 percent from 2024 to 2035. There are however
+seasonal variations in the level of SBG and, particularly given the increasing reliance on renewable
+energy in the province’s energy supply mix, weather related factors can further impact electricity
+generation, and therefore SBG. SBG is often available over short periods of time and to fully capture it
+would require an infrastructure build-out that would allow for the production and storage of hydrogen
+over short periods of time, which would be idle outside of these periods.
+The ability to harness SBG to produce hydrogen is a function of the scale of hydrogen production
+(current density) and storage (volume) infrastructure, relative to when the SBG is available. Using
+hydrogen production and storage assumptions from the Hydrail simulation model, along with
+demand projections as presented in the 2016 OPO, modelling work shows that only approximately
+14-35 percent of the annual amount of hydrogen required to support Hydrail can be produced from
+electricity supplied during periods of SBG over the 2025-2035 time frame. Furthermore, the same
+analysis shows that only 6-23 percent of operating days over the forecast period could be fully
+supplied by SBG.
+A further consideration is the province’s plans to incorporate energy storage technologies in
+managing the electricity system. The use of such technologies will lead to a further reduction in excess
+supply, as surpluses would be at least partially captured and stored by the province, thereby reducing
+the amount supplied to the market. The use of energy storage technologies would limit the ability of
+market participants to capture surplus baseload generation.
+Therefore, it is unlikely that the Hydrail System will be able to operate solely on electricity produced
+during periods of SBG. Accordingly, while the system would be able to avoid Ontario peak demand
+hours, therefore producing during off-peak hours, the system as currently designed, will not be able
+to consistently minimize the price of electricity, as it will be limited by the density of the hydrogen
+production facilities and the capacity of the hydrogen storage facilities.
+
+4.3.5.3 Electricity Pricing
+As noted in the preceding sections, the HOEP is market driven, with lower prices during periods
+where the supply of electricity exceeds demand. Further to this, based on the current pricing structure
+and government policy initiatives, the ability to consume electricity outside of peak provincial demand
+hours can allow for the elimination of GA costs. On this basis, assuming the current pricing and policy
+regimes remain in effect, Hydrail presents certain benefits in respect of the unit cost of electricity
+relative to overhead electrification. These benefits are derived from the flexibility to schedule
+hydrogen production outside of Ontario peak demand hours, thereby minimizing or avoiding GA
+charges, and at times of lower HOEP thereby realizing lower electricity costs. This benefit must be
+weighed against the increased rate of consumption of electricity (for traction) in the case of Hydrail
+relative to overhead electrification, which could somewhat negate the unit cost advantage of Hydrail
+when considering the total overall cost of electricity.
+A further consideration is the potential shift in provincial demand patterns and the impact this will
+have on the peak/off-peak variance in the HOEP. The production of hydrogen will result in an increase
+in demand for electricity during periods of hydrogen production, which, given the significant load it
+will represent, could cause upward pressure on prices during that period. Additionally, as the
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+145
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+province encourages the electrification of transit and demand response programmes, both of which
+shift demand away from peak periods, it can be expected that there will be increased demand for
+electricity during traditional off-peak periods, which could in-turn increase the HOEP during these
+periods. This will likely result in a reduction of the variance in HOEP, and therefore also a reduction in
+cost advantage for consumption during traditional off-peak periods. Should this be the case, the unit
+cost advantage of Hydrail relative to overhead electrification will be partially eroded.
+The government’s ICI program is intended to help flatten out the daily energy consumption profile by
+shifting demand to off peak periods. The success of these programs can be viewed as a risk to the
+Hydrail business case, especially considering the significant electricity requirements to produce
+hydrogen at the required scale for the rail network.
+
+4.3.5.4 Location of Hydrogen Generation Facilities
+As noted in Section 4.3.2.2, there are load and generation constraints in some zones across the
+Ontario electricity system. At present, decentralized hydrogen production to support Hydrail is being
+considered. Relative to centralized production, decentralized production would allow for smaller
+loads being drawn across different zones of the grid, from production facilities located along each line
+of the GO network. There are pros and cons to decentralized production, depending on the capacity
+constraints within the zones being contemplated and the location of potential hydrogen generation
+facilities relative to the GO network. Such matters would be resolved through detailed planning and
+procurement activities.
+The GO network extends across the East, Essa, Toronto and Southwest zones. In the East and
+Southwest zones, generation either exceeds or meets peak demand, with generation capacity
+expected to increase by 2020. Both zones are generally uncongested, and should therefore allow for
+additional loads. The Lakeshore East line extends into the East zone, while the Lakeshore West and
+Kitchener lines extends into the Southwest zone.
+In the Toronto and Essa zones, resources are less than peak demand, and both zones are load
+congested. The situation within the Toronto zone is expected to be magnified by the anticipated
+decommissioning of the Pickering nuclear generating plant by 2024.
+All GO lines run through the Toronto zone, however there may be locational challenges within the
+zone (space, property zoning, environmental, price), which may be compounded by limited public
+acceptance, particularly given the urban setting, as discussed in Section 4.8. The Barrie, Stouffville and
+Richmond Hill lines all run through the Essa zone.
+A decentralized approach to hydrogen production (described in Section 4.1) would involve the
+establishment of generation facilities along each line of GO network, crossing each of the four zones
+discussed. The significant advantage of decentralized generation is the cost advantage of smaller
+facilities along each line of the GO network. Based on the foregoing, there may however, be other
+challenges associated with this approach. One significant challenge is the limited capacity within
+Toronto, a situation that is expected to persist for the foreseeable future.
+A similar challenge would also be faced in the Essa zone. Further to this, consideration should also be
+given to the competing demands of electric vehicles, the continued adoption of which the 2017 LTEP
+acknowledges could have a significant impact on the province’s distribution network. Should
+hydrogen generation facilities be established within these zones, careful planning would be required
+to ensure hydrogen generation does not inadvertently stress local grids.
+Centralized hydrogen production facilities could be placed within the East zone, along the Lakeshore
+East line. In a semi-centralized scenario, hydrogen generation facilities could be located in the East
+and Southwest zones, along the Lakeshore East, Lakeshore West and Kitchener Lines.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+146
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.3.6
+
+Electricity Pricing Forecast for Hydrail
+
+Electricity prices for RER under Hydrail have been projected based on forecasted electricity prices in
+Ontario and the Hydrail production simulation model. The electricity price assumptions are outlined in
+Table 4-27.
+TABLE 4-27 ELECTRICITY PRICE ASSUMPTIONS
+Price Component
+Hourly Ontario
+Electricity Price
+(HOEP)
+
+Assumptions
+The forward looking HOEP was estimated by IESO using the following logic:
+
+
+Historical HOEP pattern for each year was developed by dividing each hourly HOEP by the
+annual average to get the yearly mean-normal pattern.
+
+
+
+The most representative historical HOEP pattern was selected for each of the projected years
+(2017-2035)
+
+
+
+Historical HOEP patterns were scaled to the appropriate annual average marginal cost using
+numbers in-line with the 2017 LTEP.
+
+Global Adjustment
+
+The forward-looking GA charges are based on the forecast presented in the 2013 LTEP for a
+typical industrial customer. It is noted that, with the introduction of Hydrail, projected GA charges
+may be impacted, as discussed in Section 4.3.4. An assessment of the impact of same is,
+however, not within the scope of this study, and accordingly no adjustments have been made to
+the forecasts presented in the LTEP.
+
+Regulatory and
+Transmission charges
+
+The forward looking regulatory and transmission charges are based on the forecast presented in
+the 2013 LTEP.
+
+The Hydrail Operational Simulation Model (described in Section 4.4.1) includes an algorithm that uses
+the HOEP price and the amount of hydrogen required for the Hydrail System to create a hydrogen
+production schedule that minimizes the cost of electricity, subject to the capacity of the hydrogen
+production and storage facilities.
+Given the optimized production schedule as described above, no electricity would be consumed
+during Ontario peak hours and therefore, under the ICI, the system would not be subject to GA. The
+ICI is however, a policy initiative and therefore subject to changes as discussed in section 4.3.4.1. On
+this basis, two pricing scenarios were developed based on whether the system is subject to GA
+charges.
+In the low case, the electricity price is estimated based on the assumption that the system operator
+pays no GA charge. In the high case, it is assumed that the ICI is discontinued and therefore, the
+operator pays full GA charges.
+The electricity pricing scenarios for Hydrail are presented in Table 4-28.
+TABLE 4-28 ELECTRICITY PRICE FORECAST FOR HYDRAIL BASED ON ONTARIO’S 2017 LTEP
+2024
+
+2025
+
+2026
+
+2027
+
+2028
+
+2029
+
+2030
+
+2031
+
+2032
+
+2033
+
+2034
+
+2035
+
+Low Case ($/MWh)
+
+34.2
+
+35.6
+
+41.2
+
+39.3
+
+40.3
+
+41.5
+
+42.6
+
+43.8
+
+44.4
+
+45.2
+
+46.4
+
+48.4
+
+High Case ($/MWh)
+
+68.7
+
+61.7
+
+77.1
+
+73.9
+
+74.6
+
+73.8
+
+72.7
+
+72.9
+
+74.2
+
+75.2
+
+76.1
+
+77.9
+
+The 10-year average electricity price for Hydrail is estimated at $46 /MWh and $76 /MWh without and
+with GA, respectively.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+147
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.3.7
+
+Summary of Key Findings
+
+The foregoing assessment of the Ontario electricity system, pricing and policies indicates that in
+considering electrification of the GO network with Hydrail, electricity pricing assumptions must
+consider:
+
+
+The possibility of being unable to consistently capture SBG due to an increase in demand for
+electricity, combined with relatively stable supply, increased use of energy storage technologies
+and reducing the occurrence of SBG. Due to these factors as well as the limitations of the
+production and storage facilities, conservative assumptions should be made about capturing SBG
+and the electricity prices associated with off-peak energy usage.
+
+
+
+A change in electricity pricing policy negatively impacting on electricity pricing. As noted in
+Section 4.3.4, the current pricing regime may change such that the ability to avoid GA charges
+does not persist in the future. This will have a significant impact on the overall cost of electricity
+and will reduce the unit price advantage that would be afforded to Hydrail under the current
+regime.
+
+
+
+A shift in demand profiles leading to a smaller differential in peak and off-peak pricing peak. The
+load presented by Hydrail is significant; therefore, it will impact provincial electricity, given the
+shift in the demand profile during off-peak periods. This will reduce the differential between peak
+and off-peak hours, thereby reducing the unit price advantage of Hydrail relative to overhead
+electrification.
+
+
+
+The impact of the added load required by Hydrail on overall electricity prices (given an increase in
+demand). In addition to impacting electricity pricing during off-periods, the load introduced by
+Hydrail will increase overall demand for electricity, also driving an overall increase in the price of
+electricity, given the expectation for supply to remain relatively constant. A further consideration is
+the impact on the GA, as an increased load consuming what would otherwise be surplus
+electricity, should result in a general reduction in the GA charges applied across all customers.
+
+Further to this, in determining whether to take a centralized or decentralized approach to hydrogen
+generation, careful consideration should be given to load constraints within different zones of the
+electricity system, and the implication for the ability to operate electrolyzers without any destabilizing
+effects on the electricity grid.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+148
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.4
+
+Costs and Benefits
+
+One of the primary goals of the feasibility study is to analyze the anticipated financial impact of Hydrail
+on the RER program. To perform this analysis in a way that will allow for a comparison of Hydrail and
+the currently contemplated electrification scenarios, models that are in use by Metrolinx were used as
+the starting point for the analysis presented in this section.
+The financial impact was analyzed by following six steps:
+1. The GO RER network was modelled by CNL (the “Hydrail Operational Simulation Model”) to
+determine the requirements of a Hydrail System (quantity of hydrogen needed, infrastructure
+requirements, fuelling).
+2. The IBC model from 2014 was analyzed to gain an understanding of how the BCR was developed
+and to identify the key items that would change under a Hydrail scenario.
+3. Relevant cost inputs from the Hydrail simulation model were used to update the IBC model. An
+interface sheet was developed to capture capital, capital replacement, operating, and
+maintenance costs for Hydrail.
+4. Low- and high-cost scenarios were developed for key input variables (for example, cost of
+electricity, capital costs of Hydrail components and life cycle of assets). These assumptions were
+used to develop a range of costs for the Hydrail System.
+5. A sensitivity analysis was then performed to determine which cost inputs have the most significant
+impact on total cost. Those costs were then further scrutinized.
+6. Based on the results of the sensitivity analysis, Low- and high-cost ranges were finalized to allow
+for comparison with overhead electrification.
+The financial modelling process is shown in Figure 4-39. Each step in the modelling process will be
+reviewed in more details in the sections that follows.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+149
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 4-39 HYDRAIL MODELLING PROCESS
+Modeling Stage
+Review of RER
+Benefit‐Cost
+Ratio (BCR)
+
+Incremental Benefits of RER
+
+÷
+
+• New & existing transit user time
+savings
+• Peak & off‐peak road user time savings
+• Automobile operating cost reduction
+• Safety benefits
+
+Operating Costs:
+• Crew, fuel costs
+• Rolling stock, infrastructure
+maintenance
+• Electrification OPEX
+• Other
+
+BCR
+Capital Costs:
+• Infrastructure, fleet, car
+parking, maintenance facility,
+property costs
+• Union station costs
+• Electrification CAPEX
+• Other
+
+3.07
+
+Incremental Costs of RER Hydrail
+
+Hydrail System
+Modeling
+Unchanged
+
+Comparative IBC
+Analysis
+
+Incremental Costs of RER
+
+Unchanged
+
+Hydrail simulation including updates to costs associated with electrification,
+including high/low estimations for:
+• CAPEX
+• OPEX
+• Maintenance
+
+Updated to include incremental Costs of RER hydrail
+
+2.65 – 3.01
+
+Identify three cost inputs which explain variability in capital
+and operating costs
+
+Sensitivity
+Analysis
+
+Unchanged
+
+Hydrial CAPEX, OPEX and Maintenance cost most sensitive to:
+• Price of fuel cells ($/kW)
+• Lifetime of fuel cells (hours)
+• Cost of electricity ($/MWh)
+
+Notes:
+CAPEX = capital expense
+OPEX = operating expense
+
+4.4.1
+
+Review of RER Benefit to Cost Ratio Development
+
+The model used for purposes of the feasibility study is the IBC for RER. The IBC model was developed
+by a team of Metrolinx staff and consultants in April 2014 in response to the commitment made by the
+Province of Ontario to implement RER within a 10-year period. The IBC model outlines the business
+case to support RER. Outputs include net benefits, system costs and BCRs. Net benefits explain
+whether a scheme is actually worthwhile as a whole, and if it is, by how much. For instance, time
+savings to existing and new transit users is a benefit of RER. A complete list of benefits is provided in
+the ensuing sections. The BCR also shows how much confidence is required in the accuracy of the
+cost and revenue estimates. System costs include capital costs and operating costs, which will be
+discussed in detail in the following sections.
+The IBC model includes virtually every aspect of the GO rail system and models the impact of
+converting the system from a diesel-powered commuter railway to an electric regional express system
+that will provide faster, more frequent and all-day services across the Greater Toronto and Hamilton
+Area (GTHA). The model includes a financial case (i.e., estimation of capital costs, overheads,
+revenues, other income), an economic case (i.e., estimation of benefits), and a deliverability and
+operations case (i.e., Union Station, maintenance facilities, and operating and maintenance cost
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+150
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+estimates). The IBC model evaluates benefits and costs associated with five different build-out and
+operating scenarios131, including:
+
+
+Scenario 1: Do Minimum - Peak-focussed limited capital with no electrification.
+
+
+
+Scenario 2: Two-Way All-Day - Enhanced diesel service on all corridors with no electrification.
+
+
+
+Scenario 3: 10-Year Plan - Frequent service on most inner corridors with limited electrification.
+
+
+
+Scenario 4: Full Build (Beyond 10-Year Plan) - Frequent service on all inner corridors with full
+electrification.
+
+
+
+Scenario 5: Optimized (10-Year Plan Optimized) - Frequent service on most inner corridors with
+significant electrification will be achieved under this scenario.
+
+The IBC model evaluates each scenario over 60 years, from January 1, 2015 to December 31, 2074.
+All monetary values are in 2014 Canadian dollars. Except where otherwise indicated, future values are
+presented as net present value (NPV), using a real discount rate of 3.5 percent per year. The model
+has provision for escalation of many costs and for some other key assumptions, including train crew
+wage rates, diesel fuel, traction electricity, cost of driving, value of time (VOT) and average GO rail
+fares. Automobile operating costs are assumed to rise at 0.7 percent per year in real values, while
+VOT is assumed to increase at 1.6 percent per year in real values. All benefit and cost figures are
+calculated as incremental to the Do Minimum scenario, which forms the base case.
+Examples of variables included in the IBC model include project timing, rolling stock and fleet
+configurations, train services, network infrastructure and connectivity, track ownership, station and
+maintenance facilities, fares, ridership/demand, economic benefits, bus operations, parking, and
+others to enable monitoring of economic attractiveness. Figure 4-40 illustrates the modular
+construction of the model.
+
+131 GO RER Initial Business Case
+http://www.metrolinx.com/en/regionalplanning/projectevaluation/benefitscases/GO_RER_Initial_Business_Case_EN.pdf
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+151
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 4-40 MODULAR CONSTRUCTION OF THE IBC MODEL
+
+To the extent possible, the IBC model reflects the structure of costs and understanding of passenger
+behaviour. Unit rates and total rates of growth, including costs, revenues and productivity factors,
+have been calibrated against actual experience, either by GO or by comparable operators.
+Infrastructure capital costs are based on recent GO project costs. The IBC model can be used to test
+different service options, assumptions and policies.
+Table 4-29 includes key economic, cost, and policy assumptions included in the IBC model.
+TABLE 4-29 KEY ASSUMPTIONS INCLUDED IN THE IBC MODEL
+Item
+
+Assumption
+
+Project Life
+
+60 years
+
+Discount Rate
+
+3.5% percent
+
+Implementation
+
+All new services commence 2024
+
+Underlying Demand Growth
+
+2.3% per year on average (varies by route) to 2044; in all
+scenarios, peak capacity is added to maintain current
+average train loads
+
+Fares
+
+No changes to 2015 fare structures; no real increases in
+fares (i.e., no fare increases ever)
+
+Other Charges
+
+Other charges are assumed, represented by a potential
+parking charge implemented before the end of the RER
+program
+
+Costs
+
+No real increase in train crew labour, diesel fuel or
+electricity costs
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+152
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-29 KEY ASSUMPTIONS INCLUDED IN THE IBC MODEL
+Item
+
+Assumption
+
+Auto Operating Costs
+
+$0.63 per kilometre, increasing at 0.7% per year to 2044
+
+Environmental Assessment, Engineering and Design
+
+15% percent of base capital costs
+
+Infrastructure (Corridors)
+
+Contingency – 50% of base capital costs
+Productivity and resource factor – 25% of base capital costs
+
+Infrastructure (System-wide components)
+
+Contingency – 50% of base capital costs
+
+Costs in the IBC Model
+The IBC model includes capital and operating costs as categorized in Table 4-30.
+TABLE 4-30 CATEGORIZATION OF COSTS IN THE IBC
+Capital Costs
+Infrastructure (stations, tracks, retaining walls)
+Electrification capital costs
+Property
+Car parking
+Fleet
+Union Station capital costs
+CN and CP Accommodation
+CBTC signalling system
+PTC
+Electrification of Willowbrook
+EMU Maintenance Facility
+Other
+Operating Costs
+Crew
+Fuel
+Electricity for Traction
+Rolling Stock Maintenance
+Infrastructure Maintenance
+User Charges - Plant and Roadway
+Other
+Notes:
+CN = Canadian National Railway
+CP = Canadian Pacific Railway
+PTC = positive train control
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+153
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+IBC Model: Capital Costs
+Capital cost estimates were completed in 2014 based, wherever possible, on GO’s most recent
+project experience. This is the case mostly with track, stations, civil infrastructure (such as bridges),
+retaining walls, noise walls, road-rail and rail-rail grade separations, conventional signalling, diesel
+locomotives, unpowered bi-level cars and property acquisition. Electrification, electric rolling stock,
+and advanced train control prices were based on a range of industry sources, both published and
+confidential. Infrastructure costs include engineering costs and contingencies.
+As part of RER, many existing stations will require new platforms and, therefore, additional access
+tunnels and shelters may be required. In some cases, stations will undergo significant change due to
+additional track or realignment for bus interchanges. Passenger pick-up will also require modification
+to support increased ridership. Additional property may be required at many station locations. The
+model also accounted for increased parking requirements at expanded stations.
+For RER, additional tracks are required at various locations on each corridor. Typically, hourly two-way
+service requires a passing track, while a full second track is required where trains operate every
+15 minutes. A third or fourth track is required where there are express services or where tracks are
+shared between two or more services, which may include inter-city rail services and freight services.
+In all scenarios, costs to install Positive Train Control (PTC132) signalling systems on new track were
+included. PTC is a set of highly advanced safety technologies designed automatically stop a train
+before certain types of accidents occur. It was also noted that, although not yet a legal requirement in
+Canada, systems similar to PTC are installed on many RER systems, and were required on passenger
+rail routes in the U.S. at the time of publishing the report.
+Union Station is the heart of the GO network, and will continue to be the main destination for peak
+commuters from across the GTHA. It is anticipated it will also become a significant interchange point
+within the GO rail network and attract greater inbound flows of boarding passengers than is the case
+today. Also, there is the potential to attract more trips connecting places on either side of Union
+Station, which could be a benefit of running more trains through the station as opposed to
+terminating many train routes at Union Station, as is common practice today. Improvements to the
+tracks on either side of Union Station and to platform infrastructure will enable the number of trains
+RER will schedule to pass through and serve Union Station.
+
+IBC Model: Operating Costs
+Operating cost rates were calculated in 2014, mostly from existing GO costs, as determined from
+analysis of GO general ledger documents. Costs were calculated based on the service levels as
+defined, driven by train crew hours, train kilometres, route kilometres, or vehicle kilometres as
+appropriate.
+Diesel fuel and traction electricity consumption and costs were estimated based on data presented in
+the 2010 GO electrification study and actual GO experience. As with diesel prices, no long-term
+change was assumed in electricity prices.
+Other operating costs in the IBC include payments to the CN and the CP for track use and dispatching
+costs that are calculated from existing charges, adjusted for train-kilometres; rolling stock
+maintenance costs that are based on Canadian and U.K. experience, including GO’s existing contract
+
+132 Positive Train Control is a system of functional requirements for monitoring and controlling train movements and is a type of train
+protection system.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+154
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+for the operation of diesel trains; and infrastructure maintenance that includes costs related to track
+maintenance, signalling infrastructure, and other fixed infrastructure costs.
+
+IBC Model: Benefits
+Most of the benefits were estimated based on the ridership that was forecast on RER. Note that
+increments were for future years, with and without RER. In other words, the comparison was between
+what the system would look like under Scenario 1 – Do Minimum and the contemplated system
+expansion scenarios. Benefits quantified in the IBC model are transport-related benefits that are
+categorized as follows:
+
+
+Time savings to existing and new transit users.
+
+
+
+Auto cost savings to drivers switching to transit.
+
+
+
+Quality benefits such as improved comfort, convenience and reliability for transit users.
+
+
+
+Safety benefits, primarily reduced accident costs.
+
+
+
+Crowding benefits to transit users.
+
+
+
+Road-user benefits, cost and time savings to motorists from reduced congestion.
+
+The IBC also considered wider economic and environmental benefits, but these were not captured by
+the modelling exercise so were not included in the calculation of the BCRs.
+
+IBC Model: Benefit to Cost Ratios
+The BCRs provided information to decision makers regarding how the overall benefits compare to the
+overall costs. A ratio greater than one (for example, 2:1) means that the net benefits outweigh the
+costs. A ratio less than one (for example, 1:3) means that the costs outweigh the benefits. In the IBC
+model, the ratios were calculated by dividing the incremental benefits of a given scenario by the
+incremental costs of a given scenario.
+The magnitude of the result also communicated important information about the confidence that
+decision makers can have in the result. If the BCR is, for example, 3:1, then decision makers can have a
+high level of confidence that a scenario is beneficial. The actual costs would have to be three times
+higher, or revenues or other benefits one-third of what is expected, before the scenario would prove
+not to be beneficial. If the estimated BCR is close to 1:1, then any cost overrun or ridership shortfall
+could bring the result below 1:1, making the scenario as proposed not worthwhile.
+
+IBC Model: Cost Factors
+As outlined previously inTable 4-29, the IBC applied several cost factors and contingencies to the
+capital costs for overhead electrification. These cost factors include:
+
+
+A cost factor for Environmental Assessment, Engineering and Design that is 15 percent of base
+capital costs.
+
+
+
+A construction contingency for the on-corridor infrastructure that is 50 percent of base capital
+costs.
+
+
+
+A productivity and resource cost factor that is 25 percent of base capital costs for on-corridor
+infrastructure.
+
+
+
+A construction contingency on system-wide infrastructure components of 50 percent of base
+capital costs
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+155
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Result of the IBC
+The analysis of BCRs in the IBC resulted in the recommendation that Metrolinx proceed with
+Scenario 5. Scenario 5 was subsequently adopted by the Province as the plan for RER. Under
+Scenario 5, GO would operate all-day services every 15 minutes to Aldershot, Mount Pleasant, Aurora,
+Unionville and Oshawa and introduce electrification to Bramalea, Barrie, Stouffville and Pearson
+Airport. Electric trains would replace diesels on some or all of the Lakeshore East and West, Kitchener,
+Barrie, and Stouffville lines. Under this scenario, the Milton and Richmond Hill lines would continue to
+operate at peak times only, using diesel locomotives.
+
+4.4.2
+
+Hydrail System Modelling
+
+Key Characteristics of Cost Estimation
+According to the cost estimating and assessment guide published by the United States Government
+Accountability Office (GAO), a cost estimate should have certain basic characteristics as listed in
+Table 4-31.
+TABLE 4-31 BASIC CHARACTERISTICS OF COST ESTIMATES133
+Characteristic
+
+Description
+
+
+Estimator must be provided with the system description, ground rules and
+assumptions, and technical and performance characteristics
+
+
+
+Estimate's constraints and conditions must be clearly identified to ensure the
+preparation of a well-documented estimate
+
+
+
+All stakeholders should be involved in deciding mission need and requirements and in
+defining system parameters and other characteristics
+
+
+
+Data should be independently verified for accuracy, completeness, and reliability
+
+
+
+Numerous sources of suitable, relevant, and available data should be used
+
+
+
+Relevant, historical data should be used from similar systems to project costs of new
+systems; these data should be directly related to the system's performance
+characteristics
+
+
+
+A standard work breakdown structure (WBS), as detailed as possible, should be used,
+refining it as the cost estimate matures and the system becomes more defined
+
+
+
+The work breakdown structure ensures that no portions of the estimate are omitted
+and makes it easier to make comparisons to similar systems and programs
+
+Provision for program risk
+and uncertainty
+
+
+
+Uncertainties should be identified and allowance developed to cover the cost effect
+
+
+
+Known costs should be included and unknown costs should be allowed for
+
+Recognition of inflation
+
+
+
+The estimator should ensure that economic changes, such as inflation, are properly
+and realistically reflected in the life-cycle cost estimate
+
+
+
+Recognition of excluded costs
+
+
+
+All costs associated with a system should be included; any excluded costs should be
+disclosed and given a rationale
+
+Independent review of
+estimates
+
+
+
+Conducting an independent review of an estimate is crucial to establishing confidence
+in the estimate; the independent reviewer should verify, modify, and correct an
+estimate to ensure realism, completeness, and consistency
+
+Revision of estimates for
+significant program changes
+
+
+
+Estimates should be updated to reflect changes in a system’s design requirements.
+Large changes that affect costs can significantly influence program decisions
+
+Clear identification of task
+
+Broad participation in
+preparing estimates
+Availability of valid data
+
+Standardized structure for
+the estimate
+
+133 US GAO Cost Estimating and Assessment Guide, 2009
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+156
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+The Cost Estimating Process
+At the feasibility stage of project evaluation, it is important to understand how a cost estimate is
+developed to understand the level of certainty associated with that estimate; this process is illustrated
+on Figure 4-41.
+FIGURE 4-41 THE COST ESTIMATING PROCESS
+
+1. Define
+the
+estimate’s
+purpose
+
+2. Develop
+the
+estimating
+plan
+
+3. Define
+the
+program
+
+4. Determine
+the estimating
+structure
+
+5. Identify
+ground rules &
+assumptions
+8. Conduct
+sensitivity
+
+6. Obtain
+the data
+
+7. Develop the point estimate and
+compare it to an independent cost
+estimate
+
+9. Conduct a
+risk and
+uncertainty
+analysis
+
+The first step involved in cost estimating is defining the estimate’s purpose. At this stage, the project
+team will also define the required level of detail and the overall scope of the costing exercise. Cost
+estimates have two general purposes: (1) to assist in the evaluation of affordability of a project or
+program and to inform the selection of alternative systems and solutions, and (2) to support the
+budget process by providing estimates of the funding required to execute a program134.
+In the case of the Hydrail feasibility study, the cost estimate serves both purposes; it is designed
+primarily to assist in the evaluation of alternative solutions but will also contribute to an understanding
+of the potential budget implications of a Hydrail System over the life of the service. All costs directly
+related to electrification with Hydrail were modelled and updated in the IBC model. All other costs,
+including station improvements, were excluded from the Hydrail costing exercise.
+The second step involved in the estimating process is the development of an estimating plan. For
+Hydrail, this involved the use of specialist teams to develop cost estimates for the hydrogen related
+components of the system. These estimates were then incorporated into IBC model.
+The next five steps (steps three through seven) are the beginning of an iterative process that leads to
+a point estimate of the program cost. The details of these steps are described in Table 4-32.
+
+134 US GAO Cost Estimating and Assessment Guide, 2009, pg. 47
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+157
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-32 DESCRIPTION OF STEPS INVOLVED IN DEVELOPING A POINT COST ESTIMATE135
+Step
+
+Description
+
+
+
+
+
+
+Identify the program's purpose and its system and performance characteristics and all
+system configurations;
+Any technology implications;
+Its relationship to other existing systems;
+System quantities for development, test, and production;
+Deployment and maintenance plans
+
+4. Determine estimating
+structure
+
+
+
+
+
+
+Define a work breakdown structure (WBS) and describe each element in a WBS dictionary;
+Choose the best estimating method for each WBS element;
+Identify potential cross-checks for likely cost and schedule drivers;
+Develop a cost estimating checklist.
+
+5. Identify ground rules
+and assumptions
+
+
+
+
+Clearly define what the estimate includes and excludes;
+Identify global and program-specific assumptions, such as the estimate's base year,
+including time-phasing and life cycle;
+Identify program schedule information by phase and program acquisition strategy;
+Identify any schedule or budget constraints, inflation assumptions, and travel costs;
+Specify equipment the government is to furnish as well as the use of existing facilities or
+new modification or development;
+Identify prime contractor and major subcontractors;
+Determine technology refresh cycles, technology assumptions, and new technology to be
+developed;
+Define commonality with legacy systems and assumed heritage savings;
+Describe effects of new ways of doing business.
+
+3. Define program
+characteristics
+
+
+
+
+
+
+
+
+
+
+6. Obtain data
+
+
+
+
+
+
+
+
+7. Develop point
+estimate and compare it
+to an independent cost
+estimate
+
+
+
+
+
+
+
+
+
+
+Create a data collection plan with emphasis on collecting current and relevant technical,
+programmatic, cost, and risk data;
+Investigate possible data sources;
+Collect data and normalize them for cost accounting, inflation, learning, and quantity
+adjustments;
+Analyze the data for cost drivers, trends, and outliers and compare results against rules of
+thumb and standard factors derived from historical data;
+Interview data sources and document all pertinent information, including an assessment of
+data reliability and accuracy;
+Store data for future estimates.
+Develop the cost model, estimating each WBS element, using the best methodology from
+the data collected, and including all estimating assumptions;
+Express costs in constant year dollars;
+Time-phase the results by spreading costs in the years they are expected to occur, based
+on the program schedule;
+Sum the WBS elements to develop the overall point estimate;
+Validate the estimate by looking for errors like double counting and omitted costs;
+Compare estimate against the independent cost estimate and examine where and why
+there are differences;
+Perform cross-checks on cost drivers to see if results are similar;
+Update the model as more data become available or as changes occur and compare
+results against previous estimates.
+
+135 Adapted from GAO Cost Estimating and Assessment Guide, 2009
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+158
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+The eighth step in the estimating process involves a sensitivity analysis. The sensitivity analysis is
+designed to reveal how the cost estimate is affected by a change in a single assumption. The cost
+estimator must examine the effect of changing one assumption or cost driver at a time while holding
+all other variables constant. By doing so, it is easier to understand which variable most affects the cost
+estimate. In some cases, a sensitivity analysis can be conducted to examine the effect of multiple
+assumptions changing in relation to a specific scenario.
+Regardless of whether the analysis is performed on only one cost driver or several within a single
+scenario, the difference between sensitivity analysis and risk or uncertainty analysis is that sensitivity
+analysis tries to isolate the effects of changing one variable at a time, while risk or uncertainty analysis
+examines the effects of many variables changing all at once.
+The sensitivity analysis can be useful for identifying areas where more design research could result in
+less production cost or where increased performance could be implemented without substantially
+increasing cost.136 For Hydrail, sensitivity analysis was used to narrow focus on the variables that had
+the largest impact on the cost of the Hydrail program; these variables were subsequently reviewed in
+further detail to refine the estimate of the cost input.
+The final step in the estimating process is the risk and uncertainty analysis. Because cost estimates are
+a prediction of future program costs, uncertainty is always associated with them. For example, data
+from the past may not always be relevant in the future, because new manufacturing processes may
+change a learning curve slope or new composite materials may change the relationship between
+weight and cost. Regulatory conditions can also impact costs. Moreover, a cost estimate is usually
+composed of many lower-level WBS elements, each of which comes with its own source of error.
+Once these elements are added together, the resulting cost estimate can contain a great deal of
+uncertainty.137 This step of the estimating process involves evaluating the risk and uncertainty
+associated with a project and incorporating the potential cost of this risk and uncertainty into the total
+cost estimate.
+Risk and uncertainty reflect the fact that, because a cost estimate is a forecast, there is always a chance
+that the actual cost will differ from the estimate. Lack of knowledge about the future is only one
+possible reason for the difference. Another equally important reason is the error resulting from
+historical data inconsistencies, assumptions, cost estimating equations, and factors typically used to
+develop an estimate.138
+In the early phases of any program, knowledge about how well technology will perform, whether the
+estimates are unbiased, and how external events may affect the program is imperfect. To enable good
+decision making, the program estimate must reflect the degree of uncertainty.139
+Estimates are more uncertain at the beginning of a project because less is known about the detailed
+requirements and the opportunity for change is great. As the project progresses, requirements
+become better defined and risk better understood. As this happens, costs become more certain. In
+many cases, costs also increase as project development progresses due to a better understanding of
+additional requirements translating into previously unforeseen costs. This progression is illustrated in
+Figure 4-42.
+
+136 US GAO Cost Estimating and Assessment Guide, 2009, pg. 147-148
+137 ibid., pg. 153
+138 ibid.
+139 ibid., pg. 154
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+159
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 4-42 CHANGES IN COST ESTIMATE UNCERTAINTY ACROSS THE PROJECT DEVELOPMENT
+LIFECYCLE140
+
+It is typical to use four classes to represent the level of design, and associated uncertainty, at different
+project stages. These classes are defined as follows:
+
+
+Class A (Detailed Design - 100 percent design) estimates are pre-tender estimates, based on
+completed construction drawings and detailed specifications contained in tender documents. The
+expected precision of the estimate ranges from -5 percent to +10 percent of the actual contract
+price.
+
+
+
+Class B (Design Development - 67 percent design) estimates are design estimates based on an
+advanced project design. They are based on design drawings, project specifications and include
+detail on the design of electrical, mechanical and IT systems, as well as site requirements. The
+expected precision of the estimate ranges from -10 percent to +15 percent of the actual contract
+price.
+
+
+
+Class C (Schematic Design - 33 percent design) is a planning level estimate usually based on a
+Schematic Design and presented in Elemental Format (a budget setting format/technique which
+considers the major elements of a project and provides an order of cost estimate based on an
+Elemental Cost Analysis of a building project). These estimates establish a preliminary budget
+estimate and a baseline against which project costs will be assessed at future project development
+milestones. The expected precision of the estimate ranges from -15 percent to +20 percent of the
+actual contract price.
+
+
+
+Class D (Conceptual Design) estimates are conceptual estimates based on the project scope (the
+work that needs to be accomplished to deliver the project) and functional requirements (the
+output specifications/deliverables of a project), and are usually presented in unit cost analysis
+format (applying a monetary rate to an element, subelement or component per unit of
+measurement). The expected precision of the estimate ranges from -20 percent to +30 percent of
+the actual contract price.141
+
+140 US Government Accountability Office Cost Estimating and Assessment Guide, 2009
+141 PPP Canada Schematic Design Estimate Guide, April 2014.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+160
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+The current simulation model could be considered a Class D estimate, with an expected accuracy that
+ranges from -20 percent to +30 percent of the actual costs. It is expected that the accuracy of the
+estimate would improve should the feasibility study for Hydrail lead to a decision to move the project
+to the next stage of development. The technology development process that is proceeding in parallel
+to this study will further improve the accuracy and reduce the uncertainty of estimate. Estimating
+accuracy improves significantly and the uncertainty in cost estimation reduces to a few percentage
+points of the actual costs by the time the detail design is complete and the project is ready for
+procurement and implementation.
+It is important to continually update cost estimates so that decision makers have has the best
+information available for making informed decisions. These processes are illustrated in what is
+commonly called the Cone of Uncertainty shown on Figure 4-43.
+FIGURE 4-43 CONE OF UNCERTAINTY
+
+Development of Contingencies
+Contingencies for infrastructure projects represent a mark-up applied to the base construction cost to
+account for uncertainties in quantities, and unit costs. Contingencies are also included to capture risk
+events during construction.142
+At various stages of the estimating process it is possible to represent the uncertainty implications of
+various cost estimates using a cumulative probability distribution curve or an S-curve as illustrated in
+Figure 4-44.
+
+142 Cost Estimating Manual for WSDOT Projects, March 2008.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+161
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 4-44 SAMPLE CUMULATIVE DISTRIBUTION CURVE FOR A PROJECT ESTIMATE (FROM THE US
+GOVERNMENT ACCOUNTABILITY OFFICE COST ESTIMATING AND ASSESSMENT GUIDE, 2009)
+
+The contingency then is the difference between the estimated cost and the budget to achieve a
+certain confidence interval. This concept is illustrated in the following example:
+The cumulative probability distribution curve provided in Figure 4-44 considers a hypothetical project
+with an estimated cost of $825,000. The uncertainty analysis has revealed that this estimate represents
+the 40th percentile meaning that there is a 60 percent chance that costs will be greater than the
+estimate. Based on this analysis, a decision could be made to increase the project budget to achieve
+greater certainty that the project cost will fall within the budgeted amount. For example, if the budget
+for this project was increased from $825,000 to $1,096,000 then there would be a 70 percent
+probability that project costs would fall within the budgeted amount. The $271,000 difference
+between the estimated cost and the budgeted $1,096,000 represents the construction contingency in
+this example.143
+The level of confidence used to develop the contingency reflects organizational decisions on the level
+of risk that is acceptable.
+
+143 US GAO Cost Estimating and Assessment Guide, 2009, pg. 157
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+162
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Limitations
+Given the relatively short time frame for the Hydrail analysis, there are some elements of the cost
+estimate that have not been completed to the level of detail that could be completed with further
+study. These elements of the cost estimate that have not been addressed in the Hydrail simulation
+model are outlined as follows:
+1. Work Breakdown Structure (WBS): A WBS defines in detail the components necessary to
+accomplish a program’s objectives. A WBS can be thought of as an illustration of which tasks will
+be accomplished and which components will be delivered to satisfy a program’s requirements.
+The WBS diagrams the effort in small, discrete pieces, or elements, to show how each one relates
+to the others and to the program as a whole.
+The number of levels for a WBS varies from program to program and depends on a program’s
+complexity and risk. WBSs need to be expanded to a level of detail sufficient for planning and
+successfully managing the full scope of work. However, each WBS should, at the very least, include
+three levels:
+
+
+The first level represents the program as a whole so contains only one element—the program’s
+name.
+
+
+
+The second level contains the major program segments.
+
+
+
+Level three contains the lower-level components or subsystems for each segment.
+
+A sample WBS for a process plant construction144 is shown in Table 4-33 for illustration.
+TABLE 4-33 LIST OF SAMPLE WBS ELEMENTS
+Level 2 Element
+1.1 Plant system design
+
+Level 3 Element
+1.1.1 Business requirements
+1.1.2 Process models
+
+1.2 Construction
+
+1.2.1 Site development
+1.2.2 Civil structure
+1.2.3 Thermal systems
+1.2.4 Flow systems
+1.2.5 Storage systems
+1.2.6 Electrical systems
+1.2.7 Mechanical systems
+1.2.8 Instrument and control systems
+1.2.9 Environmental systems
+1.2.10 Temporary structure
+1.2.11 Auxiliary systems
+1.2.12 Safety systems
+
+144 Source: Project Management Institute, Practice Standards for Work Breakdown Structures, project Management Institute, Inc. (2006).
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+163
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-33 LIST OF SAMPLE WBS ELEMENTS
+Level 2 Element
+1.3 Legal and regulatory
+
+Level 3 Element
+1.3.1 Licensing (nongovernment)/permitting (government)
+1.3.2 Environmental impact
+1.3.3 Labor agreements
+1.3.4 Land acquisition
+
+1.4 Testing
+
+1.4.1 System test
+1.4.2 Acceptance test
+
+1.5 Start-up
+1.6 Project management
+
+Although a detailed WBS has not been developed for this study, different elements of the Hydrail
+System have been discussed, and individual components have been identified for costing. The
+WBS example does, however, provide some insight into additional costs not currently covered by
+the Hydrail simulation, such as legal and regulatory expenses, testing, startup, and project
+management expenses. These costs are known elements of a construction project, and although
+they may not be accurately modelled in the feasibility study stage, they should be recognized in
+the model, and carefully considered when making a decision based on the findings of the analysis.
+These cost elements should not be captured under contingencies. By definition, contingency is an
+allowance for unknown factors that may result in higher project costs, so it should not include cost
+elements that are known but are absent in the cost estimate.
+2. Risk analysis: The methodology for developing construction contingencies discussed involves the
+use of probabilistic analysis of risk and uncertainty (that is, the contingency represents a markup
+applied to the base construction cost to account for uncertainties in quantities and unit costs, and
+is defined as the difference between the base cost estimate and the budget to achieve a certain
+confidence interval). The confidence interval also depends on decision-makers’ risk appetites. At
+this stage in the modelling exercise, contingency amounts have been based on the IBC and on the
+technical expertise of the modelling team. At later stages of the exercise, a quantitative risk
+assessment will result in a more refined contingency that can be carried into construction and
+operations phases of the program.
+
+4.4.3
+
+Comparative Cost/Benefit Assessment of the Simulation
+Scenarios
+
+4.4.3.1 Hydrail Analysis
+For purposes of this study, the first stage of the financial analysis involved comparing the anticipated
+costs associated with Hydrail to those for overhead electrification, using the IBC model. Costs that are
+common to both technologies (for example, track and station improvements) were held constant. Key
+assumptions (for example, discount rate) were also held constant where reasonable, and adjusted
+where necessary. As an example, assumptions regarding service patterns—the key driver behind
+revenues and benefits of RER—were assumed to be equal under both technologies. As such, this part
+of the study is predicated on an assumption that a Hydrail System would deliver the same level of
+service as overhead electrification, as is discussed in Section 4.2.2. Inputs that would change (for
+example, a new cost associated with the production of hydrogen and removal of capital costs
+associated with overhead electrification) were the focus of the analysis. This allows for a like-for-like
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+164
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+analysis of Hydrail relative to Scenario 5 electrification, and mimics going back in time and adding
+Hydrail as an additional scenario for RER in the 2014 analysis. However, as will be shown in this
+section, a true like-for-like analysis requires updating certain IBC assumptions to reflect those used for
+Hydrail.
+As service levels are assumed to be the same, net benefits of the program as captured in the IBC
+model do not change under a Hydrail scenario for RER. For purposes of the BCR, benefits are driven
+by ridership of the RER system and because ridership is assumed to be the same for Hydrail the
+benefits remain constant. There are numerous potential benefits and risks associated with both
+overhead electrification and Hydrail that are not captured in the first stage of the IBC analysis. Some
+are, however, discussed later in this section and in Section 4.7 where the broader social, economic
+and environmental benefits are discussed. Later in this section, the financial analysis will further
+examine the impact of Hydrail on capital and operating costs over the lifespan of the RER program,
+including sensitivity analysis and potential fiscal impacts to the province.
+It should be noted that within the cost items that were considered common to both technologies
+there are certain elements that are likely to change between the Hydrail and overhead electric
+systems. One example is the cost of property purchases currently considered in the IBC. Part of this
+line item represents the cost to purchase land to develop substations that would be required for an
+overhead contact system. Such costs would not, however, be required for Hydrail. Conversely,
+additional land may be required to service Hydrail vehicles (for example, to replace hydrogen tanks at
+specified service intervals) and may have an impact on land requirements within maintenance yards.
+However, because the breakdown of cost items like this are not fully understood they have been
+carried forward in the Hydrail simulation. Should the feasibility study lead to a decision to continue to
+examine Hydrail, more detailed analysis of these costs would be required to provide a full picture of
+the cost of each system.
+The outputs from the Hydrail System simulation described previously were used to develop a
+schedule of Hydrail costs for incorporation into the IBC model. The key cost drivers for the Hydrail
+simulation were reviewed and highest and lowest values for these variables were developed. The
+ranges for these variables are presented in Table 4-34.
+TABLE 4-34 KEY COST DRIVERS FOR HYDRAIL
+Highest Value
+
+Lowest Value
+
+Unit
+
+Cost of electricity
+
+76
+
+46
+
+$/MWh
+
+Price of Electrolyzer
+
+823
+
+655
+
+$/kW
+
+Price of Storage
+
+266
+
+141
+
+$/kg
+
+Price of Refuelling
+
+1,396
+
+1,257
+
+$/kg
+
+Price of Dispensing
+
+1.09
+
+0.87
+
+million $/unit
+
+Price of Fuel Cell
+
+1,000
+
+450
+
+$/kW
+
+Lifetime of Electrolyzer
+
+40,000
+
+50,000
+
+hours
+
+Lifetime of Fuel Cell
+
+25,000
+
+40,000
+
+hours
+
+These highest and lowest case values were used to develop a high-cost scenario (where all the
+variables were set at worst case levels) and a low-cost scenario (where all the variables were set at best
+case levels) for Hydrail. These labels are not intended to apply any judgment of one technology over
+another. The values were then used to develop new costs for electrification-related capital cost items,
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+165
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+electrification-related operating cost items, and fleets costs. All other costs described above (for
+example, station expansions, signalling) are held constant. All real costs used in the analysis are in
+2014 dollars.
+The high end and low end for electricity price is estimated using IESO data and an optimized
+hydrogen production schedule developed by the technical team. For further details, please refer to
+Section 4.3.
+
+4.4.3.2 Application of Cost Factors in the Hydrail Model
+As discussed above, contingencies are a key part of the IBC model and, taken together, represent 90
+percent of total capital costs. For Hydrail, the approach followed was to carry forward contingencies
+and make adjustments based on several factors. First, the cost factor for Environmental Assessment,
+Engineering and Design was increased from 15 percent to 30 percent for Hydrail. The application of
+HFC technology in the rail industry is still relatively untested (as discussed elsewhere in this report). As
+such it is reasonable to assume that the percentage of capital costs applied for engineering and
+design should be higher than what was used to model a traditional overhead electric system through
+the IBC model. This contingency only applies to initial capital investment and falls to 0 percent as
+Hydrail assets need to be replaced or refurbished, reflecting the fact that expertise and experience
+will have grown to a point where such events are highly predictable in terms of costs and risks.
+Construction contingencies in the IBC model account for uncertainty associated with the cost of the
+development and construction of a complex electrified rail system. In the IBC model, the construction
+cost contingency for overhead electrification was 50 percent of estimated capital costs. This
+contingency has been applied to all civil infrastructure and electrification base costs within the IBC
+model. For purposes of this financial analysis, construction cost contingencies used in the IBC model
+have been carried forward for Hydrail without change. A 50 percent contingency is reasonable for
+capital undertakings where an organization has little experience, in this case signalling, for
+electrification, and for the development of hydrogen-powered vehicles. Furthermore, the risk
+associated with deploying a new application of a technology at the scale that would be required for
+Hydrail, including establishing an entirely new supply chain for the production, transportation and
+dispensing of hydrogen, further justifies inclusion of this contingency. Additionally, the contingency is
+meant to capture costs that are currently not well understood for both the overhead and electrification
+costs – these costs include things like financing costs, operator profit, taxes, and permitting fees.
+Finally, a productivity and resource cost factor is applied to the on-corridor infrastructure for overhead
+electrification and to all hydrogen related infrastructure for the Hydrail System (in addition to oncorridor infrastructure required for both systems). This cost factor is intended to capture the additional
+costs associated with the construction of the RER system in a shorter time frame and more complex
+environment than what is typical for similar projects. The productivity and resource factor is applied to
+on-corridor infrastructure base costs to account for construction under increased rail traffic conditions
+and ongoing service expansions, and includes consideration of limited specialized resources in the
+industry (particularly for electrification and hydrogen technologies). This factor has not been applied
+to system-wide costs like enhanced train control and maintenance facilities. The productivity and cost
+resource factor applied to the overhead electrical system in the IBC is 25 percent and it is understood
+that much of this factor accounts for the complexity of installing the overhead infrastructure during live
+rail operations meaning much of the work will have to take place overnight, for example. This same
+constraint does not exist for Hydrail implementation as capital works would likely not significantly
+impact operations on the rail corridor. A potential advantage of Hydrail is the ability to roll out fleet
+incrementally and intermingled with existing rolling stock. It is difficult to predict with accuracy at this
+stage of the project if there might be disruptions or complications associated with a mixed-fuel fleet,
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+166
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+or the impact construction of hydrogen production and fuelling stations might have on current
+operations. As a result, the productivity and cost resource factor for Hydrail has been reduced from
+25 percent to 10 percent.
+Further refinement is necessary to the cost factors to account for the life cycle of electrification and
+Hydrail capital assets. Hydrail will require CAPEX throughout the life of the RER program to replace,
+either fully or partially, components of the system like the fuel cells and on-board storage tanks. This
+contrasts with overhead electrification where a large upfront CAPEX is expected but, based on the long
+life-span of these capital components, ongoing expenditures have been assumed within IBC to be
+limited to routine maintenance as opposed to system-wide replacement. While there are ongoing
+CAPEX as part of Hydrail, it is expected that there will be greater cost certainty and potential design and
+production cost savings as the Hydrail program ages and the technology matures. As such, the cost
+escalation factors that are applied to initial CAPEX in the overhead electrification case and the Hydrail
+case are not applied to the on-going expenditures related to the replacement or refurbishment of
+Hydrail specific capital components. Cost factors discussed in this section are summarized in Table 4-35.
+TABLE 4-35 COST FACTORS APPLIED IN THE IBC
+Cost Factors Applied in the IBC
+
+Overhead Electrification
+
+Hydrail
+
+Environmental Assessment,
+Engineering and Design
+
+15 percent of base capital costs
+
+30 percent of base capital costs
+
+Infrastructure (Corridors)
+
+Contingency – 50 percent of base capital
+costs
+Productivity and resource factor – 25 percent
+of base capital costs
+
+Contingency – 50 percent of base capital
+costs
+Productivity and resource factor – 10
+percent of base capital costs
+
+Infrastructure (System-wide
+components)
+
+Contingency – 50 percent of base capital
+costs
+
+Contingency – 50 percent of base capital
+costs
+
+4.4.4
+
+Sensitivity Analysis
+
+Following the development of the capital and operating costs for the Hydrail System, a sensitivity
+analysis was performed to quantify the impact of each individual variable on the be BCR using the
+following approach:
+
+
+All cost variables were set at their high case values to establish a baseline for comparison (that is,
+the high scenario).
+
+
+
+Each variable was then individually changed to its lowest case while keeping all other variables
+unchanged.
+
+
+
+The NPV of the following outputs were recorded for each iteration:
+
+
+
+
+
+Total CAPEX = total initial capital + total replacement cost
+
+
+
+Total OPEX = total operating cost + total maintenance cost
+
+The change in NPV was calculated and sorted from highest to lowest.
+
+The sensitivity analysis shows that three variables result in largest variation in the NPV of the selected
+outputs:
+
+
+Cost of electricity
+
+
+
+Lifetime of fuel cell
+
+
+
+Price of fuel cell
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+167
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+The sensitivity analysis shows that all other variables have a negligible effect (that is, below 2 percent)
+on the output parameters. The outputs from the sensitivity analysis are presented in Table 4-36. This
+analysis was used to guide the modelling team to the variables that require the most precision and
+that warrant the most in-depth analysis through conversations with industry and research.
+TABLE 4-36 OUTPUT OF THE SENSITIVITY ANALYSIS
+High
+
+Low
+
+percent Change
+
+76
+
+46
+
+-
+
+NPV of Total OPEX
+
+2,356
+
+1,623
+
+-31 percent
+
+Price of fuel cell ($/kW)
+
+1,000
+
+450
+
+-
+
+NPV of Total CAPEX
+
+2,595
+
+2,070
+
+-20 percent
+
+Lifetime of fuel cell (hours)
+
+25,000
+
+40,000
+
+-
+
+NPV of Total CAPEX
+
+2,595
+
+2,325
+
+-10 percent
+
+Cost of electricity ($/MWh)
+
+4.4.5
+
+Model Benchmarking
+
+In addition to the financial analysis presented in this section, the hydrogen pricing model was
+compared to publicly available case studies. This exercise provides a benchmark for the result of the
+modelling exercise used in Hydrail feasibility study.
+Several key technologies for producing hydrogen were studied by the H2A145 team with expertise in
+design and advancement of these technologies within the United States Department of Energy
+Hydrogen and Fuel Cells Program146. One case study covers future estimates for central hydrogen
+production using PEM technology. The model inputs were modified to match requirements of the
+Hydrail project (that is, total hydrogen production, price of electricity, unit cost of electrolyzer and
+total capacity installed), as shown in Table 4-37.
+TABLE 4-37 INPUT PARAMETERS FOR A CENTRAL HYDROGEN PRODUCTION FACILITY
+Cost Component
+
+Unit
+
+DOE
+
+CNL
+
+tonnes /day
+
+48.5
+
+48
+
+price of electricity
+
+$/MWh
+
+66
+
+63
+
+cost of electrolyzer
+
+$/kW
+
+508
+
+508
+
+lifetime of stack
+
+years
+
+10
+
+15
+
+electrolyzer capacity installed
+
+MW
+
+293
+
+281
+
+Hydrogen production
+
+The results of the DOE model were then compared against the Hydrail simulation model. The results
+of this analysis are shown in Table 4-38.
+
+145 H2A, which stands for Hydrogen Analysis, was first initiated in February 2003 to better leverage the combined talents and capabilities of
+analysts working on hydrogen systems, and to establish a consistent set of financial parameters and methodology for analyses
+(https://www.hydrogen.energy.gov/h2a_analysis.html)
+146 Please refer to https://www.hydrogen.energy.gov/h2a_prod_studies.html
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+168
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-38 RESULTS OF THE CENTRAL HYDROGEN PRODUCTION FACILITY MODELS
+Cost Component
+
+DOE
+
+Hydrail Simulation
+
+Total direct capital
+
+$ 148,259,713
+
+$ 147,957,111
+
+Total indirect depreciable capital
+
+$ 27,817,995
+
+$-
+
+$ 3,272,705
+
+$-
+
+Engineering and design
+
+$-
+
+$-
+
+Project contingency
+
+$-
+
+$-
+
+$ 24,545,290
+
+$-
+
+$ 176,077,708
+
+$-
+
+$ 305,320
+
+$-
+
+$ 176,383,028
+
+$ 147,957,111
+
+Capital Costs ($)
+
+Site Preparation
+
+Up-Front Permitting Costs
+(legal and contractor fees)
+Total depreciable cost
+Total non-depreciable cost
+Total capital cost
+
+Operating Costs ($)
+Fixed operating cost (maintenance)
+
+$ 4,521,768
+
+$ 2,351,710
+
+Variable operating cost (cost of electricity)
+
+$ 58,588,148
+
+$ 58,199,567
+
+Total operating cost
+
+$ 63,109,916
+
+$ 60,551,277
+
+0.99
+
+0.56
+
+Variable operating cost
+
+3.31
+
+3.31
+
+Fixed operating cost
+
+0.26
+
+0.13
+
+Other costs
+
+0.23
+
+-
+
+Initial Equity Depreciable Capital
+
+0.00
+
+-
+
+Cash for Working Capital Reserve
+
+0.02
+
+-
+
+Debt Interest
+
+0.11
+
+-
+
+Taxes
+
+-0.01
+
+-
+
+Principal Payment
+
+0.10
+
+-
+
+Cost of production ($/kg)
+
+5.02
+
+4.01
+
+Cost of hydrogen production ($/kg)
+Depreciable cost of capital
+
+The results of the two models are categorized as follows:
+
+
+Capital costs: total capital cost estimated under the DOE model is approximately $30 million
+(19 percent) higher than those estimated by the Hydrail simulation. This is because some up-front
+costs (including permitting and legal costs), as well as site preparation costs, are not included in
+the Hydrail simulation model. It is important to note, however, that the two models produce
+comparable results for direct capital costs.
+
+
+
+Operating costs: maintenance costs are estimated to be higher in the DOE model than in the
+Hydrail simulation model by approximately $2.5 million per year. The DOE model yields a result
+for operating costs that is very close to the Hydrail simulation model (4 percent variance).
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+169
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+

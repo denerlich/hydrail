@@ -1,0 +1,2659 @@
+motors) due to winter weather.
+
+Comprehensive nonmechanical refurbishment
+every 8 years
+
+Maintenance
+
+CPG-PGM-RPT-245
+
+
+
+269
+
+Hydrail requires
+an electric
+locomotive for
+every six
+carriages
+Yes
+Hydrail may
+require additional
+unpowered
+coaches to obtain
+the required
+seating capacity
+Partially
+External
+mechanical and
+electrical
+components
+related to the
+pantograph are
+not required
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 5-2 SUMMARY OF KEY INFRASTRUCTURE REQUIREMENTS FOR RER ELECTRIFICATION
+Category
+
+Type
+Workforce
+training
+
+Required for RER
+Electrification
+
+Description
+Professional qualification training
+required for staff who will be
+operating and maintaining the
+electric rail vehicles.
+
+The scope of work is not
+explicitly identified in the
+IBC
+
+Required for
+Hydrail
+Yes
+Staff will need to
+be trained in the
+maintenance of
+hybrid HFC
+systems
+
+Notes:
+IBC = Initial Business Case
+
+m = metre
+
+km = kilometre
+
+OCS = Overhead Contact System
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+270
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+6
+
+Recommended Next Steps
+
+This section recommends actions arising from the findings within this report, in relation to the further
+development of the Hydrail System, in relation to the broader questions that inter-relate with the
+Provincial government, and in relation to the development of the RER DBFOM.
+
+6.1
+
+Actions to Further Develop Hydrail
+
+The proposed next steps for the development of the Hydrail System are focussed on the need to
+maintain alignment between the development of Hydrail and the preparation activities for the RER
+DBFOM procurement.
+The primary objective of the proposed next steps is to enable the design of the whole Hydrail System
+to be taken forward to conceptual design level so that by the time the DBFOM bidders start to
+prepare their bids they will have access to high quality information about the design and operation of
+the Hydrail System. This will enable the DBFOM bidders to more accurately assess the risks and
+benefits of Hydrail in comparison with electrification than would otherwise be the case.
+In particular, it is proposed that further work is undertaken in those areas of the Hydrail System where
+the DBFOM bidders are likely to want a greater level of certainty than currently exists, at the
+completion of the feasibility study. These are:
+
+
+Refine the Hydrail System design in terms of system size, based on a more accurate representation
+of the system configuration in the Operational Simulation model;
+
+
+
+Comission concept designs for a HFC EMU, a HFC Locomotive and the hydrogen production,
+hydrogen storage and hydrogen fuelling subsystems;
+
+
+
+Identify preferred options for location of hydrogen production facilities for each corridor;
+
+
+
+Confirm how the Hydrail System would function as an operational railway, particularly in areas
+such as maintenance and refuelling;
+
+
+
+Confirm the capital and operating cost estimates of the whole Hydrail System based on further
+engagement with component vendors and a more formal approach to estimating infrastructure
+and vehicle delivery costs;
+
+
+
+Confirm how the Hydrail System could be implemented through its development and build
+phases and particularly the transition plan of Hydrail into revenue service across the GO network;
+
+
+
+Develop a Safety Case roadmap for Hydrail based on consultation with Transport Canada and
+organizations responsible for maintaining and developing hydrogen related safety standards;
+
+
+
+Build and operate a small-scale prototype of the Hydrail System including an HFC Locomotive.
+
+6.1.1
+
+System Size
+
+The definition of the Hydrail System presented in this feasibility study is based on modelling work that
+simulates how the whole system will operate every day. The Operational Simulation Model has been
+specifically designed to simulate the performance of each of Hydrail’s subsystems and the design is
+based on the following principles:
+
+
+The fleet mix and train service pattern defined as Scenario 5 of the IBC for RER has been used to
+calculate the peak and average power requirements for train trips on each GO corridor;
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+271
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+
+
+This data is used to size (power and physical dimensions) the fuel cell and batteries on the rail
+vehicles;
+
+
+
+This in turn determines how much hydrogen is required to operate the train for each trip, which
+enables the total volume of hydrogen that is needed each day to be calculated;
+
+
+
+From this the size of the electrolyzer components has been calculated, and
+
+
+
+From this the amount of electrical power required each day for the Hydrail System has been
+calculated.
+
+At each step in this process, assumptions have been made about the:
+
+
+RER GO network infrastructure and train services from 2025 onwards, and
+
+
+
+Functional performance of each of the components in the Hydrail subsystems
+
+It has been necessary to make these assumptions because:
+
+
+The scope of RER has been developing in parallel to the Hydrail feasibility study, and
+
+
+
+Our access to data on forecast component functional performance has been based on estimates
+from a limited number of industry sources.
+
+It is considered by the Hydrail team that many of the assumptions in the model are quite conservative
+and therefore it is the team’s view that it would be beneficial to undertake further work to improve the
+accuracy of the model’s outputs.
+We intend to do this by:
+
+
+Improving the sophistication of the model’s algorithms to more accurately simulate the power
+requirements of the rail vehicles;
+
+
+
+Cross-referencing the algorithms in the model with those being used by the rail vehicle
+manufacturers who are participating in the HFC Bi-Level EMU Concept Design and HFC
+Locomotive Concept Design projects, and
+
+
+
+Obtaining access to actual component performance data from a range of manufacturers.
+
+6.1.2
+
+Subsystem Concept Designs
+
+Even though the feasibility study concludes that there are no technology-related flaws with Hydrail
+and that all elements required to assemble this system already exist elsewhere in similar applications,
+the scale of Hydrail is bigger than anything that has currently been implemented. As a consequence,
+there are technical areas of the Hydrail System definition where the levels of uncertainty need to be
+reduced so that the risk profile of these areas is comparable to those of the overhead catenary system
+solution.
+By undertaking subsystem concept designs a much more precise sizing of all the components of the
+overall Hydrail System will be achieved. For example, it would enable us to demonstrate how the
+expected fuelling time can be achieved and to assess the way in which a Hydrail network could be
+operated and maintained.
+This reduces these risks so that the DBFOM bidders will be better able to assess the risks and benefits
+of Hydrail in comparison with electrification.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+272
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Therefore, we intend to initiate engineering concept design studies of:
+1. A HFC bi-Level EMU. A procurement process is already underway to commission a number of rail
+vehicle manufacturers to produce concept designs that integrates a hybrid fuel cell system into
+their existing bi-level EMU models. The output of this work will provide valuable information on
+whether the performance of the HFC bi-level EMU will meet the RER requirements, the range of
+the vehicle between refueling, the likely unit price of the vehicle and the phases in the
+development of production models;
+2. A HFC Locomotive. A procurement process has started to commission a number of rail vehicle
+manufacturers to produce concept designs that integrates a hybrid fuel cell system into their
+existing electric locomotive models. The output of this work will provide the same range of useful
+information as for the HFC bi-level EMU;
+3. A hydrogen production and storage facility of a size that would be needed for one of the GO
+corridors. This will provide us with equipment layout information and component sizing and an
+understanding of how the facility will be connected to the electricity grid;
+4. A hydrogen refuelling and dispensing facility of a size that would be needed to refuel an HFC EMU
+fleet and an HFC locomotive fleet. This will also provide us with equipment layout information and
+component sizing and an understanding of how the facility will operate in its interface with the rail
+vehicles. In particular, it would be designed to achieve the objective of a refuelling time that meets
+the fleet operation and maintenance expectations of Metrolinx.
+We intend to undertake this work by assembling a team of consultants, government agencies and
+universities that we have already engaged with during the feasibility study who have specialist
+knowledge and capabilities in these areas. This work wouldbe project managed by the existing
+Metrolinx Hydrail team.
+
+6.1.3
+
+Hydrogen Production Location Identification
+
+One of the key variables in the configuration of the Hydrail System are the proposed locations for the
+hydrogen production facilities. The factors that will need to be considered in deciding on these
+locations include:
+
+
+The area required for the facility (this has been covered by the work described above)
+
+
+
+The locations for rail vehicle stabling facilities in the RER program
+
+
+
+Land that is currently available within Metrolinx’s ownership that could be suitable for such a
+facility
+
+
+
+Land that is outside Metrolinx’s ownership but is close to the proposed rail vehicle stabling
+facilities
+
+
+
+Land that is suitable for such a facility that is located at some distance from the rail network and
+would be suitable to enable transportation of hydrogen by truck or pipeline to the rail network
+
+
+
+The potential to expand the facility for hydrogen production use beyond that required for
+Metrolinx’s Hydrail
+
+
+
+The planning and permitting constraints that would relate to any identified land
+
+
+
+The cost of purchase and/or remediation of any identified land
+
+We intend to undertake work that will identify a range of options for the hydrogen production
+locations to enable the Hydrail system to function in both its Scenario 5 and full network
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+273
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+configurations. We will then assess these options using the criteria of capital cost, operating cost and
+planning feasibility and determine the optimized solution.
+The team undertaking this work will include Metrolinx property staff and RER fleet maintenance
+planning staff.
+
+6.1.4
+
+Operational Functionality
+
+Although the feasibility study has not identified any flaws in how GO would operate using a Hydrail
+System, there are operational processes that need to be considered in more detail to give DBFOM
+bidders sufficient assurance that it is feasible to operate. These processes include:
+
+
+Cyclical maintenance and renewal regimes for the rail vehicle subsystem
+
+
+
+Refuelling the trains as part of the end of day processes
+
+
+
+Management of degraded rail vehicle operability due to failure of a component within the hybrid
+HFC subsystem
+
+
+
+Response to degraded rail services that prevents access to a refuelling facility
+
+
+
+Start of day and end of day routines for the rail vehicle subsystem
+
+
+
+Operational and maintenance routines for the hydrogen production, storage and transportation
+subsystems
+
+We intend to create system diagrams for each of these processes so that it is clear how a Hydrail
+System would integrate with the railway operational processes that DBFOM bidders will be familiar
+with from operating railway systems based on overhead catenary system of electrification.
+
+6.1.5
+
+Cost Estimates
+
+The feasibility study has identified all the key capital and operating cost components in the Hydrail
+System. The cost values that have been used in the Operational Simulation Model have been
+obtained for information provided by discussions with industry sources and have been validated
+against published data.
+As a result of the further system sizing work, concept design work and hydrogen production facility
+location work that we have identified above it will be possible to undertake a more formal cost
+estimating exercise of the capital and operating costs. This will also be accompanied by a quantified
+risk assessment to more accurately evaluate the forecast cost distribution for different risk parameters.
+As part of this process there will be a further evaluation of the forecast prices of electricity that it is
+appropriate to use in the calculation of the Hydrail System’s operating cost.
+
+6.1.6
+
+Implementation Plan
+
+Section 4.11 of this report provides an initial view of how the Hydrail System could transition into initial
+operation. As stated in that section there are many interdependencies of a physical and a timing
+nature between the RER program’s infrastructure upgrades and the Hydrail System.
+We intend to work with the RER planning team so that we can create a more detailed transition
+scenario that integrates with the proposed sequence of infrastructure work and identifies:
+
+
+Which corridor would be best suited for the initial testing of the HFC rail vehicles
+
+
+
+Which corridor would be best suited for the initial revenue service
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+274
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+
+
+The preferred sequence of corridors that would then introduce the service and how this would
+relate to the incremental build of the hydrogen production, storage and dispensing facilities
+
+6.1.7
+
+Safety Case Roadmap
+
+Section 4.6 of this report provides an overview of the existing codes and standards that apply to
+hydrogen systems and identifies the need to undertake work that will:
+
+
+Assess the risks relating to the operation of the Hydrail System
+
+
+
+The development of further codes and standards for the operation of the Hydrail System
+particularly in relation to the refuelling subsystem and the rail vehicle subsystem
+
+During the feasibility study the Hydrail team has commenced engagement with Transport Canada and
+held initial discussions with them about evaluating the safety risk of the Hydrail System concept.
+In taking forward this area of work the Hydrail team intends to form a working committee that will
+include Transport Canada, TSSA, CSA, the Canadian Hydrogen Installation Code Standards
+Committee and equivalents in the United States. The objective of this group will be to develop a
+pathway for the development of a full suite of codes and standards that will apply to Hydrail.
+
+6.1.8
+
+Prototype Hydrail System
+
+Irrespective of how much systems modelling and concept design work is undertaken the complete
+viability of the Hydrail System can only be demonstrated by designing, building and operating an
+example of the complete end to end system.
+At the conclusion of the above activities Metrolinx intends to:
+
+
+Commission the building of a single prototype HFC Locomotive that can enter revenue service
+
+
+
+Commission the development and prototyping of the refueling and hydrogen production subsystems that can work with the prototype HFC Locomotive.
+
+Operating this prototype Hydrail System over an extended period will enable Metrolinx to learn
+valuable lessons concerning Hydrail System’s operations, performance and reliability which can then
+be fed back into the design and implementation planning of a full Hydrail System.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+275
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+6.2
+
+Actions to Align the Hydrail System with Provincial
+Government Policy
+
+6.2.1
+
+Electricity Price Policy
+
+As outlined in Section 4.4, the calculation of the net present value of the operating cost of the Hydrail
+System is sensitive to the forecast hourly prices of electricity from 2025 onwards. For the Hydrail
+System to retain its BCR equivalence to the conventional overhead electrification system, the
+differential between the average off-peak price of electricity to the average peak price of electricity
+needs to remain at the level used in this analysis (which is: off-peak = 0.4 x peak).
+Therefore, any narrowing of the differential between the price of electricity paid by Hydrail and that
+for conventional electrification would weaken the economic case for Hydrail. Due to the many
+variables that could influence the price of off-peak electricity in the future this is considered to be a
+highly significant risk (as described in 4.12.3.1).
+As a consequence, this risk needs to be mitigated to avoid DBFOM bidders including a substantial
+risk premium into their operating cost calculations for the Hydrail System. A recommended next step
+is therefore for Metrolinx to engage with the provincial government to determine if it is possible to
+define, or pre-establish, the cost of electricity relating to the Hydrail System.
+
+6.2.2
+
+Hydrogen Economy
+
+As outlined in Section 4.9.1, there are opportunities for the Hydrail System to be a catalyst for the
+broader adoption of hydrogen in the Ontario economy. As described in Section 4.12.4.4, the benefits
+of this Hydrogen Economy concept could be:
+
+
+Sharing of the costs of implementing the fixed infrastructure assets
+
+
+
+Reductions in the use of fossil fuels as energy sources
+
+
+
+Development of businesses and jobs with a hydrogen technology focus
+
+
+
+The development of Ontario as a global leader in the implementation of hydrogen technologies
+
+
+
+Adoption of hydrogen as an energy storage material in combination with renewable energy
+sources and the associated benefits in relation to the stabilisation of the electricity grid in response
+to variations in demand.
+
+Taking forward the development of those opportunities, which are beyond Metrolinx’s transportation
+mandate, will require consideration and guidance from the provincial government, and potentially
+part of a broader “hydrogen roadmap”. A recommended next step is therefore to work with the
+provincial government to develop a cross-government business case for an Ontario Hydrogen
+Economy.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+276
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+6.3
+
+Actions to Integrate the Hydrail System into the
+DBFOM Procurement Process
+
+As stated at the start of Section 6.1 one of the objectives of the “Recommended Next Steps” is to
+provide high quality information on the Hydrail System to the DBFOM bidders.
+As such the Hydrail team will work with the Metrolinx team that is managing the DBFOM procurement
+process over the course of 2018 to ensure that the activities to further develop the Hydrail System
+concept are aligned with the DBFOM’s timescales and objectives.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+277
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+7
+
+References
+
+TABLE 7-1 REFERENCES
+Reference
+
+Document Title
+
+Abuelsamid, Sam. 2017.
+
+“GM Teams Up With Honda To Manufacture Fuel Cells Near Detroit. Autos/#UnderTheHood.”
+Forbes. January 30. Accessed November 2017.
+https://www.forbes.com/sites/samabuelsamid/2017/01/30/gm-and-honda-form-joint-ventureto-manufacture-fuel-cells-near-detroit/#2d388c438a93
+
+Air Products and
+Chemicals, Inc. 19962017.
+
+Frequently Asked Questions. Accessed October 2017.
+http://www.airproducts.com/industries/Energy/Power/Power-Generation/faqs.aspx
+
+Air Products and
+Chemicals, Inc. 2017.
+
+“Air Products’ California Fueling Stations Offering Hydrogen Below $10 Per Kilogram.” News
+Release. Lehigh Valley, Pa. March 6. Accessed November 2017.
+http://www.airproducts.com/Company/news-center/2017/03/0306-air-products-californiafueling-stations-offering-hydrogen-below-$10-per-kilogram.aspx
+
+Air Resources Board.
+2005.
+
+Marketing, Communications, and Public Education Topic Team Report, California 2010
+Hydrogen Highway Network. California Environmental Protection Agency. January 5. Accessed
+November 2017.
+https://www.arb.ca.gov/msprog/zevprog/hydrogen/documents/historical/pubedreport.pdf
+
+Air Resources Board.
+2017a.
+
+California's Hydrogen Transportation Initiatives. California Environmental Protection Agency.
+October 27. Accessed November 2017.
+https://www.arb.ca.gov/msprog/zevprog/hydrogen/hydrogen.htm
+
+Air Resources Board.
+2017b.
+
+2017 Annual Evaluation of Fuel Cell Electric Vehicle Deployment and Hydrogen Fuel Station
+Network Development. California Environmental Protection Agency. August. Accessed
+November 2017. https://www.arb.ca.gov/msprog/zevprog/ab8/ab8_report_2017.pdf
+
+Alstom. 2017.
+
+"Alstom’s hydrogen train Coradia iLint first successful run at 80 km/h." Press Centre. March, 14.
+Accessed November 2017. http://www.alstom.com/press-centre/2017/03/alstoms-hydrogentrain-coradia-ilint-first-successful-run-at-80-kmh
+
+California 2010 Hydrogen
+Highway Network ars
+Technica. 2017.
+
+Amazon will replace some of its battery forklifts with hydrogen fuel cell ones. Conde Nast. April
+5. Accessed October 2017. https://arstechnica.com/information-technology/2017/04/amazonwill-replace-some-of-its-electric-forklifts-with-hydrogen-fuel-cell-ones/
+
+Cargnelli, Joseph, Chief
+Technology Officer,
+Hydrogenics. 2017.
+
+Personal communication (via teleconference) with Nirmal Gnanapragasam Canadian Nuclear
+Laboratories. August 16.
+
+Ballard Power Systems
+(Ballard). 2017.
+
+"Ballard Powered Fuel Cell Electric Bus Achieves 25,000 Hours of Revenue Operation."
+Newsroom. August. Accessed October 2017. http://ballard.com/aboutballard/newsroom/news-releases/2017/08/29/ballard-powered-fuel-cell-electric-bus-achieves25-000-hours-of-revenue-operation
+
+BASF We create
+chemistry. 2017.
+
+“Beating the Battery Barrier.” New Scientist. Issue 3144. September 23. Accessed November
+2017. https://www.newscientist.com/article/mg23531440-100-beating-the-battery-barrier/.
+
+Bloomberg L.P. 2017.
+
+China's Buses Bolster Ballard's Three-Decade Quest for Hydrogen. Natalie Obiko Pearson,
+author. March 26. Accessed October 2017. https://www.bloomberg.com/news/articles/201703-26/china-s-buses-bolster-ballard-s-three-decade-quest-for-hydrogen
+
+Brightling, J. 2014.
+
+"A long history in steam reforming at Billingham." Nitrogen+Syngas. 327. pp. 46-50. JanuaryFebruary. Accessed October 2017. http://www.jmprotech.com/pdfs-library/NS327_Steam_Reforming.pdf
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+278
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 7-1 REFERENCES
+Reference
+
+Document Title
+
+Brouillette, Marc. 2016a.
+
+Ontario’s Emissions and the Long-term Energy Plan: Phase 1 – Understanding the Challenges.
+Strategic Policy Economics. November. Accessed November 2017.
+https://strapolec.ca/uploads/Ontario_s_Emissions_and_the_LTEP__Phase_1_Final_Report_November_2016.pdf
+
+Brouillette, Marc. 2016b.
+
+Ontario’s Emissions and the Long-Term Energy Plan; Phase 2 Meeting the Challenge. Strategic
+Policy Economics. December. Accessed October 2017.
+https://www.generationenergy.ca/images/documents/Strapolec%20%20Ontarios_Emissions_and_the_LTEP_-_Ph_2_Report_Final_December_2016.pdf
+
+Buttler, A., and H.
+Spliethoff. 2017.
+
+Current status of water electrolysis for energy storage, grid balancing and sector coupling via
+power-to-gas and power-to-liquids: A review. September 9. Accessed October 2017.
+http://www.sciencedirect.com/science/article/pii/S136403211731242X.
+
+California Environmental
+Protection Agency. 2005.
+
+California Hydrogen Blueprint Plan – Volume 1. May. Accessed November 2017.
+http://www.casfcc.org/2/StationaryFuelCells/PDF/CA%20Hydrogen%20Highway%20Blueprint
+%20Volume%201_050505.pdf
+
+CALSTART, Inc. 2017.
+
+Best Practices in Hydrogen Fueling and Maintenance Facilities for Transit Agencies, presented
+at the Ohio Fuel Cell Symposium. March.
+
+Campbell, R., Chief
+Commercial Officer,
+Ballard Power. 2017.
+
+Personal communication with Nirmal Gnanapragasam Canadian Nuclear Laboratories.
+
+Canadian Hydrogen and
+Fuel Cell Association
+(CHFCA). 2016.
+
+Case Study - Walmart Canada Fuel Cell Forklift Fleet. Accessed October 2017.
+http://www.chfca.ca/say-h2i/materials-handling/walmart-canada-fuel-cell-forklift-fleet
+
+Casey, Tina. 2015.
+
+"Boom! China Adds 333 Fuel Cell Electric Buses." CleanTechnica. September 29. Accessed
+October 2017. https://cleantechnica.com/2015/09/29/boom-china-adds-333-fuel-cell-electricbuses/
+
+Clean Energy Partnership
+(CEP). 2017a.
+
+"What is the CEP." Clean Energy Partnership. Accessed October 2017.
+https://cleanenergypartnership.de/en/clean-energy-partnership/what-is-the-cep/
+
+Clean Energy Partnership
+(CEP).
+
+2017b. 2002-2016 Clean Energy Partnership. Accessed October 2017.
+https://cleanenergypartnership.de/fileadmin/Assets/06_h2-mediathek/_pdfdownload/CEP_Abschlussdokumentation_EN.pdf
+
+Comond O, D. Perreux, F.
+Thiébaud, P. Delobelle, D.
+Chapelle, P. Robinet, M.
+Weber, and H.
+Barthelemy. 2009.
+
+Analysis of the fatigue life of hydrogen high pressure tanks. FEMTO-ST - Franche-Comté
+Électronique Mécanique, Thermique et Optique - Sciences et Technologies. Accessed
+November 2017. http://www.escm.eu.org/docs/eccm13/2618.pdf.
+
+Department for
+Communities and Local
+Government. 2009.
+
+Multi-criteria analysis: a manual. © Crown copyright, London. January.
+
+DNV GL - Maritime. 2017.
+
+Study on the Use of Fuel Cells in Shipping. EMSA European Maritime Safety Agency. Tomas
+Tronstad, Hanne Høgmoen Åstrand, Gerd Petra Haugom, and Lars Langfeldt, authors. Version
+0.1. January. Accessed October 2017. www.emsa.europa.eu/emsadocuments/latest/download/4545/2921/23.html
+
+E4tech. 2016.
+
+The Fuel Cell Industry Review 2016. Accessed October 2014. www.fuelcellindustryreview.com/.
+
+Elgowainy, Amgad, and
+Krishna Reddi. 2017.
+
+Hydrogen Refueling Analysis of Heavy-Duty Fuel Cell Vehicle Fleet. Presented at the 2017 DOE
+Hydrogen and Fuel Cells Program Annual Merit Review. Argonne National Laboratory. June 8.
+Accessed October 2017.
+https://www.hydrogen.energy.gov/pdfs/review17/pd014_elgowainy_2017_o.pdf
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+279
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 7-1 REFERENCES
+Reference
+
+Document Title
+
+Eudy, L., and M. Post, M.
+2014.
+
+BC Transit Fuel Cell Bus Project Evaluation Results: Second Report. Technical Report NREL/TP5400-62317. National Renewable Energy Laboratory. September
+
+Fox, Conrad, Planner
+Resource Integration,
+IESO 2017a.
+
+Personal communication (email) Nirmal Gnanapragasam Canadian Nuclear Laboratories.
+September 22.
+
+Fox, Conrad, Planner
+Resource Integration,
+IESO. 2017b.
+
+Personal communication with Nirmal Gnanapragasam Canadian Nuclear Laboratories.
+
+Fuel Cell and Hydrogen
+(FCH). 2016.
+
+“Hamburg's Hydrogen Buses and New Refuelling Station.” Clean Hydrogen in European Cities
+Newsletter. January 13. Accessed October 2017. http://chic-project.eu/newsletters/draft-chicnewsletter-122011/infrastructure-development-draft-chic-newsletter-122011/hamburgshydrogen-buses-in-operation
+
+Fuel Cell and Hydrogen
+Joint Undertaking
+(FCHJU). 2017.
+
+Who We Are. Accessed October 2017. http://www.fch.europa.eu/page/who-we-are.
+
+Gondal, I.A. 2016.
+
+"12 – Hydrogen transportation by pipelines." Compendium of Hydrogen Energy, Volume 2:
+Hydrogen Storage, Transportation and Infrastructure. pp. 301-322. Accessed October 2017.
+http://dx.doi.org/10.1016/B978-1-78242-362-1.00012-2
+
+Government of South
+Australia. 2017.
+
+A Hydrogen Roadmap for South Australia. September. Accessed November 2017.
+https://service.sa.gov.au/cdn/ourenergyplan/assets/hydrogen-roadmap-8-sept-2017.pdf
+
+Greimel, Hans. 2017.
+
+"Kia fuel cell vehicle to arrive in 3 years. Hyundai brand to launch technology first." Automotive
+News. April 3. Accessed November 2017.
+http://www.autonews.com/article/20170403/OEM04/304039933/kia-fuel-cell-vehicle-toarrive-in-3-years
+
+Greimel, Hans, and Naoto
+Okamura. 2017.
+
+"Japan dreams of a hydrogen society. As automakers join effort, will they lead the world or be
+left behind?" Automotive News. April 24. Accessed November 2017.
+http://www.autonews.com/article/20170424/OEM06/304249965/japan-dreams-of-ahydrogen-society
+
+Grigoriev, S.A., V.I.
+Porembskiy, S.V.
+Korobtsev, V.N. Fateev, F.
+Auprêtre, and P. Millet.
+2011.
+
+“High-pressure PEM water electrolysis and corresponding safety issues.” International Journal
+of Hydrogen Energy. Vol. 36, Issue 3. pp. 2721-2728. February. Accessed October 2017.
+https://ac.els-cdn.com/S0360319910005392/1-s2.0-S0360319910005392main.pdf?_tid=e9606254-b5a1-11e7-8c4000000aab0f6c&acdnat=1508509447_5473dd3ec2299723689bbebef6dc8fcc
+
+H2 Mobility. 2017a.
+
+H2-Stations. Accessed November 2017. http://h2-mobility.de/en/h2-stations/
+
+H2 Mobility. 2017b.
+
+Missing Hydrogen Infrastructure. Accessed November 2017.
+
+Hillmansen, S. 2003.
+
+The application of fuel cell technology to rail transport operations. London, England:
+Department of Mechanical Engineering, Imperial College of Science, Technology and
+Medicine.
+
+Hoffrichter, Andreas.
+2013.
+
+Hydrogen as an Energy Carrier for Railway Traction. Doctoral thesis. The Birmingham Centre
+for Railway Research and Education Electronic, Electrical and Computer Engineering College
+of Engineering and Physical Sciences. The University of Birmingham. April
+
+Hoffrichter, Andreas,
+Stuart Hillmansen, and
+Clive Roberts. 2015.
+
+Conceptual propulsion system design for a hydrogen-powered regional train. Accepted on
+April 11, 2015. Edgbaston, Birmingham: Birmingham Centre for Railway Research and
+Education, University of Birmingham.
+
+House of Commons
+Library. 2017.
+
+“Rail Electrification.” Briefing Paper SNO5907 July 27 p. 10.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+280
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 7-1 REFERENCES
+Reference
+
+Document Title
+
+Hua, T.Q., R.K. Ahluwalia,
+J.-K. Peng, M. Kromer, S.
+Lasher, K. McKenney, K.
+Law, and J. Sinha. 2011.
+
+“Technical assessment of compressed hydrogen storage tank systems for automotive
+applications.”. International Journal of Hydrogen Energy. Volume 36, Issue 4, February. pp.
+3037-3049.
+
+Hydrogen Council. 2017a.
+
+How hydrogen empowers the energy transition. January. Accessed October 2017.
+http://hydrogeneurope.eu/wp-content/uploads/2017/01/20170109-HYDROGEN-COUNCILVision-document-FINAL-HR.pdf
+
+Hydrogen Council. 2017b. A sustainable pathway for the global energy transition. November. Accessed December 2017.
+http://hydrogencouncil.com/wp-content/uploads/2017/11/Hydrogen-scaling-up-HydrogenCouncil.pdf
+Hydrogenics. 2017a.
+
+Fuel Cells. Accessed October 2017. www.hydrogenics.com/technology-resources/hydrogentechnology/fuel-cells/.
+
+Hydrogenics. 2017b.
+
+"Hydrogenics Signs Purchase and License Agreement valued at over 50M USD for 1,000 Fuel
+Cell Bus Power Modules." News & Updates. June 8. Accessed November 2017.
+http://www.hydrogenics.com/2017/06/08/hydrogenics-signs-purchase-and-licenseagreement-valued-at-over-50m-usd-for-1000-fuel-cell-bus-power-modules/
+
+Independent Electricity
+System Operator (IESO).
+2016a.
+
+Ontario Planning Outlook. September 1. Accessed October 2017. http://www.ieso.ca/sectorparticipants/planning-and-forecasting/ontario-planning-outlook.
+
+Independent Electricity
+System Operator (IESO).
+2016b.
+
+Ontario Transmission System. December 15.
+
+Independent Electricity
+System Operator (IESO).
+2016c.
+
+IESO Report: Energy Storage. March. Accessed October 2017. http://www.ieso.ca//media/files/ieso/document-library/energy-storage/ieso-energy-storage-report_march2016.pdf
+
+Independent Electricity
+System Operator (IESO).
+2017a.
+
+“What We Do.” About the ISEO. Accessed October 5, 2017. http://ieso.ca/en/learn/about-theieso/what-we-do.
+
+Independent Electricity
+System Operator (IESO).
+2017b.
+
+“Generator Output and Capability (GOC) Tables.” Data Directory. Accessed October 2017.
+http://ieso.ca/en/power-data/data-directory
+
+Independent Electricity
+System Operator (IESO).
+2017c.
+
+“HOEP_2002-2016 table.” Data Directory. http://ieso.ca/en/power-data/data-directory
+
+International Energy
+Agency (IEA). 2015.
+
+Technology Roadmap – Hydrogen and Fuel Cells. Accessed October 2017.
+https://www.iea.org/publications/freepublications/publication/TechnologyRoadmapHydrogen
+andFuelCells.pdf
+
+Johnson Matthey Plc.
+2017.
+
+"History." FuelCellToday. Accessed October 2017. http://www.fuelcelltoday.com/history.
+
+Kenworth. 2017.
+
+Kenworth Advances Low - Zero Emission Prototype Projects on T680 Day Cab Drayage Trucks
+for Southern California Ports. News Releases. May 2. Accessed November 2017.
+https://www.kenworth.com/news/news-releases/2017/may/advanced-prototype-projects/
+
+Kent, Stephen, Dimantha
+Gunawardana, Tom
+Chicken, and Rob Ellis.
+2016.
+
+Future Railway Powertrain Challenge Fuel Cell Electric Multiple Unit (FCEMU) Project. FCEMU
+Project - Phase 1 Report - Issue 1. University of Birmingham, Hitachi Rail, Fuel Cell Systems
+Limited. June.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+281
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 7-1 REFERENCES
+Reference
+
+Document Title
+
+Marcinkoski, Jason, Jacob
+Spendelow, Adria Wilson,
+and Dimitrios
+Papageorgopoulos Fuel
+Cell System Cost - 2015.
+
+DOE Hydrogen and Fuel Cells Program Record 15015. September 30. Accessed November
+2017. https://www.hydrogen.energy.gov/pdfs/15015_fuel_cell_system_cost_2015.pdf.
+
+Market Intelligence and
+Data Analysis Corporation
+(MIDAC). 2016.
+
+Grid Integrated Electrolysis. Prepared for Next Hydrogen. October 31.
+
+Market Intelligence and
+Data Analysis Corporation
+(MIDAC) and
+NextHydrogen. 2016.
+
+Grid Integrated Electrolysis – Facilitating Carbon Emission Reductions in the Transportation,
+Industrial and Residential Sectors. October 31. Accessed October 2017.
+https://tinyurl.com/ybptfola
+
+Meegahawatte, Danushka, Analysis of a fuel cell hybrid commuter railway vehicle. Birmingham: Birmingham Centre for
+Stuart Hillmansen, Clive
+Rail Research and Education, University of Birmingham; and Coventry: Warwick Manufacturing
+Roberts, Marco Falco,
+Group, International Manufacturing Centre, University of Warwick. February 1.
+Andrew McGordon, and
+Paul Jennings. 2010.
+Melaina, M. W., O.
+Antonia, and M. Penev.
+2013.
+
+“Blending Hydrogen into Natural Gas Pipeline Networks: A Review of Key Issues.” National
+Renewable Energy Laboratory technical report, NREL/TP-5600-51995. March.
+
+Metrolinx. 2010.
+
+GO Electrification Study Final Report. Prepared by Delcan Arup Joint Venture. December.
+Accessed October 2017.
+http://www.gotransit.com/electrification/en/project_history/docs/ElectricificationStudy_FinalR
+eport.pdf.
+
+Metrolinx. 2015.
+
+GO RER Initial Business Case. Accessed October 2017.
+http://www.metrolinx.com/en/regionalplanning/projectevaluation/benefitscases/GO_RER_Initi
+al_Business_Case_EN.pdf
+
+Metrolinx. 2017.
+
+GO Rail Network Electrification Transit Project Assessment Process Environmental Project
+Report. Prepared by Morrison Hershfield Limited and Gannet Fleming Canada ULC. October 5.
+Accessed October 2017.
+http://www.gotransit.com/electrification/en/docs/technicalreports/GO%20Rail%20Network%2
+0Electrification%20Environmental%20Project%20Report_Volume%201.pdf
+
+National Audit Office.
+2016.
+
+Modernising the Great Western railway. HC 781. November 9. p. 33.
+
+National Energy Board
+(NEB). 2016.
+
+“Who we are.” About Us. Government of Canada. December 1. Accessed October 3, 2017.
+http://neb-one.gc.ca/bts/whwr/index-eng.html.
+
+National Institute of
+Standards and
+Technology (NIST). 2015.
+
+NIST Calculates High Cost of Hydrogen Pipelines, Shows How to Reduce It. July 20. Accessed
+October 2017. https://www.nist.gov/news-events/news/2015/07/nist-calculates-high-costhydrogen-pipelines-shows-how-reduce-it
+
+National Organisation
+Hydrogen and Fuel Cell
+Technology (NOW). 2017.
+
+"Structure." About NOW. Accessed October 2017. https://www.now-gmbh.de/en/aboutnow/struktur
+
+Natural Resources Canada About Electricity. June 29, 2016. Accessed October 3, 2017.
+(NRC). 2016.
+http://www.nrcan.gc.ca/energy/electricity-infrastructure/about-electricity/7359.
+Natural Resources Canada Photovoltaic and solar resource maps. (Note that high tilt minimizes seasonal variation.) March
+(NRC). 2017.
+20. Accessed October 10. http://www.nrcan.gc.ca/18366
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+282
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 7-1 REFERENCES
+Reference
+
+Document Title
+
+National Renewable
+Hydrogen Station Compression, Storage, and Dispensing Technical Status and Costs.
+Energy Laboratory (NREL). Independent Review published for the U.S. Department of Energy Hydrogen and Fuel Cells
+2014.
+Program. Technical Report NREL/BK-6A10-58564. Contract No. DE-AC36‐08GO28308. May.
+Accessed October 2014. https://www.nrel.gov/docs/fy14osti/58564.pdf
+National Transportation
+Safety Board. 2014.
+
+Auxiliary Power Unit Battery Fire Japan Airlines Boeing 787-8, JA829J. AIR-14-01. November
+21. Accessed October 2017.
+https://www.ntsb.gov/investigations/AccidentReports/Pages/AIR1401.aspx
+
+Nel ASA. 2017.
+
+Nel ASA: Enters Korean hydrogen market through JV with Deokyang. June 30. Accessed
+November 2017. http://mb.cision.com/Main/115/2300162/695161.pdf
+
+Nikola Motor Company.
+2016.
+
+"Nikola One Truck Revealed Tonight @ 7:00 p.m. MST Class 8 zero-emission hydrogen-electric
+truck in production by 2020." News Releases. December 1. Accessed November 2017.
+https://nikolamotor.com/pdfs/December_1_Release.pdf
+
+Office of Energy Efficiency
+& Renewable Energy.
+2016.
+
+State of the States: Fuel Cells in America in 2016. Washington, D.C.: U.S. Department of
+Energy. November. Accessed October 2017.
+https://energy.gov/eere/fuelcells/downloads/state-states-fuel-cells-america-2016
+
+Office of Energy Efficiency
+& Renewable Energy.
+2017.
+
+DOE Shows Fuel Cells Used in Maritime Applications Can Increase Efficiency by 30%.
+Washington, D.C.: U.S. Department of Energy. July 21. Accessed October 2017.
+energy.gov/eere/fuelcells/articles/doe-shows-fuel-cells-used-maritime-applications-canincrease-efficiency-30
+
+Ontario Energy Board
+(OEB). 2012-2017a.
+
+About us. Accessed October 5, 2017. https://www.oeb.ca/about-us.
+
+Ontario Energy Board
+(OEB). 2012-2017b.
+
+“Licensed companies and licensing information.” Industry. Accessed October 5, 2017.
+https://www.oeb.ca/industry/licensed-companies-and-licensing-information.
+
+Ontario Ministry of Energy
+(Ministry). 2013.
+
+Achieving Balance - Ontario’s Long-Term Energy Plan. Accessed October 2017.
+http://www.ieso.ca/en/sector-participants/planning-and-forecasting/long-term-energy-plan.
+
+Ontario Ministry of Energy
+(Ministry). 2016.
+
+About the Ministry. Accessed October 10, 2017. http://www.energy.gov.on.ca/en/about/.
+September 26.
+
+Ontario Ministry of
+Transportation. 2017.
+
+Electric Vehicle Incentive Program (EVIP). October 3. Accessed October 2017.
+http://www.mto.gov.on.ca/english/vehicles/electric/electric-vehicle-incentive-program.shtml
+
+Pacific Northwest National International Hydrogen Vehicles. Spreadsheet data. Accessed October 2017.
+Laboratory (PNNL) and
+http://hydrogen.pnl.gov/sites/default/files/data/International_Hydrogen_Fueled_Vehicles_8.xl
+sx
+U.S. Department of
+Energy (DOE). 2016a.
+Pacific Northwest National U.S. Hydrogen Vehicles. Spreadsheet data. Accessed October 2017.
+Laboratory (PNNL) and
+http://hydrogen.pnl.gov/sites/default/files/data/US_Hydrogen-Fueled Vehicles_6.xlsx
+U.S. Department of
+Energy (DOE). 2016b.
+Pacific Northwest National
+Laboratory (PNNL) and
+U.S. Department of
+Energy (DOE). 2016c.
+
+Resource Center: North American Merchant Hydrogen Plant Production Capacities (1000
+kg/day or larger). Accessed October 2017.
+https://h2tools.org/sites/default/files/data/North%20America_merchant_hydrogen_plants_Jan
+2016_MTD%2B.xlsx.
+
+Panfilov, M. 2016.
+
+"4 – Underground and pipeline hydrogen storage." Compendium of Hydrogen Energy, Volume
+2: Hydrogen Storage, Transportation and Infrastructure. pp. 91-115. Accessed October 2017.
+http://dx.doi.org/10.1016/B978-1-78242-362-1.00004-3
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+283
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 7-1 REFERENCES
+Reference
+
+Document Title
+
+Parks, G. R. Boyd, J.
+Cornish, and R. Remick.
+2014.
+
+Hydrogen Station Compression, Storage, and Dispensing Technical Status and Costs. Technical
+Report NREL/BK-6A 10-58564. Golden, Colorado: National Renewable Energy Laboratory.
+May. Accessed November 2017. https://www.nrel.gov/docs/fy14osti/58564.pdf.
+
+Praxair Technology, Inc.
+2011.
+
+Advanced Hydrogen Liquefaction Process. Contract Number: DE-FG36-08GO18063. Project ID
+PD018. Presented at the DOE annual Merit Review Meeting. Joe Schwartz, presenter.
+Tonawanda, New York: Praxair. May 10. Accessed October 2017.
+https://www.hydrogen.energy.gov/pdfs/review11/pd018_schwartz_2011_p.pdf
+
+Reed, Stanley. 2017.
+
+“Hamburg Is Ready to Fill Up With Hydrogen. Customers Aren’t So Sure.” Business Day. New
+York Times. July 4. Accessed October 2017.
+https://www.nytimes.com/2017/07/04/business/hydrogen-cars-trains-planes-hamburg.html
+
+Rivkin, C., R. Burgess, and
+W. Buttner. 2015.
+
+“Hydrogen Technologies Safety Guide.” National Renewable Energy Laboratory technical
+report, NREL/TP-5400-60948. January
+
+Sabihuddin, S., A. E.
+Kiprakis, and M. Mueller.
+2014.
+
+"A Numerical and Graphical Review of Energy Storage Technologies." I. Taniguchi, ed.
+Energies. ISSN 1996-1073. December 29. Accessed October 2017. www.mdpi.com/19961073/8/1/172/pdf
+
+Scott, David Sanborn.
+2008.
+
+Smelling Land. The Hydrogen Defense Against Climate Catastrophe. April 21. Canadian
+Hydrogen Association.
+
+Sherif, S.A., D. Yogi
+Goswami, Elias K.
+Stefanakos, and Aldo
+Steinfeld, eds. 2014.
+
+Handbook of Hydrogen Energy. July 29. CRC Press.
+
+Smartrailworld.com. 2017. An Asian first as China will deliver new hydrogen light rail service. March 12. Accessed October
+2017. https://www.smartrailworld.com/an-asian-first-as-china-will-deliver-the-first-hydrogentrain
+Stack Exchange Inc. 2017.
+
+"How durable is a supercapacitor." Electrical Engineering. Accessed October 2017.
+https://electronics.stackexchange.com/questions/26366/how-durable-is-a-supercapacitor
+
+Stuart, A., Technical
+Manager of the
+Electrolyser Corporation.
+2017.
+
+Personal communication with Nirmal Gnanapragasam Canadian Nuclear Laboratories.
+October 17.
+
+The Asahi Shimbun
+Company. 2017.
+
+"Cost of hydrogen tanks cut by 30% for stations for fuel-cell vehicles." Asia & Japan Watch.
+March 12. Accessed November 2017.
+http://www.asahi.com/ajw/articles/AJ201703120003.html
+
+The EC Network of
+Excellence for Hydrogen
+Safety "HySafe." 2007.
+
+Biennial Report on Hydrogen Safety (Version 1.2). February 21. Accessed December 2017.
+http://www.hysafe.org/BRHS?op=map#ind265
+
+The International Council
+on Clean Transportation
+(ICCT). 2017.
+
+Developing hydrogen fueling infrastructure for fuel cell vehicles: A status update. Briefing
+prepared by Aaron Isenstadt and Nic Lutsey. October. Accessed October 2017.
+http://theicct.org/sites/default/files/publications/Hydrogen-infrastructure-status-update_ICCTbriefing_04102017_vF.pdf
+
+The Maritime Executive
+(MarEx). 2017.
+
+World's First Hydrogen-Powered Cruise Ship Scheduled. October 2. Accessed October 2017.
+http://maritime-executive.com/article//worlds-first-hydrogen-powered-cruise-ship-scheduled.
+
+Toronto Hydro. 2017.
+
+"Toronto Hydro is testing the world’s first underwater compressed air energy storage project in
+Lake Ontario, near Toronto Island." Underwater Energy Storage. Accessed November 2017.
+https://www.torontohydro.com/sites/electricsystem/gridinvestment/powerup/pages/compress
+edairenergystorageproject.aspx
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+284
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 7-1 REFERENCES
+Reference
+
+Document Title
+
+Toyota. 2017.
+
+“Toyota Opens a Portal to the Future of Zero Emission Trucking.” News Releases. April 19.
+Accessed November 2017.
+http://corporatenews.pressroom.toyota.com/releases/toyota+zero+emission+heavyduty+truc
+king+concept.htm
+
+U.S. Department of
+Energy (DOE). 2006.
+
+Hydrogen Fuel Cells. DOE Hydrogen Program. October. Accessed October 2017.
+https://www.hydrogen.energy.gov/pdfs/doe_fuelcell_factsheet.pdf
+
+U.S. Department of
+Energy (DOE). 2008.
+
+"Section iii.E.3, Fiber-Reinforced Polymer Pipelines for Hydrogen Delivery." FY 2007 Annual
+Progress Report, DOE Hydrogen Program. Accessed October 2017.
+https://www.hydrogen.energy.gov/pdfs/progress07/iii_e_3_smith.pdf
+
+U.S. Department of
+Energy (DOE). 2017.
+
+Fuel Cell Animation. Office of Energy Efficiency & Renewable Energy. Accessed December 15,
+2017. https://energy.gov/eere/fuelcells/fuel-cell-animation
+
+U.S. Energy Information
+Administration (EIA).
+2017.
+
+“Measuring Electricity.” Energy Explained. U.S. Department of Energy (DOE). February 10.
+Accessed September 24, 2017.
+https://www.eia.gov/Energyexplained/index.cfm?page=electricity_measuring
+
+United Nations
+Environment Programme
+(UNEP). 2006.
+
+The Hydrogen economy, a non-technical review. Paris: Division of Technology, Industry and
+Economics (DTIE), Energy Branch.
+
+The Paris Agreement. October 12. Accessed November 2017.
+United Nations
+Framework Convention on http://unfccc.int/paris_agreement/items/9485.php
+Climate Change. 2017.
+van Biert, L., M. Godjevac,
+K. Visser, and A.
+Purushothaman Vellayani.
+2016
+
+“A Review of Fuel Cell Systems for Maritime Applications.” Journal of Power Sources. 327, pp.
+345-364.
+
+Zoulias, Emmanuel, Elli
+Varkaraki, Nicolaos
+Lymberopoulos,
+Christodoulos N.
+Christodoulou, and
+George N. Karagiorgis.
+2004.
+
+A Review of Water Electrolysis. Pikermi, Greece: Centre for Renewable Energy Sources (CRES).
+http://hydrogenoman.com/docs/click%20on%20the%20attached.pdf
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+285
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Appendix A – Symposium Feedback
+A.1.
+
+Introduction
+
+A Hydrail Symposium was conducted by Metrolinx to solicit, gather and analyze feedback from
+qualified members of the public, key stakeholders in the Hydrogen industry and private sector
+companies that are active in the Hydrogen space. Feedback was solicited in 5 key areas: safety,
+implementation, environment, energy and workforce. The key objectives and challenges facing
+Metrolinx for each of these categories was gathered from the perspective of the audience. The
+common themes around each of these areas are highlight below.
+Safety
+The Key Objectives identified in the safety category include:
+
+
+Ensuring adequate training for the entire workforce is conducted as the workforce will need to be
+very familiar with the technology to operate and maintain the system, particularly rail operation.
+This is best done through a formal and structured training program
+
+
+
+Ensuring codes, standards and regulations that are already in place are well known within the
+study and key areas of deficiency are identified
+
+
+
+Providing proper knowledge transfer to the public through a public education campaign that
+shows hydrogen being safe to use; and developing the appropriate methodology of making this
+communication effective
+
+
+
+Adopting risk assessments to tie in with the communications strategy and comparing to other
+energy systems so a proper risk benefit analysis can be conducted
+
+The Key Challenges identified in the safety category include:
+
+
+Controlling misinformation about Hydrail. In terms of public perception, understanding of
+hydrogen is low and this could possibly be the biggest challenge to making it work from a safety
+perspective. Getting the public to understand the technology will be very difficult since perception
+of safety issues will have to be separated from real safety issues. This will require the support of
+media and key government officials
+
+
+
+Working with the government and regulatory bodies to develop adequate regulations will be
+another challenge since the integration of hydrogen on a rail vehicle has never been done on the
+RER scale before
+
+Implementation
+The Key Objectives identified in the implementation category include:
+
+
+Implementing a pilot project immediately with both small and large scale-testing, with a phased-in
+approach. This way, the system can be slowly adjusted to accommodate RER, learn lessons along
+the way to meet the 2024/25 deadline. The phased-in approach also reduces risk
+
+
+
+Develop and maintain stakeholder and government involvement, as well as partnerships with
+other organizations
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+286
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+
+
+Investing the time and effort to nail down the mechanics of refueling (frequency, cost, and who will
+operate) and gather all analytics prior to implementing to deliver on time and on budget. The
+process should not be rushed
+
+The Key Challenges identified in the implementation category include:
+
+
+Delivering on time as per the provincial government promise (which affect public perception) and
+maintaining reliability are crucial since Metrolinx will only have one chance at a first impression
+
+
+
+Managing costs and expectations from planning, to initiation, to full life cycle is thought to be
+difficult
+
+
+
+Finding a one-size-fits-all solution for refuelling/hydrogen production given GTHA’s varied
+geography, track/station layouts is thought to be another hurdle that could dramatically increase
+costs
+
+
+
+Implementing/protecting the program if the minister or government changes is to be looked at so
+efforts and investments are not wasted
+
+Environment
+The Key Objectives identified in the environment category include:
+
+
+Clearly communicating the environmental benefits of hydrogen to the public, in comparison with
+overhead catenary and capturing all pertinent data including air quality, avoiding tree cutting,
+GHG reduction, and noise reduction
+
+
+
+Managing life cycle costs to ensure all decisions are based on lifetime costs and carbon usage.
+
+The Key Challenges identified in the environment category include:
+
+
+Managing the life cycle cost and expectations including a full life cycle analysis if needed
+
+
+
+Incentivizing people out of their cars and into these new transit options
+
+
+
+Coordination of fueling, particularly relating to where to put nodes and hitch stations
+
+
+
+Contextualizing the efficiency question and explaining “how using more energy can be a good
+thing”
+
+Energy
+The Key Objectives identified in the energy category include:
+
+
+Ensuring the efficient utilization of excess power and contextualizing the future availability of offpeak power
+
+
+
+Thorough analysis of costs involved and similar options which need actual life cycle costs, speed,
+infrastructure, testing (there is a lack of understanding surrounding whether or not Hydrail will
+help bring down costs). This would include explaining the changing dynamics of electricity i.e. the
+more infrastructure that uses electricity during off peak, the more the price will increase, and the
+need for new, clean electricity generation which will be expensive
+
+
+
+Define efficiency for a better understanding of what it entails
+
+
+
+Have a holistic approach: impact to the grid as a whole
+
+
+
+Comparison of power to create energy of power for vehicle vs energy for locomotives
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+287
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+The Key Challenges identified in the energy category include:
+
+
+Market changes which affect feasibility of project and the geographical challenges to identify if the
+program will change from region to region
+
+
+
+Managing costs and expectations particularly relating to the transparency needed in electricity
+pricing and the coordination across ministries to develop a long-term policy that will remain in
+place even with the potential change of government
+
+Workforce
+The Key Objectives identified in the workforce category include:
+
+
+Positioning Ontario as an innovative leader in this space and ensuring infrastructure production is
+local (hire local, build local)
+
+
+
+Providing adequate training and skills development to this new workforce (new training scheme
+will be required)
+
+
+
+Moving the concept along in universities, community colleges and the trades
+
+
+
+Ensuring the supply chain capacity is ready to meet demand
+
+The Key Challenges identified in the workforce category include:
+
+
+Ensuring a skilled (local) workforce is ready on time. Questions about if the expertise is being
+exported and if so, if it is sustainable, should be answered
+
+
+
+Managing union agreements effectively to avoid waste
+
+
+
+Overcoming public doubt and uncertainty about economic benefits
+
+
+
+Managing costs and expectations particularly relating to subsidizing labour force and
+procurement and the impact this has on taxation and on the cost benefits module
+
+Other
+Other Key Objectives included:
+
+
+Defining “all-in” costs and lack of transparency about how much the lifecycle costs will be
+managed and funded
+
+
+
+Ensuring public consultations with the people who are really affected which include:
+
+
+
+
+
+Ensuring the public has accurate information
+
+
+
+Proactive outreach to emphasize work that has been done, public education
+
+
+
+Showcasing Canada as a world leader in hydrogen technology
+
+Educating media to avoid negative news stories based on ill-formed opinions
+
+Other Key Challenges included:
+
+
+Challenges relating to procurement challenge including whether to allow international
+businesses/competition and how that might impact the local economy
+
+
+
+Managing expectations in terms of implementation timing and if it is possible to implement the
+Hydrail System by 2025
+
+
+
+Hard to quantify areas such as improvement of the rider experience and if the average user cares if
+the train is powered by hydrogen
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+288
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Appendix B – Hydrail Safety Review
+B.1.
+
+Introduction
+
+The objective of this hydrogen safety review is to assess the hydrogen hazards for the Hydrail System
+to identify unresolved safety issues or gaps in the exiting hydrogen installation standards and codes
+that would make it unfeasible to use HFC-powered trains.
+The scope of this work is to perform a preliminary hydrogen safety review for the Hydrail concept that
+consists of the following six system components (shown in Figure B-1):
+1. Hydrogen production
+2. Hydrogen storage (production site)
+3. Hydrogen distribution
+4. Hydrogen refill (storage)
+5. Hydrogen dispensing
+6. Hydrogen vehicle
+This safety review will identify the main parts, failures, consequences, potential hazards and
+preventative measures. Assessment of the severity or frequency for each failure is outside the scope of
+work. The work scope also includes a review of the legal, regulatory & standards that pertain to the
+Hydrail System.
+FIGURE B-1 HYDRAIL SYSTEM COMPONENTS AND SCENARIOS FOR THE GO TRANSIT NETWORK
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+289
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+B.2.
+
+Hydrogen Properties Relevant to Hydrogen Safety
+
+B.2.1. Forms of Hydrogen
+Hydrogen, the simplest and lightest element on the periodic table, is composed of only one proton
+and one electron. Pure hydrogen exists in the form of hydrogen molecules. It coexists in two different
+forms, ortho (nuclear spins aligned) and para (spins anti-aligned) hydrogen, whose partition is
+dependent on the temperature. Normal hydrogen at room temperature is 75 percent ortho and
+25 percent para. Hydrogen can exist in gaseous, liquid, or slush forms. The normal boiling and
+melting points of hydrogen is 20.3 K and 14.1 K, respectively, at the absolute pressure of 101.325 kPa.
+
+B.2.2. Physical Properties of Hydrogen
+The physical properties of hydrogen relevant to safety are summarized as follows220:
+
+
+At standard temperature and pressure, hydrogen is a colourless, tasteless, odorless, non-toxic,
+and non-corrosive gas. It is the lightest gas, being 1/14 as dense as air. It is positively buoyant
+above a temperature of 22 K, i.e., over almost the entire temperature range of its gaseous state.
+
+
+
+Because of its small size, small molecular weight and low viscosity, H2 has an enhanced propensity
+to leak. Rates of any leakage are enhanced by a factor of 50 higher than for water and 10 for
+nitrogen.
+
+
+
+In a pure hydrogen environment, hydrogen molecules collide with each other and bonds can be
+broken. H+ can penetrate barrier diaphragms. At elevated temperatures and pressures, hydrogen
+can cause severe decarburization and embrittlement for steels. This is a serious concern in any
+situation involving storage or transfer of H2 under pressure.
+
+
+
+Liquid hydrogen (LH2) is a colourless, odourless, and non-corrosive liquid. It is relatively
+unreactive. It is categorized as a cryogenic fluid (<-73°C). Any liquid hydrogen splashed on to the
+skin or in the eyes can cause serious burns by frostbite or hypothermia. LH2 will rapidly boil or
+flash at all temperatures above its boiling point of 20 K. When evaporated from open LH2 pools,
+cold H2 is more viscous than ambient gas and thus more prone to the formation of a flammable
+mixture with air. In confined areas, when LH2 is heated up to ambient conditions, the local
+atmosphere may change drastically due to the volume increase.
+
+B.2.3. Gas Mixing
+H2 by itself is harmless, save for asphyxiation. It must be mixed with air in the right proportion to form
+combustible mixtures. The severity of combustion is strongly dependent upon the hydrogen
+concentration in air. H2 mixing in air is by two transport processes; mass diffusion and convection.
+Diffusion is the transport process in which the rate of transport of hydrogen is directly proportional to,
+and in the opposite direction of, the hydrogen concentration gradient in the hydrogen-air mixture.
+Diffusion will reduce the hydrogen concentration gradients and over time will result in a uniform
+distribution.
+Convection is the transport process where the gas mixture is moved in the opposite direction of the
+pressure gradient. This movement of gases has local differences in momentum and velocity
+(magnitude and direction) which creates eddies and turbulences that result in mixing of the gas
+220 The EC Network of Excellence for Hydrogen Safety "HySafe." 2007. Biennial Report on Hydrogen Safety (Version 1.2). February 21.
+Accessed December 2017. http://www.hysafe.org/BRHS?op=map#ind265.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+290
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+constituents. There are two types of convection. The first is forced convection whereby the gases are
+moved by active systems such as a fan (part of a ventilation system) or a strong wind. The other type of
+convection is called free convection which is due to buoyancy that results from local gas density
+differences. With hydrogen being significantly lighter than air, the buoyancy forces are very strong,
+helping to move the hydrogen upwards. As it moves upwards, it mixes with the entrained air and
+becomes diluted, spreading outwards. This strong positive buoyancy of hydrogen is a favourable
+safety feature in unconfined areas, but can cause a hazardous situation in (partially) confined spaces,
+where the hydrogen can accumulate, e.g., underneath a roof. The rapid mixing of hydrogen with air
+can lead to flammable mixtures very quickly, but on the other hand dilute mixtures to the nonflammable range quickly too.
+
+B.2.4. Combustion
+Owing to its small molecule size, hydrogen is particularly prone to leakage within a system or to the
+surroundings. A potential fire hazard always exists when hydrogen is present and an oxidant exists
+due to its reactivity. A hydrogen flame is colourless. Any visibility is caused by impurities.
+The hydrogen properties that make it more prone to combustion are summarized as follows221:
+
+
+Almost all metals and non-metals react with hydrogen at high temperatures.
+
+
+
+Mixtures containing 4 to 75 percent H2 by volume in air or up to 94 percent in oxygen are
+flammable. The detonable range is given to be 18 - 59 percent H2 in air, however, the range was
+found to depend on the system size.
+
+
+
+The minimum ignition energy is 0.02 mJ for H2-air mixtures, much lower than hydrocarbon-air
+mixtures. A weak spark or the electrostatic discharge by a flow of pressurized H2 gas or by a
+person (~10 mJ) would suffice for an ignition.
+
+
+
+The burning velocity is 2.6 m/s for stoichiometric H2 in air and 11.8 m/s in pure oxygen, much
+higher than other hydrocarbon fuels because of its fast chemical kinetics and high diffusivity.
+Higher burning velocities produce rapid pressure rises and greater chance for a transition from
+deflagration to detonation (DDT).
+
+
+
+Hydrogen produces more heat per unit mass (LHV = 120,000 kJ/kg) than any other automotive
+fuel, but a relatively low heating value per unit of volume unless compressed or liquefied.
+
+
+
+At one atmosphere, the quenching distance is about 0.06 cm for hydrogen compared to 0.2 cm
+for propane.
+
+Combustion of premixed H2-air mixtures can occur as a deflagration or detonation. Both forms are
+often regarded as an "explosion”. When hydrogen is leaked in the form of a jet, typically at a failed
+static or dynamic seal, the jet of hydrogen will mix with air and possibly form a jet fire (or so-called
+diffusion flame or standing flame). The characteristics of each combustion form are defined as follows:
+
+
+A deflagration is a subsonic wave with typical velocities on the order of several meters per second.
+It is also an expansion wave with both pressure and density decreasing across the reaction front.
+The propagation of a deflagration is caused by the diffusion and convection of heat and
+intermediate reaction species from the flame to the unburned gas. The deflagration pressure is
+spatially uniform and bounded by the adiabatic isochoric (constant volume) complete combustion
+(AICC) pressure. For stoichiometric H2-air mixtures, the AICC pressure of confined deflagration
+
+221 Melaina, M. W., O. Antonia, and M. Penev. 2013. “Blending Hydrogen into Natural Gas Pipeline Networks: A Review of Key Issues.”
+National Renewable Energy Laboratory technical report, NREL/TP-5600-51995. March.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+291
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+is 8.3 atm at ambient temperature and pressure. In contrast, the deflagration overpressure of an
+unconfined hydrogen-air gas cloud is in the order of 10 kPa.
+
+
+A detonation, the most energetic form of combustion, is a supersonic wave, with typical velocities
+on the order of a few kilometers per second. It is a compression shock wave with pressure and
+density increasing across the wave. It is caused by heating of the unburned gas via a shock wave
+(created by the energy release in the reaction zone) to temperatures capable of causing ignition in
+the unburned gas. As a result, the reaction front is coupled to the shock wave and they propagate
+at the same velocity. The detonation velocity for hydrogen is in the range of 2000 m/s and the
+pressure ratio across a detonation wave is approximately 15 for stoichiometric H2-air mixture.
+
+A detonation can be initiated directly via strong ignition sources, such as high energy explosives,
+strong shock waves and high voltage discharges. However, it is more often initiated by a process that
+starts from a deflagration and accelerates to a fast flame and transition to detonation (so-called DDT).
+
+
+Diffusion flames take place when fuel and oxidizer are physically separate so that the energy
+release is limited primarily by the mixing process. The fuel and oxidizer mixing may occur in two
+ways: (1) molecular diffusion, where mixing is relatively slow and (2) turbulent mass transfer or
+eddy diffusion, where mass transfer is much more rapid. Flame length is an essential measure of
+jet fire, which is the distance that all the jet fluid has mixed and reacted with the atmosphere.
+
+B.2.5. Material Interaction
+Hydrogen is relatively inert towards most solid materials that may be used to contain it. However, it is
+such a small molecule, it can penetrate many materials at normal temperatures. In some materials, this
+means it permeates and can be lost from a container. In other materials, the hydrogen can enter the
+material structure and change its properties. Most metallic and ceramic materials are relatively
+impervious to hydrogen, whereas many polymers are to some degree permeable.
+
+B.2.5.1 Hydrogen Embrittlement
+The mechanism of hydrogen embrittlement in structural metals is not well-understood, but it is related
+to the ability of hydrogen to dissociate or move around in and between the metal crystal structures. A
+few metals have structures that allow significant permeation of hydrogen at ambient or modest
+temperatures. Some of these are commonly used for containing gases and can suffer significant loss
+of ductility when exposed to hydrogen or if hydrogen is incorporated during fabrication. This effect is
+dependent on the metal microstructure, metal stress, certain impurities (metal or hydrogen),
+temperature and hydrogen pressure. High-strength steel is the most common material of particular
+concern; whereas, mild steel, austenitic stainless steel, aluminum, and copper alloys are considered to
+be largely safe from the effect when not exposed at high temperature. The main means of avoiding
+hydrogen embrittlement is by careful selection of materials and designs that limit stress
+concentrations. Embrittlement is most often a result of incorporation of hydrogenated compounds
+during welding and heat treatment rather than simple exposure to H2.
+
+B.2.5.2 Hydrogen Permeation
+Hydrogen can diffuse through some engineering polymers at rates sufficient to be of concern from
+the point of view of flammability or loss of gas. The range of permeability is very broad and can vary
+by at least 2 orders of magnitude between different types of polymers, but typically elastomers are
+significantly more permeable than rigid materials. There is normally no chemical interaction; the
+process is purely physical—a combination of solubility and diffusivity. In practice, the concerns will be
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+292
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+mostly at mechanical piping connections with elastomer seals (e.g. flanges) or in very high-pressure
+H2 storage vessels made with polymeric materials.
+
+B.3.
+
+Hazard Assessment of Hydrail System Components
+
+B.3.1. Hydrogen Production
+For the Hydrail project, hydrogen production is by low-temperature electrolysis of water in a large
+industrial installation. Water electrolysis is a very well-established technology, with very well
+understood process components and methods of controlling the hazards. From the electrolysis unit,
+the hydrogen will be compressed for storage as gas, or compressed, cooled and liquefied for storage
+as liquid. This, too, is a well-established industrial process.
+An industrial plant specifically for the sole purpose of hydrogen production is well positioned to be
+engineered with active and passive features to minimize hydrogen hazards for all operational and
+failure modes. It is standard procedure to perform a formalized hazards and operability study, Failure
+Modes and Effects Analysis, or both during the design of a new plant. The major concern is
+flammability of hydrogen and most of the hydrogen-related safety features are designed first to limit
+the ability of hydrogen to mix with air, then to ensure any unwanted mixing stays below the lower
+flammability limit and finally to avoid the presence of sources of ignition. Table B-1 briefly lists the
+failures, hazards and mitigation measures for hydrogen production.
+
+B.3.2. Hydrogen Storage (Production Site)
+B.3.2.1 Gaseous Hydrogen
+Gaseous storage of hydrogen is assumed to be in relatively low pressure compressed gas tanks.
+Weight is not an issue, so it seems logical to rule out Class III and IV, which are more expensive. Type I
+is the lowest cost, and generally consists of a seamless steel or aluminum tank with a maximum
+pressure of 25 MPa. Type II consists of a seamless metallic tank, but hoop wrapped with fibre resin to
+increase its maximum pressure to 45-80 MPa. Type II is more costly than Type I because of the fibre
+resin wrap.
+A quick internet search found the largest commercially available hydrogen storage tank had a
+capacity of showed that commercially available hydrogen storage tanks have a 15 m3 capacity
+(30 MPa). To meet the hydrogen storage requirements for the Hydrail project will require hundreds of
+these tanks.
+Hundreds of 30 MPa storage tanks (commercially available 30 MPa hydrogen storage tanks have a
+maximum capacity of about 15 m3) will be needed to store the thousands of cubic metres of hydrogen
+required by the Hydrail project. This will require a significant amount of piping and valving to move
+the hydrogen to all these distributed tanks. These tanks will also need valves (including check valves)
+to allow each tank to be isolated, so that in the event a pressurization event occurs for one tank and
+the pressure relief device or temperature/pressure relief device activates, only the affected tank will
+release its content.
+An assessment of the hazards for gaseous hydrogen storage at the production site is shown in
+Table B-2. Many of the failures leads to a release of hydrogen from either the storage tank or the
+attached components (e.g. pipes, fittings, pressure relief devices). This hydrogen release can result in
+a formation of a combustible cloud. The hydrogen release can also result in a standing flame at the
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+293
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+release point. Large sudden releases can also result in over-pressurization of a confined space. The
+general preventative measures to protect from the potential hazards for a hydrogen release are:
+
+
+
+
+Located in a confined space:
+
+
+Periodic inspection and leak testing
+
+
+
+Barriers to protect against external impacts
+
+
+
+Exclusion zone
+
+
+No ignition sources
+
+
+
+No obstructions to aid in flame acceleration/DDT
+
+
+
+Limited personnel access
+
+
+
+Ventilation is required to guard against hydrogen accumulation. However, Ventilation may not
+be sufficient for large sudden releases. Blow-out panels (needed for protection against
+pressurization) will need to be located to aid in venting of hydrogen.
+
+
+
+Blow out panels to protect the confined space against pressurization due to large sudden
+releases of H2 or pressurization due to combustion.
+
+
+
+Hydrogen detection and warning system
+
+
+
+Pressure monitoring and warning system for unexpected depressurization of the component
+
+Located in an unconfined space:
+
+
+Protect from environment to ensure its mechanical integrity.
+
+
+
+Periodic inspection and leak testing
+
+
+
+Barriers to protect against external impacts
+
+
+
+Exclusion zone
+
+
+
+
+
+No ignition sources
+
+
+
+No obstructions to aid in flame acceleration/DDT
+
+
+
+Limited personnel access
+
+Pressure monitoring and warning system for unexpected depressurization of the component
+
+Two other failure mechanisms need further discussion. The first is the possible introduction of air into
+the system to form a combustible hydrogen-air mixture within the tank/pipes. The preventative
+measure is to monitor for the presence of oxygen (or air) in the tanks/pipes. The second failure is
+related to the temperature and pressure relief devices used to protect the storage tanks from failure
+due to over-pressurization. They are designed to remain open once activated. Their preventative
+measures include limiting the vent size to adequately provide pressure protection, but also to limit the
+size of the hydrogen cloud. As well, the vent should be directed away from personnel, energy sources
+and control/safety systems. These TPRD/PRD will also require protection against ice build-up.
+
+B.3.2.2 Liquid Hydrogen
+Liquid hydrogen is stored at low (cryogenic, -245°C) temperatures and at pressures of 0.6 MPa. The
+liquid hydrogen storage is a Dewar, double-walled, vacuum-insulated vessel made of steel alloys. The
+inherent heat transfer from the surroundings, through the vessel walls will cause the hydrogen to
+evaporate/boil inside the tank. This build-up of hydrogen causes a pressure rise inside the vessel. The
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+294
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+H2 is vented to maintain a vessel pressure below its normal operating pressure (about 0.6 MPa). The
+amount of hydrogen released vented is called boil-off. The main components of a liquid hydrogen
+tank are:
+
+
+Double-walled, vacuum insulated vessel made of steel alloys
+
+
+
+Shut-off devices
+
+
+
+Boil-off system
+
+
+
+Pressure relief devices (PRDs)
+
+
+
+The interconnecting piping and fittings between the components
+
+NASA stores its liquid hydrogen in a 3,218 m3 vacuum bottle, which is more than 5 times the
+estimated amount of liquid hydrogen required for the Hydrail project. This indicates that all liquid
+hydrogen needed for the Hydrail project can be stored in one vessel. This would make a liquid
+hydrogen storage facility much simpler logistically. However, a failure of one component can result in
+the discharge of the entire volume of liquid hydrogen.
+An assessment of the hazards for liquid hydrogen storage at the production site is shown in Table B-3.
+A release of liquid hydrogen would vaporize upon contacting the outside environment (its
+vaporization rate will be dependent upon the rate of heat transfer to the liquid hydrogen) to form a
+relative cold H2 cloud with a possibility to form a heavier than air hydrogen cloud that can remain
+grounded. As well, the lower temperatures of the H2 will reduce its buoyancy and diffusion with air.
+Asphyxiation is more of a possibility, even in unconfined space. The resulting hydrogen cloud can also
+be combusted. The preventative measures for liquid hydrogen release includes:
+
+
+Common:
+
+
+Periodic inspection
+
+
+
+Barriers to protect against external impacts
+
+
+
+Exclusion zone
+
+
+No ignition sources
+
+
+
+No obstructions to aid in flame acceleration/DDT
+
+
+
+Limited personnel access
+
+
+
+Liquid hydrogen liquid level monitoring and warning system for unexpected loss of liquid
+hydrogen
+
+
+
+Liquid hydrogen temperature monitoring and warning system for unexpected rise in
+temperature.
+
+
+
+Select materials that are less susceptible to hydrogen embrittlement (low carbon, low allow
+and low strength steels are less susceptible)
+
+
+
+Isolation from heat sources
+
+
+
+Direct liquid hydrogen flow to safe areas
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+295
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+
+
+
+
+Located in a confined space:
+
+
+Ventilation may not be sufficient. Blow-out panels (needed for protection against
+pressurization) will need to be located to aid in venting of hydrogen.
+
+
+
+Blow out panels to protect against pressurization due to high expansion ratio for liquid
+hydrogen to gas.
+
+
+
+Hydrogen detection and warning system
+
+Located in an unconfined space:
+
+
+Protect from environment to ensure its mechanical integrity.
+
+Underlying these preventative measures is the importance of maintaining the integrity of the vacuum
+insulation between the inner and outer walls of the liquid hydrogen storage tank.
+If the release path is connected to the gas space of the liquid storage system, then gaseous hydrogen
+will be released, but limited to the boil-off rate. The same potential hazards and preventative
+measures for gaseous hydrogen storage would apply.
+
+B.3.3. Hydrogen Distribution
+Hydrogen can be transported and distributed from a centralized production site to the consumer by
+compressed gas using pipelines or by compressed gas or liquid using ships, railways or road tankers.
+Hydrogen pipeline delivery is considered a cost-effective way to move hydrogen from its production
+location to end users, though usually only at large volumes. The cost to construct a large-scale,
+dedicated hydrogen pipeline system can be very high depending on the distance and capacity. An
+alternative delivery pathway for large volume and long distance is to use the existing natural gas
+pipelines by blending hydrogen with the natural gas222 . The pipeline delivery system usually consists
+of compressor stations, transmission (mains) and distribution (customers) lines, regulators and meters.
+The potential hazards associated with transport of gaseous hydrogen using existing natural gas
+pipelines are summarized in Table B-4. The primary prevention measures for the pipeline associated
+with fire or explosion are:
+
+
+Regular in-line inspection
+
+
+
+Leak detection or cathodic protection monitoring system
+
+
+
+Sufficient venting in confined service areas
+
+
+
+Limited H2 fraction in the blends with natural gas (i.e., less than 50 percent).
+
+Road transport of gaseous hydrogen is presently carried out using trucks with steel cylinders of up to
+90 litres at 200 – 250 bar pressure or large seamless cylinders called “tubes” of up to 3000 litres at
+200 – 250 bar. For transport in larger scale, pressure of up to 500-600 bars or even higher may be
+employed. However, a 40-ton truck can only carry 400 kg compressed hydrogen because of the
+weight of a 200 bar pressure vessel. The gaseous hydrogen distribution by trailers consists of
+pressurized tubes, connection hose and PRD. The potential hazards associated with transport of
+pressurized gaseous hydrogen by tube trailers are summarized in Table B-5.
+Liquid hydrogen road transport using a cryogenic tank is carried out using trucks which can exceed a
+capacity of 60,000 litres. However, liquefaction process is both time consuming and energy
+demanding. Liquid hydrogen is difficult to store over a long period (loss by vaporization) and the
+222 Rivkin, C., R. Burgess, and W. Buttner. 2015. “Hydrogen Technologies Safety Guide.” National Renewable Energy Laboratory technical
+report, NREL/TP-5400-60948. January.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+296
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+insulated tank may be large and bulky. The liquid hydrogen delivery system consists of storage tanks
+(inner and outer tanks), connecting hose, heat exchanger and pressure regulating valves. The
+potential hazards associated with transport of liquid hydrogen by road are summarized in Table B-6.
+The primary prevention measures for both delivery methods associated with fire or explosion are:
+
+
+Regular inspection of the storage tanks and PRD
+
+
+
+Sufficient driver training for unloading and re-fill and operating procedure
+
+
+
+H2 detection system in the loading and staging area
+
+
+
+Separation distance between loading vehicles and from H2 fill to gasoline storage
+
+B.3.4. Hydrogen Refill (Local storage at refuelling site)
+B.3.4.1 Gaseous Hydrogen
+The Hydrail project proposes to store gaseous hydrogen at refilling stations at 87.5 MPa. This can be
+accommodated by TYPE II and IV gaseous hydrogen storage tanks. Type II consists of a seamless
+metallic tank, hoop wrapped with fibre resin to increase its maximum pressure to 45-80 MPa
+(literature suggests that the maximum pressure for Type II tanks are unlimited). Type IV hydrogen
+storage tanks employ a non-metallic liner (e.g. plastic as a permeation barrier) wrapped in a
+fibre/epoxy matrix (for strength). Literature search indicates that most of the research/development of
+Type IV tanks are for use in cars, with working pressure of 70 to 80 MPa. These maximum pressures for
+Type II and IV tanks may not meet the Hydrail requirement to store gaseous hydrogen at 87.5 MPa.
+Thus, a booster compressor would be required to meet the pressure needed to fill the 70 MPa onboard storage tanks (on the trains). Type IV tanks are significantly lighter than Type II, but with a
+significantly higher cost. The weight of the storage tanks is not a factor for stationary hydrogen
+storage at a refilling station. Thus, it is recommended that gaseous hydrogen be stored in Type II
+hydrogen storage tanks at the refilling stations. Hazards associated with Type II gaseous hydrogen
+storage is already covered in Table B-2 and discussed in Section 3.2.1. The only difference being the
+higher-pressure tanks will result in higher hydrogen release rates from a break (in the tank wall) as
+compared to the gaseous hydrogen stored in lower pressures storage tanks at production sites.
+
+B.3.4.2 Liquid Hydrogen
+Liquid storage at the hydrogen refilling station is essentially the same as liquid hydrogen storage at
+the production site, except for a lower storage volume. Thus, the hazards assessment for liquid
+hydrogen storage (production site) shown in Table B-3 and discussed in Section 3.2.2 would apply for
+liquid hydrogen storage at the refilling station.
+
+B.3.5. Hydrogen Dispensing
+The fueling dispenser contains controls, fuel metering, and a connection from the fueling hose Error!
+Reference source not found.]. It draws fuel from the hydrogen refill storage tanks and the controls
+determine the final fill pressure on the vehicle. The dispenser meters the quantity of fuel transferred to
+achieve the design pressure. The potential hazards associated with dispensing gaseous hydrogen are
+summarized in Table B-7 and in Table B-8 for liquid hydrogen. The primary prevention measures for
+fire or explosion for dispensing are:
+
+
+Regular inspection of the cascade control, dispensing hose and nozzle, and emergency shut offs
+
+
+
+Leak check prior to fill
+
+
+
+Isolation vales for breakaway connection and shut off valves for dispenser
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+297
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+B.3.6. Hydrogen Vehicle (On-train use of hydrogen)
+The passenger train can be driven by either a single locomotive with fuel storage, fuel cells and
+batteries aboard, a single locomotive and a fuel tender, or an EMU consisting of separately driven
+units with fuel storage, fuel cells, and batteries aboard each. The hazards associated with each part of
+the power generation system on a train are not significantly different from the case for stationary
+systems such as already discussed for hydrogen storage and distribution. However, combining the
+equipment necessary for powering the train in a small space creates additional hazards and making
+them mobile with passengers nearby further complicates the safety considerations.
+If the greatest concern is for the large amount of hydrogen stored in the tanks, this may advocate for a
+design that uses a fuel tender to separate the fuel from the engine and the passengers. It may also
+lead to the use of gaseous storage with multiple independently isolatable tanks to limit the volume of
+hydrogen released from a tank rupture. In addition, compressed hydrogen stored in roof
+compartments helps ensure that any release is most likely to vent away from people.
+The potential hazards associated with the three parts of the power system are summarized in
+Table B-9 to Table B-11.
+
+B.3.7. Summary
+The potential hazards for the different component failures for the Hydrail system are outlined in
+Sections 3.1 to 3.6. Although there are potential hazards associated with the use of hydrogen,
+preventative measures are available that can be employed to prevent or mitigate the impact of the
+potential hazards. Thus, there are no unresolvable safety issues surrounding the use of hydrogen for
+the Hydrail system.
+Many of the failures leads to release of hydrogen that leads to formation of combustible hydrogen-air
+mixtures with the potential for a fire or explosion. Safety analysis will need to be performed to study
+hydrogen dispersion and combustion for these failures/accidents. This will require the use of qualified
+computer codes that are supported by validation against relevant experimental datasets.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+298
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE B-1 HAZARD ASSESSMENT OF HYDROGEN PRODUCTION
+Main Parts or
+Process
+Electrolyzer unit
+
+Failure
+Leak of hydrogen
+
+Over-pressurization
+
+DATE: 02/02/2018
+
+Unwanted release of
+hydrogen
+
+Unwanted release of
+hydrogen
+
+Potential Hazard
+
+Preventative Measure
+
+
+
+Combustion or explosion
+
+
+
+Design for high integrity
+
+
+
+asphyxiation due to formation of a
+hydrogen cloud
+
+
+
+Zone classification
+
+
+
+Unconfined (outdoor) location or
+appropriately ventilated confinement
+
+
+
+Combustion or explosion of hydrogen
+
+
+
+Follow pressure code for design
+
+
+
+Rupture of a pressure system
+
+
+
+Functioning PRD that is properly
+maintained
+
+
+
+Zone classification
+
+
+
+Unconfined (outdoor) location or
+appropriately ventilated confinement
+
+
+
+Adherence to purging protocols
+
+
+
+Design for explosion pressure
+
+
+
+Emergency heating or freeze-protection
+
+Explosion
+
+Improper operation or
+maintenance
+
+Mix of hydrogen and
+air inside system
+
+
+
+Freezing conditions
+
+Cell or vessel rupture
+with unwanted
+release of hydrogen
+
+
+
+Combustion or explosion of hydrogen
+
+
+
+Rupture of a pressure system
+
+Impure hydrogen
+produced
+
+
+
+No immediate hazard
+
+
+
+Redundancy
+
+
+
+Possible safety system malfunction from
+unexpected moisture
+
+
+
+Reliable purity monitoring
+
+
+
+Possible damage to fuel cells in trains
+
+Purification system
+malfunction
+
+CPG-PGM-RPT-245
+
+Consequence
+
+299
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE B-2 HAZARD ASSESSMENT OF GASEOUS HYDROGEN STORAGE (PRODUCTION SITE)
+Main Parts or
+Process
+Storage tank
+
+Failure
+Small opening
+(crack or hole)
+
+Consequence
+Slow release of
+hydrogen
+
+The small leak
+may be difficult to
+detect.
+
+Potential Hazard
+Located in a confined space:
+
+Preventative Measure
+Common:
+
+
+
+Combustion of a hydrogen cloud
+formed in a confined space
+
+
+
+Periodic inspection and leak testing
+
+Asphyxiation due to formation of
+a hydrogen cloud in a confined
+space
+
+
+
+Barriers to protect against external impacts
+
+
+
+
+
+Exclusion zone
+o No ignition sources
+
+
+
+Standing flame
+
+Located in an unconfined space:
+
+
+Standing flame
+
+o
+
+
+Limited personnel access
+
+Pressure monitoring and warning system for unexpected
+depressurization of the component
+
+Located in a confined space:
+
+
+Adequate ventilation to prevent accumulation of hydrogen
+
+
+
+Hydrogen detection and warning system
+
+Located in an unconfined space:
+
+Storage tank
+
+Large opening
+(crack or hole)
+
+Rapid release of
+hydrogen
+
+Located in a confined space:
+Combustion of a hydrogen cloud
+formed in a confined space
+
+
+
+Periodic inspection
+
+Asphyxiation due to rapid
+formation of a hydrogen cloud in
+a confined space
+
+
+
+Barriers to protect against external impacts
+
+
+
+
+
+Exclusion zone
+o No ignition sources
+
+
+
+Over-pressurization of a confined
+space
+Standing flame
+
+Located in an unconfined space:
+
+
+
+
+
+
+DATE: 02/02/2018
+
+Common:
+
+
+
+
+
+CPG-PGM-RPT-245
+
+Protect from environment to ensure its mechanical integrity.
+
+Combustion of a hydrogen cloud
+formed in an unconfined space
+(duration and size of cloud will
+be limited by H2 transport to the
+environment)
+
+
+
+o
+
+No obstructions to aid in flame acceleration/DDT
+
+o
+
+Limited personnel access
+
+Pressure monitoring and warning system for unexpected
+depressurization of the component
+
+Located in a confined space:
+
+
+Ventilation is required to guard against hydrogen
+accumulation.
+
+
+
+Asphyxiation due to rapid
+formation of a hydrogen cloud
+near the release.
+
+Blow out panels to protect confined space against
+pressurization due to large sudden releases. Blow out
+panels should be located to assist in hydrogen venting
+
+
+
+Hydrogen detection and warning system
+
+Standing flame
+
+
+
+300
+
+Located in an unconfined space:
+Protect from environment to ensure its mechanical integrity.
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE B-2 HAZARD ASSESSMENT OF GASEOUS HYDROGEN STORAGE (PRODUCTION SITE)
+Main Parts or
+Process
+
+Failure
+
+Consequence
+
+Potential Hazard
+
+Preventative Measure
+

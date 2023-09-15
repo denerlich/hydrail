@@ -1,0 +1,2659 @@
+Regional Express Rail Program
+Hydrail Feasibility Study Report
+CPG-PGM-RPT-245
+Revision B
+February 2, 2018
+
+Prepared for Metrolinx by:
+CH2M HILL Canada Limited (now Jacobs Engineering Group Inc.)
+Ernst & Young Orenda Corporate Finance Inc.
+Canadian Nuclear Laboratories
+
+Revision
+
+Purpose of Submittal
+
+Date
+
+Comments
+
+A
+
+Draft
+
+December 20, 2017
+
+Submitted to Metrolinx for review
+
+B
+
+Final
+
+February 2, 2018
+
+Updated with review comments
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+i
+
+Revision B
+
+Contents
+Section
+
+Page
+
+References .............................................................................................................................................................. 1
+Acronyms and Abbreviations.............................................................................................................................. 1
+1
+
+Executive Summary ................................................................................................................................. 8
+1.1
+Hydrail System Structure .......................................................................................................... 9
+1.2
+Hydrail System Design and Operation ................................................................................. 10
+1.3
+Financial Modelling ................................................................................................................. 15
+1.4
+Challenges ............................................................................................................................... 17
+1.5
+Opportunities........................................................................................................................... 19
+1.6
+Recommended Next Steps .................................................................................................... 21
+
+2
+
+Introduction ............................................................................................................................................. 22
+2.1
+Purpose and Objective of the Study ..................................................................................... 22
+2.2
+Metrolinx Hydrail Workstream Overview.............................................................................. 22
+2.3
+Report Overview ...................................................................................................................... 25
+2.4
+Study Methodology................................................................................................................. 26
+2.5
+Permissions .............................................................................................................................. 26
+
+3
+
+Hydrogen Overview .............................................................................................................................. 27
+3.1
+Introduction to Hydrogen....................................................................................................... 27
+3.2
+Hydrogen Technology ............................................................................................................ 30
+3.2.1 Hydrogen Production Options .................................................................................. 30
+3.2.2 Placing Hydrogen in Context .................................................................................... 32
+3.2.3 The Hydrail System ..................................................................................................... 33
+3.2.4 Hydrogen Fuel Production ........................................................................................ 34
+3.2.5 Fuel Storage – Gaseous and Liquid Hydrogen ........................................................ 36
+3.2.6 Fuel Distribution.......................................................................................................... 39
+3.2.7 Refuelling and Dispensing ......................................................................................... 40
+3.2.8 Vehicle Propulsion: Hydrogen Fuel Cells ................................................................ 42
+3.2.9 Vehicle Power Management – Battery Technology ................................................ 49
+3.2.10 Vehicle Hydrogen Management – Storage Tanks ................................................... 52
+3.2.11 Potential Competing Technologies .......................................................................... 54
+3.3
+Where Hydrogen Can be Used ............................................................................................. 56
+3.3.1 Overview ...................................................................................................................... 56
+3.3.2 Case Studies ................................................................................................................ 62
+
+4
+
+Hydrail Assessment ................................................................................................................................ 67
+4.1
+Hydrail System Design ............................................................................................................ 67
+4.1.1 Key Components Overview ....................................................................................... 68
+4.1.2 Electricity Supply Subsystem ..................................................................................... 69
+4.1.3 Hydrogen Production Subsystem ............................................................................. 70
+4.1.4 Hydrogen Storage Subsystem .................................................................................. 74
+4.1.5 Hydrogen Distribution Subsystem ............................................................................ 78
+4.1.6 Hydrogen Refuelling Subsystem ............................................................................... 82
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+ii
+
+Revision B
+
+CONTENTS, CONTINUED
+
+4.2
+4.3
+
+4.4
+
+4.5
+
+4.6
+
+4.7
+
+4.8
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+4.1.7 Hydrogen Dispensing Subsystem............................................................................. 83
+4.1.8 Hydrogen Vehicle Subsystem ................................................................................... 85
+Hydrail System Operations and Maintenance ..................................................................... 95
+4.2.1 Operating, Maintaining, and Renewing the Hydrail System .................................. 95
+4.2.2 Hydrail System Operation Modelling ..................................................................... 107
+Electricity Policy and Pricing ................................................................................................ 126
+4.3.1 Governance, Regulatory, and Management Framework ..................................... 127
+4.3.2 Ontario’s Electricity System ..................................................................................... 128
+4.3.3 Electricity Forecasts .................................................................................................. 135
+4.3.4 Electricity Pricing ....................................................................................................... 142
+4.3.5 Implications for Hydrail ............................................................................................ 144
+4.3.6 Electricity Pricing Forecast for Hydrail .................................................................... 147
+4.3.7 Summary of Key Findings ........................................................................................ 148
+Costs and Benefits ................................................................................................................. 149
+4.4.1 Review of RER Benefit to Cost Ratio Development ............................................... 150
+4.4.2 Hydrail System Modelling ........................................................................................ 156
+4.4.3 Comparative Cost/Benefit Assessment of the Simulation Scenarios.................. 164
+4.4.4 Sensitivity Analysis .................................................................................................... 167
+4.4.5 Model Benchmarking ............................................................................................... 168
+4.4.6 Results of the Hydrail Modelling Exercise .............................................................. 170
+4.4.7 Updates to the IBC.................................................................................................... 172
+4.4.8 Other Considerations ............................................................................................... 173
+4.4.9 Fiscal Analysis ............................................................................................................ 175
+4.4.10 Findings ..................................................................................................................... 177
+4.4.11 Next Steps .................................................................................................................. 177
+Environmental ........................................................................................................................ 178
+4.5.1 Evaluation Methodology .......................................................................................... 178
+4.5.2 Evaluation Results ..................................................................................................... 180
+4.5.3 Environmental Conclusions ..................................................................................... 182
+Legal, Policy, and Regulatory Framework .......................................................................... 188
+4.6.1 Laws and Regulations Governing Metrolinx .......................................................... 188
+4.6.2 Existing Laws, Regulations, Standards, and Codes – Hydrogen Facilities
+and Transportation ................................................................................................... 189
+4.6.3 Other Existing Laws, Regulations, Standards, and Codes Relevant to Hydrail.. 191
+4.6.4 How Existing Regulations Might Need to Change for Hydrail ............................ 192
+4.6.5 Need for Additional Laws, Regulations, Standards, and Codes specifically
+for Hydrail .................................................................................................................. 193
+4.6.6 Proposed Roadmap .................................................................................................. 193
+Socio-economic Impacts ...................................................................................................... 194
+4.7.1 Quantitative Assessment.......................................................................................... 194
+4.7.2 Qualitative Assessment ............................................................................................ 200
+4.7.3 Conclusion ................................................................................................................. 203
+Public Acceptance ................................................................................................................. 204
+4.8.1 The California Hydrogen Highway .......................................................................... 204
+4.8.2 The German Experience .......................................................................................... 207
+4.8.3 Differences between Ontario and the California and German Deployments ... 209
+4.8.4 Recommendations for Ontario Deployment ......................................................... 210
+
+iii
+
+Revision B
+
+CONTENTS, CONTINUED
+
+4.9
+
+4.10
+
+4.11
+4.12
+
+Implementation Readiness ................................................................................................... 213
+4.9.1 Hydrogen Economy .................................................................................................. 213
+4.9.2 Overview of Hydrogen Related Businesses ........................................................... 219
+4.9.3 Hydrogen Fuel Cell Rail Vehicle Market Maturity and Trajectory ....................... 221
+Commercial ............................................................................................................................ 222
+4.10.1 Current RER Procurement Strategy and Impact of Hydrail .................................. 222
+4.10.2 Jurisdictional Scan .................................................................................................... 225
+4.10.3 Considerations for structuring commercial arrangements .................................. 230
+4.10.4 Grid Interface, Hydrogen Production, Storage, Distribution and Dispensing... 231
+4.10.5 Hydrail Rolling Stock, Operations and Maintenance of Rolling Stock and
+Related Maintenance Facilities ................................................................................ 234
+4.10.6 Procurement Factors ................................................................................................ 236
+4.10.7 Timeline Considerations .......................................................................................... 239
+Transition Plan ....................................................................................................................... 241
+4.11.1 Strategy to Introduce Hydrail .................................................................................. 241
+4.11.2 Timescales ................................................................................................................. 242
+Risks and Opportunities ....................................................................................................... 244
+4.12.1 System Design Risks ................................................................................................. 244
+4.12.2 System Implementation Risks .................................................................................. 251
+4.12.3 System Operational Risks......................................................................................... 253
+4.12.4 Opportunities ............................................................................................................ 257
+
+5
+
+RER Program Electrification ...............................................................................................................260
+5.1
+Current RER Program ............................................................................................................ 260
+5.1.1 Scope.......................................................................................................................... 260
+5.1.2 Train Service Plan ...................................................................................................... 263
+5.1.3 Procurement of Rolling Stock .................................................................................. 266
+5.2
+RER Electrification Infrastructure Extent and Possible Scope Changes due to Hydrail 268
+
+6
+
+Recommended Next Steps.................................................................................................................271
+6.1
+Actions to Further Develop Hydrail ..................................................................................... 271
+6.1.1 System Size ................................................................................................................ 271
+6.1.2 Subsystem Concept Designs ................................................................................... 272
+6.1.3 Hydrogen Production Location Identification ....................................................... 273
+6.1.4 Operational Functionality ........................................................................................ 274
+6.1.5 Cost Estimates ........................................................................................................... 274
+6.1.6 Implementation Plan ................................................................................................ 274
+6.1.7 Safety Case Roadmap .............................................................................................. 275
+6.1.8 Prototype Hydrail System......................................................................................... 275
+6.2
+Actions to Align the Hydrail System with Provincial Government Policy ........................ 276
+6.2.1 Electricity Price Policy ............................................................................................... 276
+6.2.2 Hydrogen Economy .................................................................................................. 276
+6.3
+Actions to Integrate the Hydrail System into the DBFOM Procurement Process .......... 277
+
+7
+
+References .............................................................................................................................................278
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+iv
+
+Revision B
+
+CONTENTS, CONTINUED
+
+Appendices
+Appendix A – Symposium Feedback ........................................................................................................... 286
+Appendix B – Hydrail Safety Review ............................................................................................................. 289
+Appendix C – Ontario Rail Sector ................................................................................................................. 319
+Appendix D – Summary of Inputs for Socio Economic Impacts with Key Assumptions ......................... 325
+Appendix E – List of Contacted Organizations ........................................................................................... 343
+
+Figures
+Figure 1-1 Hydrail System Structure................................................................................................................. 9
+Figure 2-1 The Hydrail Workstream ............................................................................................................... 22
+Figure 3-1 Schematic of Water Electrolysis Process..................................................................................... 28
+Figure 3-2 Electricity and Hydrogen Transactions based on Two Processes............................................ 29
+Figure 3-3 Hydrogen Production Technologies ........................................................................................... 30
+Figure 3-4 Global Industrial Hydrogen Production Capacity, Production, and Consumption ............... 32
+Figure 3-5 The Hydrail System ........................................................................................................................ 33
+Figure 3-6 Hydrogen Storage Technologies Relevant to Hydrail ............................................................... 37
+Figure 3-7 Schematic of Refuelling Storage and Dispensing Setup for Hydrogen Powered Cars......... 41
+Figure 3-8 Fuel Cell Powered Propulsion System in Vehicles..................................................................... 43
+Figure 3-9 Fuel Cell schematic Components ............................................................................................... 44
+Figure 3-10 Comparison of Fuel Cell Applications for Various Transportation Sector Vehicles ............ 46
+Figure 3-11 Comparison of Six Types of Li-ion Batteries............................................................................. 50
+Figure 3-12 High-pressure Type IV Hydrogen Storage Tanks used in Cars .............................................. 52
+Figure 3-13 Reasons for Unavailability of Fuel Cell-electric Buses ............................................................. 53
+Figure 3-14 Hydrogen Applications in Four Prevalent Market Areas ........................................................ 56
+Figure 3-15 Fuel Cell Adaptation in the United States for Backup Power and Forklift Applications ..... 58
+Figure 3-16 PEM Fuel Cell Consumer Vehicles Sold in the Last 6 years.................................................... 60
+Figure 4-1 Hydrail System Components ........................................................................................................ 68
+Figure 4-2 Electrical Supply System ............................................................................................................... 69
+Figure 4-3 Hydrogen Production subsystem ................................................................................................ 71
+Figure 4-4 PEM Water Electrolyzer Performance ......................................................................................... 73
+Figure 4-5 Hydrogen Storage subsystem...................................................................................................... 75
+Figure 4-6 Hydrogen Distribution subsystem ............................................................................................... 79
+Figure 4-7 Hydrogen Refuelling subsystem .................................................................................................. 83
+Figure 4-8 Hydrogen Dispensing System...................................................................................................... 84
+Figure 4-9 Hydrogen Vehicle System ............................................................................................................ 86
+Figure 4-10 Relationship between peak power and acceleration ............................................................. 87
+Figure 4-11 Relationship between train weight and fuel requirement ...................................................... 88
+Figure 4-12 Space distribution above the powered rail vehicle floor and trucks..................................... 89
+Figure 4-13 Fuel Cell System Lifetime Changes ........................................................................................... 96
+Figure 4-14 Relationship between Fuel Cell Lifetime and Operational Time ........................................... 96
+Figure 4-15 Relationship between Electrolyzer Lifetime and Current Density ......................................... 97
+Figure 4-16 Monthly Average Electricity in MW from Wind and Solar Installations in
+Ontario for 2016 ........................................................................................................................ 108
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+v
+
+Revision B
+
+CONTENTS, CONTINUED
+
+Figure 4-17 Trend of Ontario Grid HOEP .................................................................................................... 109
+Figure 4-18 Average Contribution to Ontario Electricity Supply in 2016 by Source Type.................... 110
+Figure 4-19 Fuel Cell System Cost Changes ............................................................................................... 114
+Figure 4-20 Vehicle Cost Breakdown of Locomotive Hydrogen Components ...................................... 116
+Figure 4-21 Vehicle Cost Breakdown of HMU Hydrogen components ................................................... 116
+Figure 4-22 Hydrail Operational Simulation Model Design ...................................................................... 117
+Figure 4-23 Daily Hydrogen Production Reflecting the use of Cheaper Electricity Price Periods
+Starting in 2024 ......................................................................................................................... 119
+Figure 4-24 Electric Power Measures........................................................................................................... 126
+Figure 4-25 Watt-hour Measures .................................................................................................................. 126
+Figure 4-26 Electricity Industry Structure in Ontario .................................................................................. 129
+Figure 4-27 Ontario’s 2015 Energy Production .......................................................................................... 129
+Figure 4-28 Ontario’s 2016 Installed Capacity ........................................................................................... 131
+Figure 4-29 Geographical Zones in Ontario’s Power Transmission System ........................................... 133
+Figure 4-30 Ontario Net Exports, 2007-2016 ............................................................................................. 135
+Figure 4-31 Ontario Net Energy Demand across Demand Outlooks ...................................................... 137
+Figure 4-32 Net Summer Peak minus Net Winter Peak ............................................................................. 138
+Figure 4-33 Installed Capacity and Capacity Contributions ..................................................................... 138
+Figure 4-34 Capacity Contribution vs. Demand ......................................................................................... 140
+Figure 4-35 Surplus Baseload Generation as a Percentage of Net Demand ......................................... 140
+Figure 4-36 Zone Generation Capacity ....................................................................................................... 141
+Figure 4-37 HOEP vs. GA .............................................................................................................................. 142
+Figure 4-38 Class A Electricity Price Forecast ............................................................................................. 144
+Figure 4-39 Hydrail Modelling Process ....................................................................................................... 150
+Figure 4-40 Modular Construction of the IBC Model ................................................................................ 152
+Figure 4-41 The Cost Estimating Process .................................................................................................... 157
+Figure 4-42 Changes in Cost Estimate Uncertainty Across the Project Development Lifecycle .......... 160
+Figure 4-43 Cone of Uncertainty .................................................................................................................. 161
+Figure 4-44 Sample Cumulative Distribution Curve for a Project Estimate............................................. 162
+Figure 4-45 Potential Changes in the BCR of an Overhead Electric System Compared to Hydrail ..... 173
+Figure 4-46 National Organisation Hydrogen and Fuel Cell Technology Overview ............................. 208
+Figure 4-47 Hydrogen Economy .................................................................................................................. 214
+Figure 4-48 Hydrail System Model Components ....................................................................................... 230
+Figure 4-49 Transition Plan Schedule .......................................................................................................... 242
+Figure 5-1 Scenario 5 Extent of Electrification ............................................................................................ 262
+Figure 5-2 Scenario 5 Preliminary Infrastructure Considerations for the Union Station Rail Corridor . 263
+Figure 5-3 Scenario 5 Proposed Service Concept – Peak Periods ........................................................... 265
+Figure 5-4 Scenario 5 Proposed Service Concept – Off-Peak Periods..................................................... 266
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+vi
+
+Revision B
+
+CONTENTS, CONTINUED
+
+Tables
+Table 3-1 Rating of Fuel Cell Technologies for Use in Ships and Marine Vessels .................................... 45
+Table 3-2 Hydrogen Transport Vehicles Inventory....................................................................................... 59
+Table 4-1 Electricity Supply subsystem Design Parameters........................................................................ 70
+Table 4-2 Hydrogen Production subsystem Design Parameters ................................................................ 71
+Table 4-3 Proton-exchange Membrane and Alkaline Water Electrolyzer Comparison ........................... 73
+Table 4-4 Hydrogen Storage subsystem Design Parameters ..................................................................... 75
+Table 4-5 Comparison of Steel and Carbon-fibre Gas Storage Tanks ....................................................... 78
+Table 4-6 Pipeline Distribution subsystem Design Parameters .................................................................. 79
+Table 4-7 Truck-based Distribution subsystem Design Parameters .......................................................... 80
+Table 4-8 Comparison of Pipeline and Truck Distribution .......................................................................... 81
+Table 4-9 Hydrogen Dispensing System Design Parameters ..................................................................... 84
+Table 4-10 Comparison of Regenerative Braking Energy in Electric Locomotives ................................. 89
+Table 4-11 Hydrail Vehicle System (EMU and Locomotive) Design Parameters ...................................... 91
+Table 4-12 Train Service Plan Impact for Two Timeframes under RER Scenario 5 ................................... 93
+Table 4-13 Train Service Plan Impact for Two Timeframes under RER Scenario 4 ................................... 94
+Table 4-14 Lifetime of Hydrail System Components.................................................................................... 95
+Table 4-15 Rolling Stock Equipment Considered for Each Corridor ......................................................... 99
+Table 4-16 Layover and Maintenance Facilities Installation ...................................................................... 106
+Table 4-17 Hydrail Capital and Operating Cost Impact on Unit Cost of Hydrogen ............................... 110
+Table 4-18 Large Industrial Price Forecast Values from IESO Module 4 ................................................. 112
+Table 4-19 Equipment Capital Cost Factors for 2024 and Future-cost Cases ........................................ 114
+Table 4-20 Cost of Vehicle Types ................................................................................................................. 115
+Table 4-21 Comparison of Infrastructure Configuration Options ............................................................ 120
+Table 4-22 Comparison of Time-bound Costs ........................................................................................... 121
+Table 4-23 Comparison of Parameters for Peak Power Change in Powered Vehicles .......................... 122
+Table 4-24 Comparison of Fleet Mix Scenarios, Locomotives, and EMUs .............................................. 123
+Table 4-25 Comparison of RER Scenarios 4 and 5 ..................................................................................... 124
+Table 4-26 Resources in Relation to Demand Across the Geographical Zones in Ontario's Power
+Transmission System .................................................................................................................. 134
+Table 4-27 Electricity Price Assumptions..................................................................................................... 147
+Table 4-28 Electricity Price Forecast for Hydrail based on Ontario’s 2017 LTEP.................................... 147
+Table 4-29 Key Assumptions Included in the IBC Model .......................................................................... 152
+Table 4-30 Categorization of Costs in the IBC ............................................................................................ 153
+Table 4-31 Basic Characteristics of Cost Estimates .................................................................................... 156
+Table 4-32 Description of Steps Involved in Developing a Point Cost Estimate .................................... 158
+Table 4-33 List of Sample WBS Elements .................................................................................................... 163
+Table 4-34 Key Cost Drivers for Hydrail ....................................................................................................... 165
+Table 4-35 Cost Factors Applied in the IBC ................................................................................................ 167
+Table 4-36 Output of the Sensitivity Analysis .............................................................................................. 168
+Table 4-37 Input Parameters for a Central Hydrogen Production Facility............................................... 168
+Table 4-38 Results of the Central Hydrogen Production Facility Models ................................................ 169
+Table 4-39 Costs and BCRs for Electrification Scenarios ........................................................................... 171
+Table 4-40 Hydrail System – Depreciation Rate .......................................................................................... 176
+Table 4-41 Fiscal Impact – Hydrail Compared to Over-head Electrification ........................................... 176
+Table 4-42 Hydrail Preliminary Environmental Review .............................................................................. 183
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+vii
+
+Revision B
+
+CONTENTS, CONTINUED
+
+Table 4-43 Limitations due to Data Inputs .................................................................................................. 196
+Table 4-44 Operating and Capital Costs and Relevant Assumptions ...................................................... 197
+Table 4-45 Operating and Capital Costs and Relevant Assumptions ...................................................... 198
+Table 4-46 GDP Impacts ................................................................................................................................ 199
+Table 4-47 Employment (FTE) ...................................................................................................................... 199
+Table 4-48 Hydrogen Highway Development Overview........................................................................... 205
+Table 4-49 List of Organizations in the Hydrogen Business...................................................................... 219
+Table 4-50 Business factors to be considered in deploying the Hydrail System for GO ....................... 232
+Table 4-51 Commercial factors to be considered in deploying the Hydrail System for GO................. 235
+Table 4-52 Broadening Output Specifications on Integrated DBFOM to Accommodate Hydrail ....... 238
+Table 4-53 Running Pilot Projects for Hydrail ............................................................................................. 239
+Table 4-54 Hydrail System Design Risk Matrix ............................................................................................ 251
+Table 4-55 Hydrail System Implementation Risk Matrix ............................................................................ 253
+Table 4-56 Hydrail System Operational Risk Matrix ................................................................................... 257
+Table 5-1 Scenario 5 Summary of Services ................................................................................................. 264
+Table 5-2 Summary of Key Infrastructure Requirements for RER Electrification ..................................... 268
+Table 7-1 References ..................................................................................................................................... 278
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+viii
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+References
+See Section 7 at the end of text for a list of reference sources used in this report.
+
+Acronyms and Abbreviations
+TABLE 0-1 ACRONYMS AND ABBREVIATIONS
+
+Acronym
+
+Definition
+
+$/kWe
+
+dollar per kilowatt equivalent
+
+$/m2
+
+dollar per square metre
+
+$M
+
+dollars (millions)
+
+%
+
+percent
+
+£
+
+British pound
+
+°C
+
+degrees Celsius
+
+24/7
+
+24 hours per day, 7 days per week
+
+A/cm2
+
+ampere per square centimetre
+
+AAR
+
+Association of American Railroads
+
+AB 8
+
+Assembly Bill 8
+
+AC
+
+alternating current
+
+ADA
+
+Americans with Disabilities Act
+
+AHJ
+
+authority having jurisdiction
+
+Air Products
+
+Air Products and Chemicals, Inc.
+
+AODA
+
+Accessibility for Ontarians with Disabilities Act
+
+APTA
+
+American Public Transportation Association
+
+ARRA
+
+American Recovery and Reinvestment Act
+
+Ballard
+
+Ballard Power Systems
+
+BC
+
+British Columbia
+
+BCR
+
+benefit to cost ratio
+
+BEV
+
+battery-electric vehicle
+
+Blueprint
+
+California Hydrogen Blueprint Plan
+
+BMVI
+
+Federal Ministry of Transport and Digital Infrastructure
+
+BOP
+
+balance of plant
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+1
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 0-1 ACRONYMS AND ABBREVIATIONS
+
+Acronym
+
+Definition
+
+CaH2Net
+
+California Hydrogen Highway Network
+
+CAPEX
+
+capital expense
+
+CEP
+
+Clean Energy Partnership
+
+CGH2
+
+compressed hydrogen gas
+
+CH4
+
+methane
+
+CHFCA
+
+Canadian Hydrogen and Fuel Cell Association
+
+CHIC
+
+Canadian Hydrogen Installation Code
+
+CHP
+
+combined heat and power
+
+CHVI
+
+Cultural Heritage Value or Interest
+
+CN
+
+Canadian National Railway
+
+CNL
+
+Canadian Nuclear Laboratories
+
+CO
+
+carbon monoxide
+
+CO2
+
+carbon dioxide
+
+CP
+
+Canadian Pacific Railway
+
+CRRC Sifang
+
+CRRC Qingdao Sifang Company, Ltd.
+
+CSA
+
+CSA Group
+
+CTC
+
+Canadian Tire Corporation
+
+DBB
+
+design, bid, build
+
+DBF
+
+design, build, finance
+
+DBFM
+
+design, build, finance, maintain
+
+DBFOM
+
+design, build, finance, operate, maintain
+
+DMU
+
+diesel multiple unit
+
+DOE
+
+U.S. Department of Energy
+
+EIA
+
+U.S. Energy Information Administration
+
+EMF
+
+electromotive force
+
+EMI
+
+electromagnetic interference
+
+EMU
+
+electrical multiple unit
+
+EO
+
+Executive Order
+
+ESA
+
+environmental site assessment
+
+EU
+
+European Union
+
+FCEV
+
+fuel-cell-electric vehicle
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+2
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 0-1 ACRONYMS AND ABBREVIATIONS
+
+Acronym
+
+Definition
+
+FCHJU
+
+Fuel Cell and Hydrogen Joint Undertaking
+
+FCV
+
+fuel cell vehicle
+
+FEMA
+
+U.S. Federal Emergency Management Agency
+
+FRA
+
+Federal Railroad Administration
+
+GA
+
+Global Adjustment
+
+GHG
+
+greenhouse gas
+
+GO
+
+GO Transit
+
+GTHA
+
+Greater Toronto and Hamilton Area
+
+GW
+
+gigawatt
+
+GWh
+
+gigawatt-hour
+
+H+
+
+hydrogen ion
+
+H2
+
+hydrogen gas
+
+HFC
+
+hydrogen fuel cell
+
+HMU
+
+hydrogen multiple unit
+
+HOEP
+
+Hourly Ontario Energy Price
+
+hp
+
+horsepower
+
+HVAC
+
+heating, ventilation, and air conditioning
+
+hydro
+
+hydroelectric
+
+IBC
+
+Initial Business Case
+
+ICEV
+
+internal combustion engine vehicle
+
+ICI
+
+Industrial Conservation Initiative
+
+IEC
+
+International Electrotechnical Commission
+
+IESO
+
+Independent Electricity System Operator
+
+ISO
+
+International Organization for Standardization
+
+JV
+
+joint venture
+
+kg
+
+kilogram
+
+kg/h
+
+kilogram per hour
+
+kg/min
+
+kilogram per minute
+
+km
+
+kilometre
+
+km/d
+
+kilometre per day
+
+km2
+
+square kilometre
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+3
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 0-1 ACRONYMS AND ABBREVIATIONS
+
+Acronym
+
+Definition
+
+kmol/d
+
+kilogram-mol per day
+
+kPa
+
+kiloPascal
+
+kph
+
+kilometre per hour
+
+kV
+
+kilovolt
+
+kW
+
+kilowatt
+
+kW/L
+
+kilowatt per litre
+
+KWG
+
+KWG Resources
+
+kWh
+
+kilowatt-hour
+
+kWh/kg
+
+kilowatt-hour per kilogram
+
+L
+
+litre
+
+L/min
+
+litre per minute
+
+LDC
+
+local distribution company
+
+LH2
+
+liquid hydrogen
+
+LHV
+
+lower heating value
+
+LIB
+
+lithium ion battery
+
+Li
+
+lithium
+
+LiCoO2
+
+lithium cobalt oxide
+
+LiFePO4
+
+lithium iron phosphate
+
+LOS
+
+level of service
+
+LRT
+
+light rapid transit
+
+LRV
+
+light rail vehicle
+
+LTEP
+
+Long-Term Energy Plan
+
+m
+
+metre
+
+m2
+
+square metre
+
+m3
+
+cubic metre
+
+MarEx
+
+The Maritime Executive
+
+MCA
+
+multicriteria analysis
+
+Mg
+
+megagram
+
+MHE
+
+material handling equipment
+
+Minister
+
+Minister of the Ministry of Energy
+
+Ministry
+
+Ministry of Energy
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+4
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 0-1 ACRONYMS AND ABBREVIATIONS
+
+Acronym
+
+Definition
+
+MJ
+
+megajoule
+
+MJ/kg
+
+megajoule per kilogram
+
+MOECC
+
+Ontario Ministry of the Environment and Climate Change
+
+Moose
+
+Moose Consortium Inc.
+
+MPa
+
+megaPascal
+
+MU
+
+multiple unit
+
+MW
+
+megawatt
+
+MWe
+
+megawatt-equivalent
+
+MWh
+
+megawatt-hour
+
+NASA
+
+National Aeronautics and Space Administration
+
+NEB
+
+National Energy Board
+
+Nel
+
+Nel ASA
+
+NFPA
+
+National Fire Protection Association
+
+NGO
+
+nongovernment organization
+
+Ni-Cd
+
+nickel-cadmium
+
+Nikola
+
+Nikola Motor Company
+
+NiMH
+
+nickel-metal-hydride
+
+NIP
+
+National Innovation Programme for Hydrogen and Fuel Cell Technology
+
+NIST
+
+National Institute of Standards and Technology
+
+No.
+
+number
+
+NOW
+
+National Organisation Hydrogen and Fuel Cell Technology
+
+NOx
+
+nitrogen oxides
+
+NPV
+
+net present value
+
+NRC
+
+Natural Resources Canada
+
+NREL
+
+National Renewable Energy Laboratory
+
+NWT
+
+Northwest Territories
+
+O&M
+
+operations and maintenance
+
+OCS
+
+overhead contact system or overhead catenary system
+
+OD
+
+outside diameter
+
+OEB
+
+Ontario Energy Board
+
+OEM
+
+original equipment manufacturer
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+5
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 0-1 ACRONYMS AND ABBREVIATIONS
+
+Acronym
+
+Definition
+
+OH-
+
+hydroxyl ion
+
+OPEX
+
+operating expenses
+
+OPO
+
+Ontario Planning Outlook
+
+OSHA
+
+Canada Occupational Safety and Health Regulations
+
+PDC
+
+Perishable Distribution Centre (Walmart)
+
+PDF
+
+peak demand factor
+
+PEM
+
+proton-exchange membrane
+
+PM2.5
+
+particulate matter less than 2.5 μm in diameter
+
+PNNL
+
+Pacific Northwest National Laboratory
+
+ppm
+
+part per million
+
+PS
+
+paralleling station
+
+PTE
+
+Permit to Enter
+
+PtG
+
+power-to-gas
+
+PVC
+
+polyvinyl chloride
+
+Q1
+
+first quarter
+
+Q4
+
+fourth quarter
+
+R&D
+
+research and development
+
+RAMS
+
+reliability, availability, maintainability, and safety
+
+RER
+
+Regional Express Rail
+
+RFP
+
+Request for Proposal
+
+RFQ
+
+Request for Qualifications
+
+ROI
+
+return on investment
+
+ROW
+
+right-of-way
+
+RSA
+
+Railway Safety Act
+
+RTD
+
+research, technological development, and demonstration
+
+SAE
+
+SAE International
+
+SAR
+
+species at risk
+
+SBG
+
+surplus baseload generation
+
+SMR
+
+steam-methane reforming
+
+SUV
+
+sports utility vehicle
+
+SWS
+
+switching station
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+6
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 0-1 ACRONYMS AND ABBREVIATIONS
+
+Acronym
+
+Definition
+
+TEN-T CEF
+
+Trans-European Transport Network
+
+TOD
+
+transportation on demand
+
+Topic Team
+
+Marketing, Communications and Public Education Topic Team
+
+TPAP EPR
+
+GO Rail Network Electrification Transit Project Assessment Process Final
+Environmental Project Report
+
+tpd
+
+tonne per day
+
+TPS
+
+traction power substation
+
+TSSA
+
+Technical Standards and Safety Authority
+
+TTC
+
+Toronto Transit Commission
+
+TW
+
+terawatt
+
+TWh
+
+terawatt-hour
+
+TWh/y
+
+terawatt-hour per year
+
+U.S.
+
+United States
+
+UIC
+
+International Union of Railways
+
+UK
+
+United Kingdom
+
+UN
+
+United Nations
+
+UNEP
+
+United Nations Environment Programme
+
+UP
+
+Union Pearson
+
+UPS
+
+United Parcel Service
+
+Vale
+
+Vale Railway
+
+VIA
+
+VIA Rail
+
+VOC
+
+volatile organic compound
+
+W
+
+watt
+
+WRMF
+
+Willowbrook Rail Maintenance Facility
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+7
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+1
+
+Executive Summary
+
+Metrolinx’s Regional Express Rail Program (RER) is the largest transit infrastructure program in
+Canadian history that transcends borders and fosters connections between communities across the
+Greater Golden Horseshoe. Electrifying Metrolinx-owned segments of the GO Transit (GO) network is
+an important part of delivering on a promise to bring faster and more frequent services across the
+region; Metrolinx is on track to electrify and expand the rail network, and deliver more two-way,
+all-day services by increasing the number of weekly trips from about 1,500 to nearly 6,000 by 2025.
+In June 2017, the Minister of Transportation of Ontario announced that Metrolinx would study the
+feasibility of using hydrogen fuel cells (HFCs) to electrify the GO network as an alternative to
+electrification using conventional overhead wires. Recent advances in the use of HFCs to power
+electric trains in other jurisdictions make it important for Ontario to consider this technology as it has
+the potential to deliver the planned RER service benefits with reduced cost and time risks.
+This report investigates the feasibility of operating the GO network using HFC-powered rail vehicles –
+also known as a Hydrail System – based on an expected service model for the GO network that will
+start in 2025. It considers both the train service pattern and rail vehicle fleet mix to analyze the
+technical and financial requirements for operating the Hydrail System.
+The study concludes that it should be technically feasible to build and operate a Hydrail System for
+the GO network, and the system’s overall lifetime costs are equivalent to the alternative of a
+conventional overhead electrification system.
+It is also acknowledged that such a system is complex, and at this scale, would be a world first. This
+means that significant challenges would need to be successfully managed to achieve the objective of
+starting electrified services on the GO network by 2025.
+Two of the most significant of these challenges are:
+
+
+Fleet implementation – Designing and building a fleet of HFC rail vehicles for RER services would
+carry a risk of delay due to the design challenges of integrating the fuel cell system into the rail
+vehicle platform and the production challenges of building a full fleet of new vehicles.
+
+
+
+Electricity price – Due to the large amount of electricity that will be needed for hydrogen
+production (1% of average daily generated supply in Ontario) by the Hydrail System, the
+economic viability of Hydrail will depend on how the electricity price variability risk is apportioned
+with the private sector. There may need to be a provincial government commitment on this within
+the RER procurement process.
+
+However, there are also many significant risks in taking forward the conventional overhead
+electrification system that could also impact the 2025 milestone. One key differentiatior between the
+two options is that the Hydrail System also creates the opportunity for broader benefits to Ontario in
+terms of economic development in the technology sector and as a catalyst for the adoption of
+hydrogen in other areas of society.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+8
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+1.1
+
+Hydrail System Structure
+
+The structure of the Hydrail System is shown on Figure 1-1.
+FIGURE 1-1 HYDRAIL SYSTEM STRUCTURE
+
+The feasibility study is based on the train service pattern and rail vehicle fleet mix (locomotives and
+electric multiple units [EMUs]) that Metrolinx intends to operate on the electrified GO network from
+2025 on the completion of the RER program of infrastructure enhancements.
+A simulation model of the operation of the Hydrail System, based on this pattern and fleet, was used
+to calculate the size of the fuel cell system on the rail vehicles, the size of the electrolyzers needed to
+produce the hydrogen, and the amount of electricity needed from the grid. These sizing calculations
+were then used to forecast the capital cost to implement the Hydrail System and its annual operation
+and maintenance (O&M) costs.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+9
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+1.2
+
+Hydrail System Design and Operation
+
+The key factor in determining the feasibility of the Hydrail System is whether it can provide the
+expected GO functional and operating performance that the RER program needs to deliver.
+The feasibility study concludes that there is a good level of confidence that this can be achieved
+based on the assessment of the following:
+
+
+The functionality and size of the end-to-end Hydrail System
+
+
+
+The amount of electricity the system will need to consume to produce the required volume of
+hydrogen, and the ability of the system to use electricity when the hourly electricity prices are at
+their lowest
+
+
+
+The design of the fuel cell systems to be integrated into the rail vehicles to deliver the
+performance needed for RER services
+
+
+
+The modularity of the components of the system, which creates a high level of performance
+redundancy
+
+
+
+The operation of HFC-powered locomotives using an arrangement of 1 locomotive with 6
+carriages, which can then be joined so that 2 locomotives pulls 12 carriages
+
+
+
+The expected ability to refuel the HFC-powered locomotives and EMUs in time frames
+comparable to current diesel locomotive refuelling
+
+
+
+The existing commercial availability and technological performance of all components that will
+be needed for the Hydrail System
+
+
+
+The interest of the major global rail vehicle manufacturers in building HFC-powered rail vehicles
+and the pending introduction of these vehicles into revenue service on other networks
+
+
+
+The lessons learned from the Hydrail Symposium held in Toronto which are consistent with, and
+supportive of, the findings and recommendations in the feasibility study
+
+In addition, there are specific benefits that Metrolinx would experience if the Hydrail System is
+implemented, instead of electrifying the GO network through the conventional overhead catenary
+system, including:
+
+
+Capital cost saving – The avoidance of the capital costs of the infrastructure works in the rail
+corridor to install the overhead catenary system, lower the track in places, raise bridges, and
+divert utilities (even though the Hydrail System has its own infrastructure works, these are
+smaller in scale and will generally not interface with the live railway; this delivers a saving in the
+initial investment that will need to be made in RER)
+
+
+
+Environment – There would be fewer lineside trees required to be removed for Hydrail
+
+However, the conventional overhead catenary system has benefits over the Hydrail System in the
+following areas:
+
+
+There is no requirement for refuelling – this will have a comparative benefit in terms of
+operating flexibility and cost
+
+
+
+Rail vehicle capital cost will be lower due to the HFC system equipment that will be integrated
+into the HFC-powered rail vehicles
+
+
+
+The cost of equipment renewals will be lower, as the cycle of refurbishment is longer for
+conventional overhead catenary system equipment
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+10
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+The study of the Hydrail System resulted in several key design and operational conclusions, as follows:
+1. The Hydrail System needs to be designed and operated as a complete end to end system. At one
+end of the system are rail vehicles operating on the GO network. At the other end of the system,
+power is drawn from the grid needed to produce hydrogen. The hydrogen then moves through
+the system via storage tanks, distribution infrastructure, and dispensing facilities until it is stored in
+tanks on the rail vehicle.
+There are two main options for where the hydrogen could be produced. The first option would
+use a few large facilities located away from the rail network; in this case, the hydrogen would need
+to be transported to the refuelling locations by truck or pipeline. The alternative is to locate the
+hydrogen production facilities near the refuelling facilities. This is the most economically
+advantageous solution, and is the one that is recommended in the study.
+2. One of the key advantages of the Hydrail System compared with conventional electrification is that
+it can choose when to draw electricity from the grid. This means that it can take advantage of the
+low prices of electricity that generally occur during the night in Ontario. By maintaining a surplus
+of hydrogen in storage over what is needed every day, and choosing only to produce hydrogen
+when the price of electricity is less than a certain value, it is possible to minimize the cost of Hydrail
+System operations. The overhead catenary system does not have this level of flexibility, as it needs
+to draw electricity from the grid when required to operate the train, regardless of the price.
+3. The HFC-powered locomotive and the HFC-powered EMU will both use an HFC system. This
+consists of a combination of fuel cell, battery, ultracapacitor, and regenerative braking (as shown
+in Figure 1-1). The way this system will operate is that the battery and ultracapacitor are sized to
+provide the power needed for the train to accelerate to its cruising speed between stations. The
+fuel cell is then used to charge the batteries as the train is cruising. Then, as the train is braking for
+the next station, the regenerative braking system further charges the batteries and the
+ultracapacitor.
+The simulation modelling work that has been undertaken as part of the feasibility study
+demonstrates that HFC-powered locomotives and EMUs can be designed to deliver the required
+RER services.
+The benefit of the regenerative braking system is that it recovers energy from the traction motors
+that are part of the vehicle’s braking system, and this energy can then also be used to charge the
+batteries and utltracapacitors. Modern electric rail vehicles all have regenerative braking systems;
+however, these are not generally sized to maximize the amount of energy that could be recovered.
+With the Hydrail System, there will be an opportunity to consider how the onboard power
+management systems are designed so that they maximize the amount of energy recovered during
+braking. This could further reduce the size of the fuel cell needed and reduce the volume of
+hydrogen consumed each trip.
+The ability to integrate this equipment into a locomotive platform has been validated by three rail
+vehicle manufacturers as part of the initial work undertaken by the HFC Locomotive Project that is
+also part of the Metrolinx Hydrail Workstream (an overview of this project and the Hydrail
+Workstream is provided in the Introduction section of this report).
+4. The components in the Hydrail System’s subsystems are of a modular design (that is, multiple,
+small tanks; fuel cells; and batteries). This means that failure, or reduced performance, of one
+component should not have a significant impact on subsystem operation.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+11
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+For example, on the rail vehicles, the fuel cells will be arranged in parallel stacks so that a failure,
+or reduced performance, of one unit will only result in the fuel cell system’s reduced output power.
+Even if the entire fuel cell subsystem does become unavailable, there should be sufficient power in
+the battery system to enable the rail vehicle to operate in a degraded mode so that it can reach a
+place of safety. The battery subsystem would also be designed so that a failure in one battery unit
+should only lead to a reduction in peak power available to accelerate the train.
+5. While RER train services using conventional overhead electrification are intended to be operated
+using an electric locomotive pulling 12 unpowered carriages, the Hydrail feasibility study
+recommends that 2 smaller HFC locomotives are used instead of one. This is because the volume
+of hydrogen needed on a single locomotive would not be sufficient to meet the service range
+requirements that Metrolinx needs between refuelling cycles.
+The additional benefit of using 2 locomotives with 12 carriages is that Metrolinx will have the
+option of splitting the consist into 2 consists of 6 carriages and 1 locomotive for out-of-peak hours
+when fewer passengers are travelling. This will reduce the operating costs of the rail network.
+The concept of one locomotive with six carriages could also be used as an alternative to the
+current plan to use EMUs for RER peak and off-peak services, and should be considered further.
+The benefits of this would be:
+
+
+The locomotives will be compliant with Federal Railroad Administration (FRA) standards
+(whereas, the EMUs are compliant with International Union of Railways [UIC] standards, which
+would be new to Canada).
+
+
+
+Metrolinx will be able to continue to operate its existing fleet of bi-level carriages.
+
+6. A key determinant of the operational efficiency of the GO network using the Hydrail System will be
+the length of time that it takes to refuel a rail vehicle with hydrogen. The refuelling duration needs
+to be minimized whether the refuelling takes place during nonoperational hours at the end of the
+day, or during a break between trips in the daily service timetable.
+Hydrogen refuelling facilities designed for use by cars and buses typically only need to transfer
+low volumes of hydrogen. A facility needed to transfer the volumes required for the Hydrail
+System has yet to be built. However, an integrated design between the storage on the rail vehicle
+and the refuelling facility will be based on using multiple tanks on the rail vehicle that can be filled
+simultaneously using a manifold system. The target refuelling time of about 30 minutes is
+expected to be feasible through engineering design.
+However, the need to refuel the HFC-powered rail vehicles is a disadvantage when compared to
+electric rail vehicles that use the conventional overhead catenary system. This means that these
+electric rail vehicles have benefits in terms of rail service operational planning because refuelling
+does not need to be factored into the daily railway operating plans.
+7. The technology on which the Hydrail System is based might seem like it is cutting edge and
+innovative, with inherent risks relating to reliability, safety, and performance. However, all
+components of the Hydrail System are based on technology that is fully developed, commercially
+available, and already in use in industrial applications throughout the globe, many of them in
+extremely harsh environments. This means that we are confident we will achieve a high level of
+reliability from these components in a heavy railway environment.
+The challenge in developing the HFC-powered rail vehicles is not so much in the performance of
+the individual components of the system, but in the integration of these components into a hybrid
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+12
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+fuel cell system and then into the rail vehicle platform. This challenge is not to be underestimated,
+as the space available on the rail vehicle is limited, and there are many design constraints that will
+need to be overcome, particularly weight distribution.
+However, large rail vehicle manufacturers are highly experienced in systems engineering, and
+have the tools and knowledge needed to successfully undertake this integration design.
+8. Further, the major rail vehicle manufacturers are showing a high level of interest in HFC-powered
+trains. For example:
+a. Over the course of 2017, Alstom has been testing its Coradia iLint train, which is an HFCpowered EMU, in Germany. Alstom recently announced that it had received an order for 14 of
+these trains which are due to go into revenue service in 2021.
+It is interesting to note that the vendor who is supplying the fuel cells to Alstom for this train is
+Hydrogenics, based in Mississauga.
+b. CRRC, the main Chinese rail vehicle manufacturer, has recently announced that it has
+introduced into revenue service a HFC-powered light rail vehicle (LRV) in the city of Foshan
+and is planning to expand this concept to other cities that have LRV projects in development.
+It is also interesting to note that the vendor supplying the fuel cells to CRRC is Ballard Power
+Systems (Ballard), based in Vancouver.
+c. Siemens has also recently announced that it has entered into a partnership with Ballard for the
+development of an HFC-powered train.
+In addition, other rail vehicle manufacturers have expressed an interest to Metrolinx in
+participating in the HFC Locomotive Project, which would lead to the construction of a prototype
+HFC-powered locomotive.
+However, in assessing the cost of procuring a fleet of HFC-powered rail vehicles there will be a
+premium for these vehicles in comparison to those required for a conventional overhead catenary
+system. This will be due to:
+a. The manufacturer’s design costs for such vehicles being higher as there is a development
+element of the work that will need to be undertaken
+b. The cost of the hybrid HFC equipment that will need to be integrated into the vehicles will be
+more expensive than the electrical equipment that is integrated into a conventional electric rail
+vehicle
+9. Installing the infrastructure required for the overhead catenary system requires a significant
+amount of construction work to take place in, or near to, the rail corridor. This work includes:
+a. Erection of overhead line gantries and catenary wires
+b. Construction of new substations
+c. Diversion of utilities
+d. Lowering of the track bed in some locations, and rebuilding some bridges (to obtain the
+required height clearance)
+e. Modifying other bridges to erect safety walls
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+13
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Implementing the Hydrail System would mean that this work and the associated capital costs
+would be avoided.
+The Hydrail System itself would require fixed infrastructure assets to be built in relation to:
+a. Hydrogen production facilities
+b. Transportation infrastructure
+c. Storage facilities
+d. Refuelling facilities
+On balance, it is expected that there will be a significant cost saving in the initial capital cost of the
+fixed infrastructure of the Hydrail System in comparison to that required for the conventional
+overhead catenary system.
+10. The Hydrail System has environmental benefits over the overhead catenary system, particularly in
+reducing the total number of trees that need to be cleared along the rail corridors.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+14
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+1.3
+
+Financial Modelling
+
+An assessment has been made of the Net Present Value (NPV) cost of implementing and operating
+the Hydrail System. Using a sensitivity analysis approach, a low-cost scenario was created that has a
+benefit to cost ratio (BCR) of 3.01, and a high-cost scenario was created that has a BCR of 2.65.
+This compares to a BCR of 3.07 for the existing RER business case based on conventional
+electrification.
+These results should be qualified because they could be affected by risks and opportunities that
+need to be further investigated, including the following:
+
+
+Cost saving of avoiding the construction of the overhead catenary system
+
+
+
+Forecast difference between the prices of night-time (off-peak price) electricity and day-time
+(peak price) electricity
+
+
+
+Forecast price of fuel cells
+
+
+
+Overhaul cycle duration of fuel cells
+
+
+
+Potential ability to share infrastructure costs with other users
+
+
+
+Potential ability to commence RER services earlier than planned
+
+Based on the level of design and cost analysis that it has been possible to undertake during the
+feasibility study, the Hydrail System and the conventional overhead catenary system have equivalent
+BCRs.
+As mentioned in the previous section, the Hydrail System modelling has forecast both the system’s
+capital and operating costs. These costs were then incorporated into a modified version of the RER
+business case model to determine the system’s likely BCR. This has enabled the Hydrail System to be
+compared to the conventionally electrified network from a financial perspective.
+At this point in the assessment of the costs of the Hydrail System there are many assumptions that
+have been made about the performance of the system and the likely costs of the system’s
+components. To account for this uncertainty a sensitivity analysis has been run on many of the model’s
+input variables. This has created a low-cost scenario, where optimistic values were set for the
+variables, and a high-cost scenario, where pessimistic values were set for the variables.
+The outputs of this modelling work show that:
+
+
+The low-cost scenario has a BCR of 3.01
+
+
+
+The high-cost scenario has a BCR of 2.65
+
+This compares to a BCR of 3.07 for the existing RER business case based on conventional
+electrification. These results need to be qualified as follows:
+
+
+The implementation and operation costs for RER with conventional electrification are currently
+being reviewed based on a more up-to-date definition of the project’s scope and prices. This will
+enable the BCR to be updated and a forecast range between high and low probabilities to be
+determined.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+15
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+
+
+The actual costs for Hydrail could be influenced by the factors identified in the following
+“Challenges” and “Opportunities” sections. There are four significant areas:
+1. The price of electricity – the forecast prices of electricity between 2024 and 2035 have been
+provided to us by the Independent Electricity System Operator (IESO) and are based on the
+2017 Long Term Energy Plan for Ontario.
+Over the long-term the electricity prices for the Hydrail System will depend on the extent to
+which:
+
+
+The current surplus of generating capacity changes
+
+
+
+Other users of off-peak electricity enter the market
+
+These factors could influence the price of off-peak electricity in a positive or negative direction
+from the current forecast which in turn would affect the comparative difference in the
+operating costs of the Hydrail System and conventional electrification.
+In the context of an RER procurement process with the Hydrail System as an option, it is
+recommended that certainty is provided to bidders around the long-term pricing of off-peak
+electricity. This will require consideration by the provincial government.
+2. The price of fuel cells – the price range of fuel cells that has been included in the financial
+modelling is a result of advice from industry sources. These views are based on current
+volumes of production which are relatively low compared to the production volumes of other
+technology items.
+Over the medium-term the price of fuel cells could reduce further if hydrogen becomes a
+major factor in global strategies for decarbonization.
+3. The duration between overhauls for the fuel cells – based on industry sources we have
+forecast that this duration would be about 9 years for the operation of fuel cells in the Hydrail
+System. However, there is a significant amount of research being undertaken on fuel cell
+technology and the possibility of a further improvement in this area should not be discounted.
+This would also reduce the Hydrail System’s operating costs.
+4. Sharing of infrastructure implementation and operating costs – as described in the
+“Opportunities” section it would be feasible to share the costs of setting-up and operating the
+hydrogen production facilities with other government and private sector users if the
+appropriate incentives are put in place. This could lead to an improvement in the BCR for the
+Hydrail System.
+
+
+The NPV of the benefits resulting from operating the Hydrail System could be improved over the
+current RER business case. This could be due to:
+
+
+The earlier transition to RER services that could be achieved with the Hydrail System
+
+
+
+The broader socio-economic benefits that implementing the Hydrail System might generate
+
+
+
+The associated commercial opportunities that the Hydrail System might enable.
+
+Based on these qualifications, the conclusion of the financial modelling is that, at this stage, there is
+good equivalence between the Hydrail System and conventional electrification and that further
+analysis needs to be undertaken on both.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+16
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+1.4
+
+Challenges
+
+Hydrail is a complex system and there are likely to be many significant implementation challenges.
+The feasibility study report has assessed the key risks that could affect the program’s design and
+implementation as well as the operation of the Hydrail System.
+The most significant risks are:
+
+
+Delays in the timescales for the development, build, and introduction into service of HFCpowered rail vehicles
+
+
+
+Unexpected operational reliability issues with the HFC-powered rail vehicles after they enter
+revenue service
+
+
+
+Concerns from the public and Metrolinx passengers to the concept of HFC-powered rail
+vehicles
+
+
+
+Delays in achieving approval from the safety regulators to the commencement of revenue
+services with HFC-powered rail vehicles
+
+If any of these risks occurs there could be a delay in the start of RER services. It is therefore
+recommended that these and the other risks identified need to be further investigated and
+mitigation plans for them implemented as part of the next stage of the Hydrail Program.
+
+Implementing a Hydrail System on the GO network will require major challenges to be overcome.
+These include:
+
+
+The potential for the longer-than-planned development timescales for HFC-powered rail vehicles
+so that Metrolinx is unable to meet the target of 2025 for the commencement of RER services.
+Metrolinx has already started mitigate this risk through the process of developing both an
+HFC-powered locomotive and EMU. By commissioning rail vehicle manufacturers to prepare
+conceptual designs for both types of vehicles Metrolinx will be able to validate the principles of
+how an HFC-powered rail vehicle will perform.
+Beyond this concept design work, the risks of time over-runs during design, build, and testing of
+rail vehicles would be managed by an appointed rail vehicle manufacturer. Based on the
+experience of Alstom, which took 3 years to develop and bring into testing their Coradia iLint
+HFC-powered EMU, it seems feasible to expect a rail vehicle manufacture to complete the
+development and build of HFC-powered trains in the time available to commence RER services in
+2025.
+Furthermore, Metrolinx would expect to procure an HFC-powered rail vehicle fleet on the basis
+that the supplier will be responsible for any risks to achieving the specified RER reliability and
+availability targets.
+
+
+
+HFC locomotives and EMUs of the type needed for RER do not yet exist; therefore, real-world
+experience relating to reliability is limited to the operation of light rail vehicles and buses.
+This means that even though the vehicles will go through an extensive development and testing
+process, there is still a risk that when they enter revenue service, they will experience unexpected
+issues with reliability that cause in-service failures and consequential impacts to customers.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+17
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+This risk also applies to the hydrogen production, storage, refuelling, and dispensing facilities;
+and it is probable that the greatest risk relates to the integration of these systems. However, this
+risk can be mitigated by implementing and operating a small-scale prototype of the end-to-end
+system so that lessons can be learned about the system’s operation, performance, and reliability;
+and so these lessons can be fed back into the design, build, and operation of the full system.
+
+
+Difficulties in gaining the public’s and Metrolinx passengers’ acceptance of the concept of the
+Hydrail System.
+There are many myths and misunderstandings about the safety of hydrogen, which, if not
+addressed, could lead to resistance to the implementation of a Hydrail System. These would need
+to be addressed through a comprehensive public communication strategy that provides a
+considered perspective on safety and the resulting environmental benefits of using hydrogen.
+The experience of the German government’s public communications strategy in relation to
+hydrogen indicates that if a similar approach is adopted by Metrolinx, the likelihood that this could
+become a major challenge would be reduced.
+
+
+
+Achieving the approval of relevant safety regulators, including Transport Canada and TSSA,
+would be a key objective of developing the Hydrail System and bringing it into service.
+This challenge should not pose a significant risk as codes and standards already exist for all the
+components that will be used in the Hydrail System. An important consideration for Hydrail is in
+the regulations that would govern the overall safety management of the Hydrail vehicles in
+scenarios where there has been an accident or a component failure.It is expected that the safety
+risk in this situation would be acceptable because of several factors:
+
+
+Safety in design would be a key objective during the Hydrail System design phase
+
+
+
+Metrolinx will assemble a team of world leading experts in all aspects of hydrogen and railway
+safety to provide it, and the rail vehicle manufacturer, with necessary advice on design safety
+and regulation development.
+
+
+
+Metrolinx will work closely with Transport Canada and TSSA through the design, build, and
+testing process to understand what rules and regulations need to be developed specifically to
+cover the Hydrail System.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+18
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+1.5
+
+Opportunities
+
+The technical and operational evaluation of the Hydrail System has focussed on understanding how
+it could be implemented and operated as a standalone system. However, the Hydrail System can
+also be considered as part of the broader RER Program; as part of the overall public transportation
+network; and as part of the Ontario economy.
+As such, there are opportunities that could be developed during the implementation of the Hydrail
+System that might deliver further benefits to both Metrolinx and the Province, including being able
+to:
+
+
+Commence some RER services earlier than the 2025 target date for RER
+
+
+
+Operate RER services over the entire GO network; thereby, increasing the benefits of RER
+
+Potential opportunities to the province are:
+
+
+Being able to share the Hydrail System infrastructure capital with other users of hydrogen in the
+Greater Toronto and Hamilton Area (GTHA)
+
+
+
+Being a catalyst for the expansion of businesses with a hydrogen technology focus and the
+associated highly-skilled jobs
+
+Taking forward the development of those opportunities beyond Metrolinx’s transportation mandate
+will require consideration and guidance from the provincial government.
+Taking the Hydrail System forward as the means of electrifying the GO network provides several
+opportunities to create benefits that would not be available through an overhead catenary system
+network, including:
+
+
+The ability to incrementally introduce the HFC-powered rail vehicles into revenue service.
+This contrasts with the conventional overhead electrification program which can only commence
+electrified rail services on a rail corridor once all the infrastructure is in place.
+Aligning the implementation of the RER track and signalling improvements with the development
+of the HFC-powered rail vehicles creates the opportunity for an initial fleet of these vehicles to be
+introduced into service on one corridor earlier than the planned start of RER services in 2025. This
+would enable Metrolinx to build up a level of experience in the operation and performance of the
+vehicles that could be fed into the development and build of the remaining vehicles in the fleet on
+the other corridors.
+
+
+
+By adopting the Hydrail System it will be possible to eventually operate electrified RER services
+over the full GO network rather than the scope of corridors that is currently planned for RER. This
+means that, over time, all the remaining diesel locomotives could be removed from the network
+with the additional environmental benefits in terms of greenhouse gas (GHG) emission, pollution,
+and noise reductions.
+
+
+
+Implementing the Hydrail System could act as a catalyst for a broader adoption of hydrogen
+throughout Ontario as part of a potential roadmap for a hydrogen economy in Ontario1. There are
+
+1 Recent published examples of these strategic roadmaps are: Hydrogen Council. 2017b. Hydrogen scaling up. A sustainable pathway for
+the global energy transition. November. Accessed December 2017.http://hydrogencouncil.com/wp-content/uploads/2017/11/Hydrogen-
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+19
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+opportunities to align the Hydrail System’s hydrogen production, storage, and distribution
+infrastructure with the similar infrastructure needed to support HFC-powered buses and cars. The
+investment in an integrated infrastructure for these complementary requirements would be far
+more cost effective than if the systems were developed individually.
+
+
+There are possible broader socio-economic benefits that could be experienced by Ontario as a
+result of implementing the Hydrail System. These include:
+
+
+Development of opportunities for businesses in the hydrogen and the fuel cell sector. Ontario
+already has some businesses that are focussed on producing components of the Hydrail
+System. These businesses are likely to benefit from implementing a system on the scale of
+Hydrail
+
+
+
+This in turn is likely to lead to an expansion in the number of high skilled jobs that would be
+required in these businesses and in the operation and maintenance of the Hydrail System
+
+Taking forward the development of those opportunities which are beyond Metrolinx’s transportation
+mandate will require consideration and guidance from the Provincial government.
+
+scaling-up-Hydrogen-Council.pdf; and Government of South Australia. 2017. A Hydrogen Roadmap for South Australia. September.
+Accessed December 2017. https://service.sa.gov.au/cdn/ourenergyplan/assets/hydrogen-roadmap-8-sept-2017.pdf.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+20
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+1.6
+
+Recommended Next Steps
+
+While the study concludes that it is technically and economically feasible to build and operate the GO
+network using HFC-powered rail vehicles, it has also identified aspects of the Hydrail System that
+warrant further investigation to support the RER procurement process.
+The proposed next steps are focussed on alignment with the RER procurement strategy which will be
+open to both the Hydrail System and conventional electrification options.
+The primary objective of this alignment is to enable the design of the whole Hydrail System to be
+taken forward to a conceptual design level so that by the time the RER bidders start to prepare their
+bids they will have access to high quality information about the design and operation of the Hydrail
+System. This will enable the bidders to accurately assess the risks and benefits of Hydrail System in
+comparison to electrification using the conventional overhead catenary system.
+It is proposed that further work is undertaken in those areas of the Hydrail System where the bidders
+are likely to want a greater level of certainty than currently exists, at the completion of the feasibility
+study. These are:
+
+
+Design:
+
+
+Complete the projects to create conceptual designs for an HFC bi-level EMU and an HFC
+locomotive
+
+
+
+Refine the Hydrail System configuration and size in the Operational Simulation model, including
+development of concept designs for hydrogen production, storage and fuelling subsystems
+
+
+
+Prototyping: Commission the production of a prototype HFC locomotive that can enter revenue
+service, including the development and prototyping of the refuelling and hydrogen production
+subsystems that can work with the prototype HFC locomotive so that Metrolinx can learn valuable
+lessons concerning the Hydrail System’s operations, performance, and reliability
+
+
+
+Railway operations: Further investigate the operational areas of the Hydrail System such as
+maintenance and refuelling
+
+
+
+Cost: Recognizing that the Hydrail System would represent a new approach to delivering RER,
+collaborate with industry vendors to further investigate infrastructure and vehicle delivery and
+operational costs
+
+
+
+Implementation: Further define the development and build phases and the transition plan
+required to initiate a Hydrail System on the GO network
+
+
+
+Hydrogen production: Identify location options for the hydrogen production facilities
+
+
+
+Regulations: Work with the safety regulators at the federal and provincial levels to reach clarity on
+the regulatory environment that will apply to Hydrail
+
+
+
+Electricity price policy: Work with the provincial government to develop an electricity price policy
+that could be applied to the Hydrail System
+
+
+
+Hydrogen economy: Work with the provincial government to develop a cross-government
+business case for hydrogen (including the Hydrail System)
+
+
+
+Align with the RER procurement process: Integrate the outputs from these steps into a Hydrail
+System Reference Concept Design that can be used in the RER procurement process
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+21
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+2
+
+Introduction
+
+2.1
+
+Purpose and Objective of the Study
+
+The Hydrail Feasibility Study Project was initiated because Metrolinx is committed to electrifying the
+GO network and using hydrogen fuel cell technology to power rail vehicles is now being considered
+as a viable alternative to rail vehicles powered by an overhead catenary wire system.
+Therefore, the objective of the study has been to determine whether it is technologically feasible and
+economically beneficial to use hydrogen fuel cell powered rail vehicles on the GO network, as an
+alternative to conventional electrification.
+
+2.2
+
+Metrolinx Hydrail Workstream Overview
+
+The feasibility study was undertaken as one project within a program of projects called the Metrolinx
+Hydrail Workstream. The other projects in this workstream are shown on Figure 2-1.
+FIGURE 2-1 THE HYDRAIL WORKSTREAM
+
+HFC Bi-Level EMU Concept Design Project
+As part of the proposed Regional Express Rail (RER) train services it is intended to operate bi-level
+Electric Multiple Unit (EMU) rail vehicles in consists of four cars and eight cars. In the Hydrail System
+these would be replaced by Hydrogen Fuel Cell (HFC)-powered bi-level EMUs.
+The objective of this project is to commission rail vehicle manufacturers, who already have bi-level
+EMU models, to produce conceptual designs for a HFC-powered bi-level EMU that can meet the
+requirements of the RER service patterns.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+22
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+The conceptual designs will prove the feasibility of integrating an HFC system into an EMU and will
+provide valuable information about the likely cost and timescales to develop, manufacture and bring
+this type of EMU into revenue service.
+HFC Locomotive Project
+As part of the proposed RER train services, it is intended to operate electric locomotives pulling the
+existing fleet of unpowered coaches in 12-car consists. In the Hydrail System, these would be replaced
+with two smaller HFC-powered locomotives.
+The objective of this project is to commission rail vehicle manufacturers, who already have electric
+locomotive models, to produce conceptual designs for an HFC-powered locomotive that can meet
+the requirements of the RER service patterns – in this case it will be a locomotive in a six-car consist.
+Metrolinx has already completed an initial phase of work that has verified the feasibility of integrating
+a HFC system into a locomotive platform. It now intends to engage rail vehicle manufacturers to take
+these ideas forward to the concept design level.
+The conceptual designs will further demonstrate how an HFC system can be integrated into a
+locomotive platform, and will provide valuable information about the likely cost and timescales to
+develop, manufacture, and bring this type of locomotive into revenue service.
+At the completion of the conceptual design phase, it is Metrolinx’s intention to commission the
+detailed design and construction of a prototype HFC-powered locomotive that can be used on the
+GO network. This will provide multiple benefits including gaining experience operating an HFC rail
+vehicle, and with the refuelling process, its maintenance requirements, it performance, and its
+reliability.
+Hydrail Symposium Project
+As part of the scope of the Hydrail Workstream, a 1-day symposium titled “Hydrail in Ontario:
+Examining Opportunities for Wireless Electrification” was held in Toronto on November 16, 2017.
+The objectives of the symposium were to:
+
+
+Educate and inform an audience of interested Metrolinx and government stakeholders about the
+opportunities and implications of using a Hydrail System
+
+
+
+Learn about global and Canadian developments in the use of hydrogen technologies
+
+
+
+Obtain the views of the participants on what the key challenges would likely be if Metrolinx
+implemented the Hydrail System and identify how these challenges could be overcome
+
+The symposium was attended by more than 200 participants and key speakers included:
+
+
+Steven Del Duca – Minister of Transportation
+
+
+
+Phil Verster – Metrolinx Chief Executive Officer (CEO)
+
+
+
+Dr. Sunita Satyapal – Director, Fuel Cell Technologies Office, U.S. Department of Energy (DOE)
+
+
+
+Dr. David Hart – E4Tech Sustainable Energy Consultancy
+
+
+
+Paula Vieira – Director, Transportation and Alternative Fuels Division, Natural Resources Canada
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+23
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Sessions within the symposium included:
+
+
+A panel on public sector perspectives
+
+
+
+A panel on private sector perspectives
+
+
+
+Presentations form Alstom and CRRC on their HFC-powered rail vehicles
+
+
+
+A panel on the key criteria that need to be focussed on to make Hydrail a success
+
+This last panel was followed by a session in which participants were asked to provide their views on
+the topics of:
+
+
+Safety
+
+
+
+Energy
+
+
+
+Environment
+
+
+
+Workforce and economic development
+
+
+
+Implementation
+
+The collated outputs of this session are included in Appendix A and align with the findings and
+recommendations in this report
+Some of the themes from the conference that are relevant to the potential implementation of Hydrail
+are:
+
+
+The importance of communication with the Ontario public about the use of hydrogen and:
+
+
+How they can be assured of its safety
+
+
+
+Its environmental benefits
+
+
+
+The significance of the interdependencies between a Hydrail System and the Ontario energy
+market
+
+
+
+How the implementation of a Hydrail System could generate economic development
+opportunities for technology businesses in Ontario and the need to develop skilled trades to
+support this
+
+
+
+Hydrogen-related businesses are confident that they could respond to meet the demands of
+implementing a Hydrail System in Ontario if given the opportunity
+
+
+
+Other example projects are still in their testing phases and are not yet fully in service
+
+
+
+Governments globally, and at the Canadian federal level, are developing policy frameworks to
+develop and encourage adoption of hydrogen applications.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+24
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+2.3
+
+Report Overview
+
+In this report, we present a comprehensive assessment of hydrogen technologies and their potential
+application in a Hydrail System on the GO network.
+The report is structured into six parts as follows:
+1. Part 1 is an Executive Summary that provides an overview of the key findings and
+recommendations of the report.
+2. Part 2 is this Introduction that provides an overview of each section and a description of the
+methodology followed by the feasibility study team.
+3. Part 3 is titled Hydrogen Overview and contains two sections:
+
+
+Section 1 is an introduction to the subsystems and components that make up the Hydrail
+System.
+
+
+
+Section 2 is a description of the types of applications where these hydrogen systems are
+generally used and case studies that support this.
+
+4. Part 4 is the core of the report and contains 12 sections:
+
+
+Section 1 describes in detail the subsystems within the Hydrail System.
+
+
+
+Section 2 describes the results of the Operational Simulation modelling that identify the size of
+the Hydrail System.
+
+
+
+Section 3 describes the electricity market in Ontario and the forecast prices of electricity that
+Hydrail is likely to be subject to.
+
+
+
+Section 4 summarizes the cost assessment performed on the Operational Simulation
+modelling outputs, and demonstrates how the BCR for RER based on the Hydrail System
+compares to that of RER with conventional overhead electrification.
+
+
+
+Section 5 provides a brief environmental assessment of RER using the Hydrail System, and
+compares it to RER using conventional overhead electrification. It also considers the scenario
+of the Hydrail System being applied to the entire GO network.
+
+
+
+Section 6 provides an overview of existing regulations, standards, and codes that are relevant
+to Hydrail, and identifies gaps where there will need to be the development of new regulations
+or the extension of existing ones.
+
+
+
+Section 7 provides an assessment of the socio-economic benefits that could result for the
+broader Ontario economy and workforce as a result of implementing the Hydrail System.
+
+
+
+Section 8 describes case studies of how other jurisdictions have approached the task of
+building support for the use of hydrogen and recommends how this could be deployed in
+Ontario.
+
+
+
+Section 9 provides an overview of the strategies that other jurisdictions are adopting to
+encourage a transition to the use of hydrogen, and how businesses are responding to this in
+the rail vehicle market and more generally.
+
+
+
+Section 10 considers options for how the Hydrail System could be implemented in the context
+of the overall RER procurement strategy.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+25
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+
+
+Section 11 sets out a potential strategy for how the Hydrail System could be taken forward in
+alignment with the RER procurement strategy.
+
+
+
+Section 12 reviews the risks that could affect the design, implementation, and operation of the
+Hydrail System, and also identifies potential opportunities for delivering additional benefits to
+Metrolinx and the province.
+
+5. Part 5 is titled RER Program Electrification and contains two sections:
+
+
+Section 1 is an overview of the RER Program.
+
+
+
+Section 2 identifies how the current of the conventional overhead electrification would change
+if a Hydrail System is implemented.
+
+6. Part 6 contains recommended next steps and associated timescales.
+
+2.4
+
+Study Methodology
+
+The Hydrail feasibility study commenced at the start of June 2017 and was completed at the end of
+December 2017.
+The study was undertaken by experts from three organizations:
+1. CH2M HILL Canada Limited (CH2M [now Jacobs]) served as the overall project manager for the
+study and provided content in relation to railway operations, rail vehicles, environment overview,
+and transition planning.
+2. EY prepared the Electricity Policy and Pricing, Cost and Benefits, Socio-Economic Impacts, Public
+Acceptance and Commercial sections of the study, as well as the sub-section on the Hydrogen
+Economy.
+3. Canadian Nuclear Laboratories (CNL) provided inputs in the areas of hydrogen technologies,
+Hydrail System modelling, and applicable codes and standards.
+Support to the study was provided by departments within Metrolinx, particularly in relation to Fleet
+Engineering and Environment, plus businesses, universities, industry associations, and government
+agencies (provincial and federal). A full list of the organizations that the study team interacted with is
+provided in Appendix E.
+
+2.5
+
+Permissions
+
+The report’s authors have obtained pemission to use the illustrations and photographs used in the
+report from their owners except for the photograph in Figure 3-13 where ownership could not be
+established.
+The report’s authors also acknowledge that the pictograms incorporated into Figures 1-1, 3-5, 4-1,
+4-48 and B-1 were created by Hydrogenics Corporation who have given permission for their use.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+26
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+3
+
+Hydrogen Overview
+
+The objective of Part 3 is to provide the reader with an understanding of the various technologies that
+underpin the use of hydrogen as a stored power source and provide examples of existing hydrogen
+related projects that are relevant to the Hydrail concept.
+It will include a summary of the technologies, their capabilities and current capacity plus commentary
+on the maturity of these technologies. This will include:
+
+
+Hydrogen generation
+
+
+
+Storage
+
+
+
+Distribution
+
+
+
+Fueling
+
+
+
+On vehicle storage
+
+
+
+Reconversion of hydrogen to power (fuel cells), and
+
+
+
+Ancillary equipment such as on vehicle batteries and regenerative breaking.
+
+This is intended to provide a basis of understanding that is then used in Part 4 where the Hydrail
+System, as applied to the GO network, is defined.
+
+3.1
+
+Introduction to Hydrogen
+
+This section provides background knowledge on hydrogen as a fuel and energy storage solution, and
+the technologies that support the hydrogen system, converting natural gas or generated electricity to
+hydrogen for temporary energy storage, and back from hydrogen to electricity to power electrical
+equipment. The discussion in this section provides basic information and confidence that the
+technology is developed, modular, off-the-shelf, and has established levels of performance.
+Hydrogen atoms permeate the Universe. Yet on Earth, while hydrogen is abundant and essential to
+life, it is always chemically combined—particularly in the form of water and, to a lesser extent, as oil
+and gas—because any free hydrogen quickly combines with oxygen in the air. However, there are
+simple ways to produce pure hydrogen from water, hydrocarbons, or both. The simplest approach is
+by passing an electric current through water, the process known as electrolysis, which can easily be
+arranged to produce pure streams of hydrogen and oxygen. Every school chemistry lab routinely
+demonstrates this process, which is illustrated on Figure 3-1.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+27
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 3-1 SCHEMATIC OF WATER ELECTROLYSIS PROCESS2
+
+Water always contains ions in the form of positively charged hydrogen ions (H+) and negatively
+charged hydroxyl ions (OH-). By passing an electric current—a stream of negatively charged electrons—
+H+ are neutralized and converted into molecules of hydrogen gas (H2) at the cathode. Meanwhile, at
+the anode, the applied current is stripping electrons from hydroxyl ions and converting them into
+molecules of oxygen gas and neutral water molecules. The only input is a substantial amount of
+electrical energy; in theory, about 39.3 kilowatt-hours (kWh) to produce 1 kilogram (kg) of hydrogen.
+(In practice, some electrical energy is lost, and 50 kWh/kg is typical.)
+The bulk of the electrical energy is now stored in the hydrogen and can be retrieved by reversing the
+electrolysis process in what is called a fuel cell. Combined with the lightness of hydrogen, the
+relatively large amount of energy that is stored when water is converted into hydrogen means that the
+reverse of converting hydrogen back to water is an exceptionally low-weight source of energy.
+For trains, primary energy could come from onboard supplies of hydrogen; this is Hydrail. Hydrogen
+is just one of a number of energy currencies and, like monetary currencies3, are interchangeable. So
+Hydrail’s energy originates in electricity from the grid. The first currency conversion happens at a
+convenient, fixed location where electricity is converted into hydrogen. The hydrogen is then loaded
+onto trains.
+
+2 U.S. Department of Energy (DOE). 2017. https://www.energy.gov/. Accessed October 2017.
+https://energy.gov/sites/prod/files/pem_electrolyzer.png
+3 The concept of energy currencies is attributed to David S. Scott in his 2008 book Smelling Land: the Hydrogen Defense against Climate
+Catastrophe (Canadian Hydrogen Association).
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+28
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+A second currency conversion occurs when hydrogen is reconverted into electricity to power the train
+(Figure 3-2)4. Although it is also possible to convert hydrogen into heat energy by burning it, its direct
+conversion to electricity is advantageous both because it is a more efficient conversion and because
+electricity is a more versatile form of energy.
+FIGURE 3-2 ELECTRICITY AND HYDROGEN TRANSACTIONS BASED ON TWO PROCESSES5
+
+4 Hoffrichter, Andreas. 2013. Hydrogen as an Energy Carrier for Railway Traction. Doctoral thesis. The Birmingham Centre for Railway
+Research and Education Electronic, Electrical and Computer Engineering College of Engineering and Physical Sciences. The University of
+Birmingham. April.
+5 Efficiencies are discussed in Section 4.1.3.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+29
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+3.2
+
+Hydrogen Technology
+
+3.2.1
+
+Hydrogen Production Options
+
+Hydrogen has to be manufactured with engineered processes. Electrolysis is one of four process
+technologies that can produce hydrogen, as shown in Figure 3-3.
+FIGURE 3-3 HYDROGEN PRODUCTION TECHNOLOGIES
+
+Fossil Carbon Processes convert the energy in hydrocarbons to pure hydrogen by several routes. The
+currently predominant route to hydrogen reforms natural gas by steam-methane reforming (SMR) and
+similar variations on this technology. This is an energy-efficient process, and today produces about
+96 percent of the hydrogen essential to converting oil into usable refined products. However, SMR
+processes also co-produce one CO2 molecule for every four molecules of hydrogen.
+Using SMR and other CO2-producing variations to produce hydrogen is questionable because there is
+also the possibility of producing hydrogen and pure carbon from natural gas. This is called partial
+reduction. It is recognized as an interesting possibility, since the carbon is produced in a stable form
+that would not require sequestration. However, partial reduction and SMR both require processing
+CH4, which is a powerful greenhouse gas (GHG). Partial reduction is also an inefficient process, since it

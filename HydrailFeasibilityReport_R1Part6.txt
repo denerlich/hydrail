@@ -1,0 +1,2659 @@
+This analysis shows that the cost of hydrogen production (which is represented as $ per kg of
+hydrogen produced) is 20 percent lower in the Hydrail simulation model than the DOE model for the
+following reasons:
+
+
+
+
+Approximately half of the difference is driven by the indirect capital costs. The following cost
+elements have not been captured in the Hydrail simulation model:
+
+
+Site preparation cost
+
+
+
+Permitting and legal costs
+
+The remaining half is driven by financing costs and taxes associated with producing hydrogen that
+are not currently captured in the Hydrail simulation model. These costs include:
+
+
+Initial equity depreciable capital;
+
+
+
+Cash for working capital reserve;
+
+
+
+Debt interest;
+
+
+
+Principal payment; and
+
+
+
+Taxes.
+
+4.4.6
+
+Results of the Hydrail Modelling Exercise
+
+The process discussed above outlines a systematic method for developing cost estimates. This
+process was used to develop, refine, and understand the cost estimate for the Hydrail System and
+how this estimate compares to the cost estimates for overhead electrification as presented in the 2014
+IBC model.
+The IBC analysis resulted in a BCR of 3.07 for overhead electrification (Scenario 5). The update to the
+IBC model for Hydrail results in a BCR of 3.01 under the low-cost scenario and 2.65 under the highcost scenario. According to this analysis, the costs of Hydrail and overhead electrification appear to be
+comparable in the low-cost scenario and the overall benefits continue to outweigh the costs of the
+system in all scenarios.
+Table 4-39 provides a high-level overview of the 60-year NPV costs and BCRs under the traditional
+overhead, and low, and high scenarios for Hydrail.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+170
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-39 COSTS AND BCRS FOR ELECTRIFICATION SCENARIOS (60-YEAR NPV COSTS WITH A BASEYEAR OF 2014)*
+Traditional
+Overhead
+Electrification
+($ M)
+
+Low Hydrail
+System
+
+High Hydrail
+System
+
+($ M)
+
+($ M)
+
+A
+
+12,277
+
+12,706
+
+13,309
+
+Initial Capital for Energy System Infrastructure
+(2015 to 2024)
+
+B1
+
+1,762
+
+576
+
+712
+
+Ongoing Capital for Energy System
+Infrastructure (2025 to 2074)
+
+B2
+
+-
+
+257
+
+356
+
+B=B1+B2
+
+1,762
+
+833
+
+1,068
+
+Initial Capital for Fleet (2015 to 2023)
+
+C1
+
+2,260
+
+2,703
+
+2,986
+
+Ongoing Capital for Fleet (2024 to 2074)
+
+C2
+
+1,845
+
+2,132
+
+2,531
+
+C=C1+C2
+
+4,105
+
+4,835
+
+5,517
+
+D=B+C
+
+5,867
+
+5,668
+
+6,585
+
+E
+
+7,074
+
+7,074
+
+7,074
+
+B=D+E
+
+12,942
+
+12,742
+
+13,659
+
+A+B
+
+25,218
+
+25,497
+
+27,030
+
+3.07
+
+3.01
+
+2.65
+
+Operating Costs
+Capital Costs
+
+Energy System
+
+Fleet
+Total Capital Cost for Energy System and
+Fleet
+Other Capital Costs
+Total Capital Costs (D + E)
+Total Costs
+BCR
+*Numbers may not sum due to rounding.
+
+In Table 4-39, costs are represented as follows:
+(A) The total operating costs for the system, including estimates for the cost of maintaining rolling
+stock, hydrogen equipment, the overhead system, stations, and other components of the RER
+system.
+(B) The total capital cost of the system, including costs spent during construction of the system and
+capital expenditures required throughout the 60-year life of the RER program.
+(C) The total capital cost for the energy system and the fleet; for overhead electrification, this includes
+the cost of the catenary system and all electric vehicles and for Hydrail this includes all hydrogen
+equipment (both on- and off-vehicle equipment) and the cost for the vehicles themselves.
+(D) The cost for the energy system; for overhead electrification, this is the cost of the catenary system
+and for Hydrail this is the cost of the off-vehicle hydrogen equipment (for example, electrolyzers
+and distribution equipment).
+(E) The cost for the fleet; for electrification, this includes electric locomotives and EMUs and for
+Hydrail the cost represents locomotives and EMUs including the on-vehicle hydrogen equipment
+that will be used to power the vehicles (that is, fuel cells, batteries, and storage tanks).
+(F) Other capital costs required to develop the RER system including station modifications and track
+upgrades.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+171
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Under both (D) and (E), initial capital (that is, capital spent during the construction or development
+phase of RER) and ongoing capital (that is, capital spent once the RER program is operational) are
+included as separate items. The intention is to illustrate the difference between overhead electrification
+and Hydrail as it relates to the distribution of spending over the lifetime of the RER program.
+When undertaking a like-for-like analysis through the IBC model, Hydrail shows a slight to moderate
+disadvantage when compared to overhead electric. This suggests higher costs will be observed
+throughout the life of the RER program. Under a low scenario the model shows only a small decline in
+the BCR between when compared to the overhead electrification case. Conversely, if a costlier
+scenario materializes (for example, electricity prices are higher in 2040 than expected), the outcome
+could impact into reduced BCR for Hydrail. The sensitivity analysis suggests that there are three
+factors that will have the most significant impact on cost. In order of importance these are: price of
+electricity; lifespan of fuel cells; and cost of fuel cells. Given the potential impact on the final results,
+these are the items where further analysis should focus.
+It is important to emphasize that the costs contained throughout the models (including IBC) are not
+intended to reflect the price to install and manage the system under a typical commercial
+arrangement. Such information would only be clearly understood following a market sounding
+exercise followed by a competitive procurement process.
+Other Benefits of Hydrail
+Other benefits of Hydrail (for example, establishing a hydrogen economy, local jobs) have been captured
+by a separate modelling exercise within the feasibility study. The socio-economic study examines:
+
+
+Employment and GDP benefits
+
+
+
+A reduction in disruption related to the construction of an overhead system in a live rail corridor.
+
+
+
+The potential to develop a 'hydrogen economy' in the province that could spur the deployment of
+hydrogen for other applications.
+
+
+
+Supporting deployment of hydrogen for commercial use in transportation (for example,
+passenger vehicles, buses, commercial vehicle).
+
+
+
+The opportunity to support development of hydrogen based energy storage systems, which will
+facilitate the increased use of renewable energy in Ontario's electricity system w harness surplus
+energy
+
+4.4.7
+
+Updates to the IBC
+
+Metrolinx is currently in the process of updating the cost estimate for overhead electrification that was
+developed as part of the IBC. As discussed earlier in this chapter, during early stages of a project, where
+the design of a system is still in initial stages of development, large variability can be expected in cost
+estimates. As more detailed design is completed, costs are better understood and, in many cases, rise as a
+better understanding of the project often reveals costs not previously accounted for.
+Based on the update to overhead electrification costs currently underway, it appears that costs for
+overhead electrification will be higher than estimated in the IBC. The updated costs will not be
+finalized until after the completion of the Hydrail feasibility study and, therefore, these updates are not
+reflected in this analysis.
+Based on the work currently ongoing to update the cost estimate for overhead electrification there is
+an expectation that CAPEX and OPEX will be higher than envisioned in the IBC. Adjusting for these
+higher costs, the BCR in the IBC could fall below 3.07, as is currently captured by the IBC model.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+172
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+The estimated BCR for Hydrail may also change due to refinements in the technical model or changes
+to electricity policies. As illustrated in Figure 4-45, further modelling work may result in greater
+hydrogen required for the Hydrail System, which could result in increased capital and operating costs.
+Consequently, the BCR would be reduced from 2.65 as currently estimated in the high-cost case. On
+the other hand, an electricity policy change that results in lower electricity prices will improve the BCR
+from 3.01 as currently estimated in the low-cost case.
+It is however noted that any future electricity policy change that results in lower electricity prices could
+also improve the BCR for the overhead electrification case.
+FIGURE 4-45 POTENTIAL CHANGES IN THE BCR OF AN OVERHEAD ELECTRIC SYSTEM COMPARED
+TO HYDRAIL
+
+*Arrows are meant to illustrate potential higher and lower BCR ranges based on analysis to be completed in
+the future.
+
+4.4.8
+
+Other Considerations
+
+It is also important to note that there are several key considerations that are not captured by the IBC
+analysis that are critical to the overall business case and a decision on the technology that should be
+used to electrify the GO network. These considerations as discussed below include potential benefits
+from Hydrail, areas where it is unclear whether there is a benefit or a risk, and risks associated with
+deployment of Hydrail.
+First, the IBC model work likely does not completely account for the value of the risk associated with
+constructing an overhead electric system in a live rail corridor. Although an adjustment has been
+made to the Productivity and Resource cost factor to reflect reduced complexity associated with the
+construction of a Hydrail System, this adjustment likely does not fully capture the entire value of
+avoided risk that would be inherent to installing an overhead contact system on a live rail corridor,
+something that is rarely done in the rail industry.
+Second, Hydrail may present an opportunity to more gradually deploy HFC-powered train sets and to
+potentially achieve this roll out with little to no disruption to existing rail operations. RER service levels
+are currently scheduled to begin in 2024 accordingly, this is when additional operating costs begin
+and related benefits are expected to be realized. If Hydrail is deployed, commencement of RER
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+173
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+services may not be binary as is the case for overhead electrification. As Hydrail vehicles are delivered
+to Metrolinx, it may be possible to deploy these vehicles on a portion of the GO network before
+bringing the entire system online. This could potentially allow RER benefits to be realized earlier than
+would be the case through overhead electrification. While this phased roll-out could help to realize
+additional benefits, it could also increase operational complexity as some lines would be operating at
+significantly increased service levels and speeds that may be difficult to coordinate with slower routes
+through Union Station. This potential benefit could also be negated because of the need to develop a
+hydrogen supply chain across the GO network. Further analysis will need to be undertaken to
+understand if there may be regulatory, safety, operational or commercial considerations that may
+hinder ability to seamlessly deploy a mixed fleet of hydrogen and diesel train sets as is assumed in
+making this statement.
+Third, the IBC model work likely does not sufficiently capture the comparison between maintenance
+requirements of the two systems. While in concept, maintenance of fuel cells can be done without
+significant disruption, the entire maintenance regime for a Hydrail train is not fully understood. In
+some cases, manufacturers may require that maintenance is undertaken by their own trained
+workforce, or a workforce with certain credentials. This could introduce operational complexities if, for
+example, different workers are needed to maintain various components of the hydrogen system. The
+maintenance cycle may be further complicated by regulatory requirements associated with, for
+example, replacement of tanks and how the system is safety tested after such events. Furthermore, the
+amount of downtime associated with servicing Hydrail vehicles compared to traditional electric
+vehicles is unknown. This could impact the configuration of maintenance facilities and the size of the
+fleet. The key point is not that the costs will be higher, but that maintenance requirements will be
+more complex and will require different processes to be followed, potential impacts on facilities and
+fleet, and likely a higher skilled workforce. The specific nature of these differences is unknown and has
+not been quantified through the IBC model.
+Forth, it is reasonable to assume that accreditation requirements of those undertaking work on the
+hydrogen related components of the trains will likely be more stringent than for those servicing
+traditional electric vehicles. The potential for limited availability of technicians to service the Hydrail
+System is not captured by the Hydrail System model. Specialized technicians will be required to
+service Hydrail vehicles and this is expertise that does not currently exist in Ontario at the scale that
+would be required. The lack of a skilled workforce could lead to higher costs at the outset as the
+industry trains technicians. To meet demand, the Province of Ontario may need to invest in
+educational programs to develop this skilled workforce. Development of a new work force has
+potential long-term benefits for the Ontario economy. These benefits are discussed in Section 4.7 this
+study. The key point is that the lack of a skilled workforce introduces risk to the deployment of Hydrail
+that would need to be overcome to ensure a smooth transition into service.
+Fifth, a significant potential benefit of Hydrail is the opportunity it presents to electrify more of the go
+RER network than would otherwise be possible through overhead electrification. This includes
+electrification of the outer areas of the network where overhead electrification would be cost
+prohibitive, and also to electrify corridors that the IBC model assumes would continue to run diesel
+service over the course of the 60 year RER program. Broader electrification could mean increased
+ridership as services will be more frequent and faster and associated increases to the overall benefits
+associated with the RER program. These benefits would be realized assuming agreements to operate
+HFC-powered trains can be negotiated in areas of the GO network that are not owned by Metrolinx.
+Sixth, while Hydrail related costs have been modelled, there is inherent uncertainty in such processes.
+On one hand, it is difficult to predict the extent to which capital and operating costs could come down
+in the future in light of a potential surge in establishing hydrogen economies globally. This would
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+174
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+come through increased competition, more real-world cases of implementation, and likely more
+research funding going into the technology. Similarly, it is very difficult to predict with accuracy the
+impact Hydrail could have on future energy prices in Ontario. Modelling work that has been
+undertaken is based on Ontario’s current energy outlook. It is well-understood that the outlook is
+based on one scenario where disruptions like mass deployment of electrical vehicles or significant
+downturns in the economy have not been assumed. As explained in Section 4.3, the load presented
+by Hydrail could lead to an increase in the wholesale price of electricity during the periods electricity
+is demanded by the Hydrail System. This will be the case if a situation arises where the availability of
+surplus baseload significantly declines due to increased adoption of electric vehicles and potentially
+increased use of electricity for home heating as is contemplated in Ontario’s Climate Change Action
+Plan.
+Seventh, Hydrail has the potential to be an anchor point for Ontario’s hydrogen economy. Lack of
+infrastructure is regularly sited as the key barrier to wide spread adoption of hydrogen technologies.
+The scale of Hydrail could provide that essential backbone that is needed to make hydrogen a viable
+technology option for commercial and personal transportation and for other purposes. To make this a
+reality, the hydrogen supply chain for Hydrail would likely need to be purposely designed and
+procured to ensure the broader potential benefits are realized. If, as an example, the fuelling network
+was purposely built for Hydrail, those broader benefits may be missed. Should a hydrogen supply
+chain be established and anchored in a long-term agreement for the provision of a certain amount of
+hydrogen to supply the Hydrail System, and that system also is used for other commercial
+applications, the price could be significantly different. The Hydrail analysis does not capture the
+potential benefits associated with such arrangements. Related to this point, Hydrail has the potential
+to facilitate continued efforts to decarbonize Ontario’s electricity system and to support continued
+installation of renewable energy production capabilities as it provides a storage medium that is not
+currently available. As per above, this would require that the hydrogen supply chain is effectively
+open for purposes broader than Hydrail.
+Finally, it is very difficult to quantify the risk associated with deployment of Hydrail at the scale that
+would be required to replace plans for overhead electrification. While all aspects associated with the
+production, storage, dispensing and use of hydrogen in fuel cells has been proven internationally, it
+has not been accomplished in a rail setting at anywhere near the scale being contemplated in Ontario
+and it has yet to be tested on rail vehicles that are comparable in terms of size and weight to what
+would be required to meet RER service levels as contemplated in the IBC.
+
+4.4.9
+
+Fiscal Analysis
+
+I It is important to note that although the NPV of the cost of both systems appear to be similar, there
+are significant differences in the timing of expenditures. For the overhead system, it is expected that
+much of the capital cost will be incurred near the beginning of the project as the overhead contact
+system is constructed. For Hydrail, however, the initial capital cost is expected to be lower but the
+recurring CAPEX to refurbish or replace hydrogen equipment is expected to be higher than for the
+overhead system.
+The combined impact of capital investment and operating and maintenance costs (i.e., the fiscal
+analysis) is analyzed in this section as separate operating and capital cost results that were presented
+in the previous sections do not clearly show how the investment affects annual budgets. A fiscal
+analysis has been completed with respect to the following four categories:
+
+
+Amortized cost: annual amortization cost of capital assets. The effect of initial capital investment
+will appear in the books under the amortized cost of investment. It is assumed that initial capital
+investment for overhead electrification will be amortized linearly over 50 years (that is, from 2024
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+175
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+to 2074). Hydrail’s initial capital, however, will be depreciated at different rates depending on the
+asset type. For instance, fuel cells have a significantly higher depreciation rate comparing to
+storage tanks due to their shorter life span. Components of the Hydrail System were depreciated
+at the rates shown in Table 4-40.
+TABLE 4-40 HYDRAIL SYSTEM – DEPRECIATION RATE
+Lifetime
+
+Depreciation Rate
+
+Lifetime
+
+Depreciation
+Rate
+
+Lifetime
+
+Depreciation
+Rate
+
+Electrolyzer
+
+15
+
+7 percent
+
+12
+
+8 percent
+
+Storage (including compressor)
+
+20
+
+5 percent
+
+20
+
+5 percent
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+Refuelling (including compressor)
+
+20
+
+5 percent
+
+20
+
+5 percent
+
+Dispensing
+
+10
+
+10 percent
+
+10
+
+10 percent
+
+Fuel cell
+
+9
+
+11 percent
+
+6
+
+17 percent
+
+Battery system
+
+10
+
+10 percent
+
+10
+
+10 percent
+
+On-board storage tanks
+
+15
+
+7 percent
+
+15
+
+7 percent
+
+Capital Assets
+
+Distribution (including compressor)
+
+
+
+Cost of financing: annual cost of debt. It is assumed that the initial capital investment is fully
+financed by debt. The debt is assumed to be issued at a rate of 3.5 percent annually, maturing in
+30 years for both overhead electrification and Hydrail.
+
+
+
+Operating cost: annual cost of electricity. As explained in Section 4.3, the volume and unit cost of
+electricity was estimated using data provided by IESO and the Hydrail simulation model. The average
+annual operating costs for the first 10 years of operation was then estimated for comparison.
+
+
+
+Maintenance cost: annual maintenance cost. The maintenance cost for Hydrail was derived from
+the Hydrail simulation model.
+
+The result of the fiscal analysis is presented in Table 4-41. The difference between total annual costs of
+overhead electrification and low- and high-cost Hydrail scenarios is also presented in Table 4-41.
+Under the low-cost scenario, Hydrail would result in an average decrease of $31 million in
+Government’s expenses over the first 10 years of operations. Under high-cost scenario, Hydrail would
+result in an average increase of $55 million over the same operating period.
+TABLE 4-41 FISCAL IMPACT – HYDRAIL COMPARED TO OVER-HEAD ELECTRIFICATION
+IBC
+
+Hydrail
+(low)
+
+Difference
+
+Hydrail
+(high)
+
+Difference
+
+Amortized cost
+
+42
+
+55
+
+20
+
+99
+
+63
+
+Cost of Financing
+
+73
+
+25
+
+(48)
+
+34
+
+(39)
+
+Operating cost*
+
+34
+
+35
+
+1
+
+61
+
+27
+
+Maintenance cost*
+
+17
+
+14
+
+(3)
+
+20
+
+3
+
+Total annual costs
+
+160
+
+129
+
+(31)
+
+214
+
+54
+
+Comparison
+
+*The incremental maintenance cost from IBC model
+
+This analysis is based on the information provided by Metrolinx represents what is available at the
+time of the report’s publication. The analysis should be reviewed and further analyzed by Metrolinx to
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+176
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+develop a final conclusion on the fiscal impact of the implementation of the overhead electric and
+Hydrail systems.
+
+4.4.10 Findings
+The comparison between Hydrail and overhead electrification, as envisioned in the IBC, illustrates
+based on the information available, that total capital and operating costs for Hydrail are either similar
+more costly than overhead electrification. In both the low- and high-cost cases for Hydrail, total
+operating costs are expected to be higher than for an overhead system, as estimated in 2014.
+The higher capital cost for the Hydrail System is primarily driven by the requirement for more frequent
+CAPEX required to replace the assets in the Hydrail System, due to the shorter lifespan of the assets.
+In the low-cost scenario, the higher ongoing capital requirement is counter-balanced by lower initial
+capital required in the Hydrail System.
+Although an attempt has been made to understand and account for the variability in cost estimates
+that is inherent at the feasibility-testing stage, it remains important to emphasize the uncertainty in
+both the cost estimates for Hydrail and for overhead electrification. While the BCRs for Hydrail and
+overhead electrification are similar, with overhead electrification showing only marginally lower costs
+than Hydrail under the low-cost scenario, further design is required to advance the cost estimate of
+both systems to allow for a complete picture of the cost difference.
+The findings presented are based on NPV estimation. An attempt has been made to translate the
+analysis into fiscal terms because the government’s decision-making depends heavily on the fiscal
+impact of the project. As discussed in Section 4.4.9, the capital and operating costs of the Hydrail
+System would result in an overall annual expense ranging between $129 million and $214 million in
+the low- and high-cost scenarios, respectively. The variation between the scenarios is primarily driven
+by the difference in amortized capital costs that results from higher unit costs and shorter life spans of
+the Hydrail System equipment in the high-cost scenario. The annual operating cost also increases
+materially as a result of higher cost of electricity considered in the high-cost scenario. This analysis
+requires further review and confirmation by the Metrolinx finance team, at which time a comparison
+between Hydrail and overhead electrification scenarios could be considered and the associated
+impact on capital and operating costs that will be carried in the provincial fiscal plan can be assessed.
+
+4.4.11 Next Steps
+As discussed, a more detailed estimate for Hydrail should include costs like permitting and financing
+costs, and would also include a more detailed analysis of risk and the risk-related costs; this will
+provide a more accurate picture of the total costs of a Hydrail System. At the same time, work should
+be completed to update the overhead electrification costs. The IBC was completed in 2014 and,
+similar to the requirement for a more detailed assessment of Hydrail related costs, a more detailed
+assessment of overhead electrification, based on a more current understanding of costs should be
+conducted. This will allow for a more complete comparison of Hydrail and overhead electrification.
+Additionally, the focus of the financial modelling process to-date has been the total cost of the Hydrail
+and overhead electric systems. This does not represent the price of system to Metrolinx—further
+modelling work should consider things like procurement and financing costs to help provide a more
+accurate picture of the full financial impact of the development of either system.
+Finally, a detailed investigation of the risks associated with both Hydrail and overhead electrification
+technologies should be completed. This will contribute to the understanding of the true potential cost
+of each project.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+177
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.5
+
+Environmental
+
+The objective of this section is to provide a high-level comparative review of the potential impacts of
+electrification and Hydrail scenarios. The seven scenarios included in the comparison are summarized
+as follows:
+
+
+Scenario 1, RER Scenario 5: Electric-powered and diesel-powered train fleet mix.
+
+
+
+Scenario 2a: Hydrogen-powered and diesel-powered train mix, with hydrogen production and
+storage facilities (five) located in industrial areas away from the five Hydrail corridors. Hydrogen
+fuel (liquid hydrogen [LH2] or CGH2) would be transported by truck from the hydrogen storage
+and production facilities to the dispensing and fuelling facilities located at existing railyards.
+
+
+
+Scenario 2b: Hydrogen-powered and diesel-powered train mix, with hydrogen production and
+storage facilities (five) located adjacent to each of the five Hydrail corridors. Hydrogen fuel (LH2 or
+CGH2) would not require transportation to the existing railyards.
+
+
+
+Scenario 2c: Hydrogen-powered and diesel-powered train mix, with hydrogen production and
+storage facilities (five) located in industrial areas away from the five Hydrail corridors. Liquid
+hydrogen would be transported by a 4-inch outside diameter (OD) steel pipeline from the
+hydrogen storage and production facilities to the dispensing and fuelling facilities located at
+existing railyards.
+
+
+
+Scenario 3a: Full hydrogen-powered train fleet on seven corridors, with hydrogen production and
+storage facilities (seven) located in industrial areas away from the rail corridors. Hydrogen fuel (LH2
+or CGH2) would be transported by truck from the hydrogen storage and production facilities to
+the dispensing and fuelling facilities located at existing railyards.
+
+
+
+Scenario 3b: Full hydrogen-powered train fleet on seven corridors, with hydrogen production and
+storage facilities (seven) located adjacent to each rail corridor. Hydrogen fuel (LH2 or CGH2) would
+not require transportation to the existing railyards.
+
+
+
+Scenario 3c: Full hydrogen-powered train fleet on seven corridors, with hydrogen production and
+storage facilities (seven) located in industrial areas away from each rail corridor. Liquid hydrogen
+would be transported by a 4-inch OD steel pipeline from the hydrogen storage and production
+facilities to the dispensing and fuelling facilities located at existing railyards.
+
+4.5.1
+
+Evaluation Methodology
+
+A reasoned argument evaluation methodology was used to compare technology scenarios.
+Assessment criteria were selected to correspond with the 11 environmental factors identified in the
+GO Rail Network Electrification Transit Project Assessment Process Final Environmental Project Report
+(TPAP EPR)147. For each criterion, metrics were defined and environmental effects were assigned to
+each of the seven scenarios based on available information. For each criterion, preference was
+assigned to the scenarios based on the magnitude of potential or anticipated environmental effect. A
+rationale for the preference determination was then provided for each criterion, and for the overall
+assessment.
+147 Metrolinx. 2017. GO Rail Network Electrification Transit Project Assessment Process Environmental Project Report. Prepared by Morrison
+Hershfield Limited and Gannet Fleming Canada ULC. October 5. Accessed October 2017.
+http://www.gotransit.com/electrification/en/docs/technicalreports/GO percent20Rail percent20Network percent20Electrification
+percent20Environmental percent20Project percent20Report_Volume percent201.pdf
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+178
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.5.1.1 Assumptions
+The scope of the assessment was based on Scenario 5 of the GO RER Initial Business Case148.
+Assumptions from the TPAP EPR were carried over to this assessment and include:
+
+
+Service levels for the year 2025 and all additional RER infrastructure modifications are already in
+place.
+
+
+
+Projects outside the scope of the TPAP EPR (for example, new tracks, grade separations, and new
+GO stations) would be assessed separately.
+
+
+
+Electrification or Hydrail infrastructure implementation is separate from the other planned works;
+therefore, the assessment does not evaluate their impacts.
+
+
+
+The diesel-Hydrail scenarios (2a-c) will maintain the same fleet mix of diesel and hydrogen trains
+as RER Scenario 5 diesel and electric trains.
+
+
+
+Implementation timeframes for Scenarios 2 and 3 will be the same as for Scenario 1, 2024.
+
+Assumptions related to Hydrail and associated infrastructure include:
+
+
+Under Scenario 2, the five rail corridors would be converted to Hydrail; and under Scenario 3, all
+seven rail corridors would be converted to Hydrail.
+
+
+
+Liquid and compressed hydrogen fuels will have similar impacts at the level of detail assessed.
+
+
+
+Central production facilities will be located in existing industrial areas, potentially several
+kilometres from each rail corridor, and would require transportation of hydrogen fuel to the
+dispensing and refuelling facilities.
+
+
+
+Local production and storage facilities will be constructed adjacent to the hydrogen fuel
+dispensing and refuelling facility along each rail corridor.
+
+
+
+Trucks or pipelines would be used to transport hydrogen fuel from central production and storage
+facilities to dispensing and fuelling facilities.
+
+
+
+For Scenarios 2a, b, and c, facility footprints for the five hydrogen production and storage facilities
+and five dispensing and fuelling facilities will be a total of 10,841 square metres (m2). It was
+assumed that liquid and compressed hydrogen facilities would have the same footprints.
+
+
+
+For Scenarios 3a, b, and c, facility footprints for the seven hydrogen production and storage
+facilities and seven dispensing and fuelling facilities will be a total of 15,144 m2. It was assumed
+that liquid and compressed hydrogen facilities would have the same footprints.
+
+
+
+Facility footprint assumptions for electrification were based on infrastructure footprints (five hydro
+one-tap locations, five traction power substations [TPSs], five switching stations [SWSs], and six
+paralleling stations [PSs]) provided in the TPAP EPR. Areas associated with gantries, feeder routes,
+bridge modifications or replacements, paralleling barriers, and the overhead contact system were
+not included in the facility footprint.
+
+
+
+Hydrogen production and storage facilities will have storage for 3 days’ worth of hydrogen.
+
+
+
+Hydrogen production facilities can be located in areas designated for industrial use and in visually
+unobtrusive areas, and would not be located in sensitive natural habitats or in areas of high
+
+148 Metrolinx. 2015. GO RER Initial Business Case. Accessed October 2017.
+http://www.metrolinx.com/en/regionalplanning/projectevaluation/benefitscases/GO_RER_Initial_Business_Case_EN.pdf
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+179
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+archaeological potential. Facility locations were assumed to have impacts equivalent to those of
+electrification facilities.
+
+
+Electricity for hydrogen production would be sourced from Hydro One through an underground
+connection to the facility.
+
+
+
+Water for hydrogen production would be sourced from the local water mains.
+
+
+
+Use of Hydrail vehicles can be scaled up on the corridors once the production and refuelling
+facilities are operational.
+
+4.5.2
+
+Evaluation Results
+
+The comparative evaluation is included in Table 4-42. This section presents a summary of the
+preliminary evaluation results, limitations, and additional considerations for future assessment.
+
+4.5.2.1 Terrestrial and Aquatic Ecosystems
+For this criterion, Scenarios 2a and 2b are preferred, as they result in the smallest potential footprint
+disturbance to vegetation and wildlife habitat, and will not require modifications to existing water
+crossings. Scenario 3a and 3b are slightly less preferred, as the footprint of the required hydrogen
+production facilities is slightly larger than required for hybrid diesel-hydrogen scenarios. Pipeline
+options 2c and 3c may result in additional vegetation removals and watercourse crossings, making
+these scenarios less desirable than the other Hydrail scenarios. Electrification is least preferred for this
+criterion, as it requires significant right-of-way (ROW) clearing, footprint impacts associated with new
+facilities, and construction of new infrastructure in proximity to watercourses, including Redside dace
+habitat149.
+
+4.5.2.2 Contaminated Soils and Groundwater
+For this criterion, Scenarios 3b and 3c are preferred, as they eliminate the operation of diesel trains
+and the requirement to transport hydrogen using diesel trucks. Scenario 2a is least preferred, as a
+portion of the transit fleet remains diesel, and the central hydrogen production facility introduces a
+requirement for 78 truck trips per day to transport hydrogen to the dispensing and fuelling facilities.
+
+4.5.2.3 Built Heritage
+From a built heritage perspective, all Hydrail scenarios avoid the requirement to modify heritage
+properties, so are preferred. Scenario 1 is least preferred, as electrification requires modification of up
+to 12 heritage properties (bridges).
+
+4.5.2.4 Archaeology
+From an archaeological perspective, Hydrail scenarios not involving pipeline construction (2a, 2b,
+3a, 3b) are preferred, as they result in the least subsurface disturbance; therefore, they minimize
+potential impacts to archaeological resources. Scenarios 2c and 3c are less preferred, as pipeline
+construction increases potential to encounter archaeological resources. Electrification is least
+preferred, as this scenario requires the most subsurface construction.
+
+149 Metrolinx. 2017. GO Rail Network Electrification Transit Project Assessment Process Environmental Project Report. Prepared by Morrison
+Hershfield Limited and Gannet Fleming Canada ULC. October 5. Accessed October 2017.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+180
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.5.2.5 Land Use
+Impacts to land use are not anticipated under any scenario. It has been assumed that hydrogen
+production facilities can be located in areas designated for industrial use.
+
+4.5.2.6 Emissions
+From an emissions perspective, the full Hydrail scenarios (3a, 3b, and 3c) are preferred, as they
+eliminate diesel trains from the RER fleet mix and reduce GHG emissions regionally, leading to
+improved local air quality. Hydrail Scenarios 2b and 2c, and electrification (Scenario 1) are less
+preferred and are assumed to contribute comparable emissions, though less emissions than the
+current diesel train fleet. While Hydrail may require up to 3 times more electricity than electrification,
+hydrogen production can be carried out at periods of low grid demand, reducing reliance on fossil
+fuel sources. Hydrail Scenario 2a is least preferred, as diesel trains remain part of the fleet mix, and the
+central hydrogen production facility introduces the requirement for 78 additional truck trips per day.
+
+4.5.2.7 Noise and Vibration
+From a noise and vibration perspective, the full Hydrail scenarios (3a, 3b, and 3c) are preferred, as
+they eliminate diesel locomotives from the fleet mix. Hydrail locomotives will not have mechanical
+engines, reducing the noise produced by the train. Assuming the proportion of diesel trains is
+consistent between Scenarios 1, 2a, 2b, and 2c, these scenarios are less preferred.
+Significantly more effects from noise and vibration can be expected during construction of
+electrification infrastructure along the rail corridors and at facilities. A comparison of impacts would
+require additional siting information and construction methodology for electrification and Hydrail
+scenarios.
+
+4.5.2.8 Visual and Aesthetics
+From a visual perspective, Hydrail scenarios featuring a central production facility, pipeline, or both
+(2a, 2c, 3a, 3c) are preferred, as they do not require overhead infrastructure; and there is flexibility to
+site production facilities in visually unobtrusive locations (such as in industrial areas). Scenarios 2b and
+2c are less preferred, as it is assumed that localized production facilities may be located in highly
+visible or residential areas. Electrification is least preferred due to the requirement for extensive
+overhead infrastructure.
+
+4.5.2.9 Utilities
+From a utilities perspective, Hydrail scenarios not requiring pipeline installation (2a, 2b, 3a, 3c) are
+preferred, as they avoid potential for utility conflicts within road and rail ROWs. Scenarios 2c and 3c
+are less preferred, as pipeline installation increases the potential for utility conflicts. Electrification is
+least preferred, as extensive infrastructure required within the ROW is expected to result in significant
+utility conflicts.
+
+4.5.2.10 Electromotive Force
+According to the TPAP EPR150, electromotive force (EMF) impacts are not anticipated. No impacts are
+anticipated under any Hydrail scenario.
+
+150 Metrolinx. 2017. GO Rail Network Electrification Transit Project Assessment Process Environmental Project Report. Prepared by Morrison
+Hershfield Limited and Gannet Fleming Canada ULC. October 5. Accessed October 2017.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+181
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.5.2.11 Stormwater Management and Drainage
+As existing stormwater infrastructure would not need to be modified or expanded to accommodate
+Hydrail, all scenarios are equally preferred. Electrification is less preferred, as it requires modifications
+to the existing stormwater management system.
+
+4.5.3
+
+Environmental Conclusions
+
+4.5.3.1 Overall Assessment
+Key Evaluation Criteria
+From this assessment, the criteria with the greatest relevance from an environmental evaluation
+perspective are:
+
+
+Footprint impacts (both facility and ROW)
+
+
+
+Impacts to built heritage structures
+
+
+
+Emissions
+
+
+
+Visual and aesthetic impacts
+
+Preferred Scenarios
+The full hydrogen-powered train fleet scenarios (3a, 3b, and 3c) are generally preferred, as they:
+
+
+Eliminate the need for extensive ROW clearing (associated with electrification infrastructure)
+
+
+
+Avoid impacts to heritage bridges (required under electrification to provide adequate clearance)
+
+
+
+Remove diesel trains from the fleet mix (thereby, reducing emissions, noise, and vibration)
+
+
+
+Present the ability to draw power from the grid during periods of low demand (reducing reliance
+on fossil fuel generation)
+
+
+
+Eliminate the need for extensive aboveground infrastructure with the potential to negatively
+impact visual aesthetics in and adjacent to the corridor
+
+Comparison between Preferred Scenarios
+Within these alternatives, there are trade-offs to consider that will depend on the ability to mitigate
+impacts through design. For example, if the pipeline scenario (3c) could be designed to avoid
+impacts to vegetation, archaeological resources, and utilities, the residual environmental impacts
+would be minimal. Similarly, if a hydrogen-powered truck fleet was used to deliver fuel to the
+dispensing and refuelling facilities, the environmental effects of Scenarios 3a and 3b would be
+comparable. Consideration of further information, when available, on the environmental factors
+assessed and of additional environmental factors could change the overall preference described.
+As electrification requires construction of significant above- and belowground infrastructure,
+environmental effects are anticipated to vegetation aquatic and wildlife habitat, contaminated soils,
+cultural heritage and archaeology, utilities, air quality, noise and vibration, and visual aesthetics.
+While a significant improvement over existing conditions, the ongoing operation of diesel trains
+under Scenarios 1, 2a, 2b, and 2c will result in increased emissions when compared to the full
+hydrogen-powered train fleet scenarios. And while electrification requires less total electricity, there is
+also less flexibility in the timing of grid production, resulting in a potential increase in fossil fuel
+reliance.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+182
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+The following legend applies to Table 4-42.
+
+TABLE 4-42 HYDRAIL PRELIMINARY ENVIRONMENTAL REVIEW
+
+Factor Area
+Terrestrial and
+Aquatic
+Ecosystems
+
+Metric
+
+
+
+
+Footprint
+impact on
+vegetation and
+habitat
+Disturbance to
+watercourses
+during
+construction
+
+Scenario 1
+
+Scenario 2a
+
+Scenario 2b
+
+Scenario 2c
+
+Scenario 3a
+
+Scenario 3b
+
+Scenario 3c
+
+Diesel - Electric
+
+Diesel - Hydrogen (Central
+Production - Trucked)
+
+Diesel - Hydrogen
+(Localized Production)
+
+Diesel – Hydrogen
+(Pipeline)
+
+Hydrogen Only (Central
+Production - Trucked)
+
+Hydrogen Only
+(Localized
+Production)
+
+Hydrogen Only
+(Pipeline)
+
+Based on estimated sizes for PSs, SWSs, TPSs, and
+tap sites, the area required for electrification
+facilities is 31,104 m2. Additional footprint will be
+required for gantries, feeder routes and duct
+banks, OCS support structures, OCS maintenance
+facilities, bridge replacements and modifications,
+and parallel barriers.
+Impact to Vegetation and Habitat
+Tree removal and vegetation clearing will occur
+within 7 m of the outermost electrified track
+through construction and operation to provide
+safety. Tree removal and vegetation clearing
+may be required for infrastructure and facility
+construction, and maintenance.
+Construction activities may introduce invasive
+species. Damage to trees not designated for
+removal may occur during construction.
+Disturbance to migratory bird nests may occur
+during vegetation clearing or bridge
+modifications. Temporary displacement of
+wildlife or disturbance to SAR may occur during
+construction.
+Disturbance to Watercourses
+There are no direct impacts to watercourses
+anticipated as a result of the electrification project.
+Potential indirect effects of the construction works
+include siltation, introduction of contaminants into
+the watercourse using industrial equipment, and
+construction debris. Bridge works are
+anticipated within Redside dace regulated habitat
+at Fourteen Mile Creek, Little Rouge Creek,
+Robinson Creek, Brice Creek, and Rouge River.
+
+Five production facilities
+Same as Scenario 2a.
+would be required. Each
+production facility would have
+an area of approximately
+2,168 m2, and would provide
+storage for 3 days’ of fuel.
+Total footprint for production,
+storage, dispensing, and
+refuelling facilities would be
+approximately 10,841 m2.
+Hydrogen production facilities
+would require 32 percent of the
+area needed for electrification
+facilities.
+Impact to Vegetation and
+Habitat
+Tree and vegetation removal
+have the potential to occur
+during facility construction.
+Construction activities may
+introduce invasive species.
+Damage to trees not
+designated for removal may
+occur during construction.
+Disturbance to migratory bird
+nests may occur during
+vegetation clearing. Temporary
+displacement of wildlife or
+disturbance to SAR may occur
+during construction.
+Disturbance to Watercourses
+No effects to watercourses are
+anticipated from new facility
+footprints.
+
+Facility Footprint
+Contaminated soils, groundwater, or both may be
+identified during ground disturbance for
+infrastructure installation and facility construction.
+Phase I and II ESAs would need to be completed
+during subsequent planning and design phases to
+characterize potential impacts. Total facility
+footprint is 31,104 m2.
+
+Facility Footprint
+Contaminated soils,
+groundwater, or both may be
+identified during ground
+disturbance for infrastructure
+installation and facility
+construction. Phase I and II
+ESAs would need to be
+completed during subsequent
+planning and design phases to
+characterize potential impacts.
+Total facility footprint is 10,841
+m2.
+Diesel Trains
+Potential effects from diesel
+spills at refuelling facilities or
+from accidents. Assume 32
+diesel trains will operate.
+Hydrogen Spills
+Hydrogen spills are
+anticipated to have minimal
+
+Same as Scenario 2a, with
+the following exception.
+Additional footprint effects
+would result from
+construction of 367 km of 4inch OD steel pipeline.
+Effects could be mitigated
+by constructing the pipeline
+in the existing utility corridor
+or transportation ROW,
+where feasible.
+
+Same as Scenario 2a, with the Same as Scenario 3a.
+following exceptions.
+Each production facility would
+have an area of approximately
+2,163 m2, and would provide
+storage for 3 days’ of fuel. Total
+footprint for production,
+storage, dispensing, and
+refuelling facilities would be
+approximately 15,144 m2.
+Hydrogen production facilities
+would require 49 percent of
+the area needed for
+electrification facilities.
+
+Reasoning and Rationale
+
+Same as Scenario 3a,
+with the following
+exception. Additional
+footprint effects would
+result from
+construction of 488 km
+of 4-inch OD steel
+pipeline. Effects could
+be mitigated by
+constructing the
+pipeline in the existing
+utility corridor or
+transportation ROW,
+where feasible.
+
+From a natural
+environment perspective,
+Scenarios 2a and 2b are
+preferred, as they result in
+the smallest potential
+footprint disturbance to
+vegetation and wildlife
+habitat, and will not require
+modifications to existing
+water crossings.
+Scenarios 3a and 3b are
+slightly less preferred, as
+the footprint of the
+required hydrogen
+production facility is
+slightly larger than that
+required for hybrid dieselhydrogen scenarios.
+Pipeline options 2c and 3c
+may result in additional
+vegetation removals and
+watercourse crossings,
+making these scenarios less
+desirable than the other
+Hydrail scenarios.
+Electrification is least
+preferred for this criterion,
+as it requires significant
+ROW clearing, footprint
+impacts associated with new
+facilities, and construction of
+new infrastructure in
+proximity to watercourses,
+including Redside dace
+habitat.
+
+Same as Scenario 3b.
+
+From a contaminated soils
+perspective, Scenarios 3b
+and 3c are preferred, as
+they eliminate the operation
+of diesel trains and the
+requirement to transport
+hydrogen using diesel
+trucks.
+Scenario 2a is least
+preferred, as a portion of
+the transit fleet remains
+diesel, and the central
+hydrogen production facility
+introduces a requirement for
+78 truck trips per day to
+transport hydrogen to the
+dispensing and fuelling
+facilities.
+
+Preference
+Contaminated
+Soils and
+Groundwater
+
+
+
+
+
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+Facility
+footprint
+Number of
+diesel trains as
+part of the fleet
+mix
+Number of
+diesel truck km
+required for
+hydrogen
+transportation
+
+Diesel Trains
+Potential effects from diesel spills at refuelling
+facilities or from accidents. Assume 32 diesel
+locomotives will operate.
+
+Same as Scenario 2a, with Same as Scenario 2b.
+the exception of
+hydrogen fuel truck
+traffic. No trucks will be
+required to transport
+hydrogen between the
+production and
+dispensing and refuelling
+facility.
+
+183
+
+Facility Footprint
+Contaminated soils,
+groundwater, or both may be
+identified during ground
+disturbance for infrastructure
+installation and facility
+construction. Phase I and II ESAs
+would need to be completed
+during subsequent planning
+and design phases to
+characterize potential impacts.
+Total facility footprint is 15,144
+m2.
+Diesel Trains
+No diesel trains will operate.
+Hydrogen Spills
+Hydrogen spills are anticipated
+to have minimal effect: CGH2
+plumes will disperse to the
+atmosphere when it is released,
+
+Same as Scenario 2a,
+with the exception of
+hydrogen fuel truck
+traffic. No trucks will be
+required to transport
+hydrogen between the
+production and
+dispensing and
+refuelling locations.
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-42 HYDRAIL PRELIMINARY ENVIRONMENTAL REVIEW
+
+Factor Area
+
+Metric
+
+Scenario 1
+
+Scenario 2a
+
+Scenario 2b
+
+Scenario 2c
+
+Scenario 3a
+
+Scenario 3b
+
+Scenario 3c
+
+Diesel - Electric
+
+Diesel - Hydrogen (Central
+Production - Trucked)
+
+Diesel - Hydrogen
+(Localized Production)
+
+Diesel – Hydrogen
+(Pipeline)
+
+Hydrogen Only (Central
+Production - Trucked)
+
+Hydrogen Only
+(Localized
+Production)
+
+Hydrogen Only
+(Pipeline)
+
+Reasoning and Rationale
+
+and LH2 will evaporate quickly
+when spilled.
+Hydrogen Transportation
+Potential for spills from trucks
+used to transport hydrogen fuel
+from production and storage
+facilities to dispensing and
+refuelling facilities. Use of
+compressed hydrogen as a fuel
+will require approximately twice
+the number of trucks to
+transport hydrogen fuel as
+liquid hydrogen. Assume 110
+trucks will transport hydrogen
+to dispensing and refuelling
+locations.
+
+effect: CGH2 plumes will
+disperse to the atmosphere
+when it is released, and LH2
+will evaporate quickly when
+spilled.
+Hydrogen Transportation
+Potential for spills from trucks
+used to transport hydrogen fuel
+from production and storage
+facilities to dispensing and
+refuelling facilities. Use of
+compressed hydrogen as a fuel
+will require approximately twice
+the number of trucks to
+transport hydrogen fuel as
+liquid hydrogen. Assume 78
+trucks will transport hydrogen to
+dispensing and refuelling
+locations.
+Preference
+Built Heritage
+
+
+
+Number of
+heritage
+properties
+requiring
+modification
+
+There is no removal or demolition of any
+identified heritage properties anticipated as part
+of the Electrification TPAP project. Twelve
+properties were identified as potentially
+impacted by electrification, such as alternation
+(e.g., displacement of heritage attributes,
+disruption of setting, or both).
+
+It is assumed that cultural
+Same as Scenario 2a.
+heritage properties will not be
+affected by construction of
+hydrogen production facilities
+or modifications at existing rail
+facilities.
+
+Same as Scenario 2a.
+
+Same as Scenario 2a.
+
+Same as Scenario 2a.
+
+Same as Scenario 2a. From a built heritage
+perspective, all Hydrail
+scenarios avoid the
+requirement to modify
+heritage properties, so are
+preferred.
+Scenario 1 is least
+preferred, as electrification
+requires modification of up
+to 12 heritages properties.
+
+
+
+Footprint
+within areas of
+archaeological
+potential
+
+There are 12 locations with undetermined or
+potential archaeological effects. As recommended
+in the Stage 1 Archaeological Assessment, Stage 2
+Archaeological Assessments will be completed as
+part of the TPAP where possible and where PTE
+access has been granted. Based on the results of
+the Stage 2 Archaeological Assessments, further
+Stage 3 Archaeological Assessment, Stage 4
+mitigation, or both will be conducted, as required,
+on any newly discovered Indigenous or EuroCanadian site determined to have CHVI that will be
+impacted by construction associated with the OCS
+along the rail corridors, tap locations, traction
+power facility sites, or some combination of these.
+
+Facility locations are flexible;
+locations can be selected to
+reduce potential
+archaeological effects. Stage
+1-4 Archaeological
+Assessments will be
+completed as part of the
+detailed design process for
+any new facilities.
+
+Facility location must be
+near the rail facility. Stage
+1-4 Archaeological
+Assessments will be
+completed as part of the
+detailed design process
+for any new facilities.
+
+Facility locations are
+flexible; locations can be
+selected to reduce potential
+archaeological effects.
+Stage 1-4 Archaeological
+Assessments will be
+completed as part of the
+detailed design process for
+any new facilities.
+
+Facility locations are flexible;
+locations can be selected to
+reduce potential archaeological
+effects. Stage 1-4
+Archaeological Assessments
+will be completed as part of the
+detailed design process for any
+new facilities.
+
+Facility location must be
+near the rail facility.
+Stage 1-4
+Archaeological
+Assessments will be
+completed as part of the
+detailed design process
+for any new facilities.
+
+Facility locations are
+flexible; locations can
+be selected to reduce
+potential
+archaeological effects.
+Stage 1-4
+Archaeological
+Assessments will be
+completed as part of
+the detailed design
+process for any new
+facilities.
+
+From an archaeological
+perspective, Hydrail
+scenarios not involving
+pipeline construction (2a,
+2b, 3a, 3b) are preferred, as
+they result in the least
+subsurface disturbance;
+therefore, they minimize
+potential impacts to
+archaeological resources.
+Scenarios 2c and 3c are less
+preferred, as pipeline
+construction increases
+potential to encounter
+archaeological resources.
+Electrification is least
+preferred, as this scenario
+requires the most
+subsurface construction.
+
+The TPAP assessment concluded there are no net
+adverse land use effects anticipated during
+operation.
+
+Potential for incompatible land
+uses that could be mitigated
+through appropriate facility
+siting within industrialdesignated land.
+
+Potential for incompatible
+land uses that could be
+mitigated through
+appropriate facility siting
+within industrialdesignated land.
+
+Potential for incompatible
+land uses that could be
+mitigated through
+appropriate facility siting
+within industrial-designated
+land.
+
+Potential for incompatible land
+uses that could be mitigated
+through appropriate facility
+siting within industrialdesignated land.
+
+Potential for
+incompatible land uses
+that could be mitigated
+through appropriate
+facility siting within
+industrial-designated
+land.
+
+Potential for
+incompatible land
+uses that could be
+mitigated through
+appropriate facility
+siting within
+industrial-designated
+land.
+
+Impacts to land use are not
+anticipated under any
+scenario. It has been
+assumed that hydrogen
+production facilities can
+be located in areas
+designated for industrial
+use.
+
+CO2 Emissions
+Hydrail will result in a
+reduction of diesel emissions
+
+Same as Scenario 3a,
+Same as Scenario 3b.
+except for hydrogen fuel
+truck traffic. No trucks
+
+Preference
+
+Archaeology
+
+Preference
+
+Land Use and
+Social Features
+(including parks
+and open spaces)
+
+Preference
+Air Quality and
+Emissions
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+
+
+Estimated
+emissions
+based on
+
+Same as Scenario 2a,
+CO2 Emissions
+Same as Scenario 2b.
+CO2 Emissions
+Electrification will result in a significant reduction Hydrail will result in a reduction except for hydrogen fuel
+truck traffic. No trucks will
+of diesel emissions and local
+of diesel emissions, which has both local and
+184
+
+From an emissions
+perspective, the full Hydrail
+scenarios (3a, 3b, and 3c)
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-42 HYDRAIL PRELIMINARY ENVIRONMENTAL REVIEW
+
+Factor Area
+
+Metric
+
+Scenario 1
+
+Scenario 2a
+
+Scenario 2b
+
+Scenario 2c
+
+Scenario 3a
+
+Scenario 3b
+
+Scenario 3c
+
+Diesel - Electric
+
+Diesel - Hydrogen (Central
+Production - Trucked)
+
+Diesel - Hydrogen
+(Localized Production)
+
+Diesel – Hydrogen
+(Pipeline)
+
+Hydrogen Only (Central
+Production - Trucked)
+
+Hydrogen Only
+(Localized
+Production)
+
+Hydrogen Only
+(Pipeline)
+
+proportion of
+required
+electricity
+generated from
+fossil fuels
+km/d for
+hydrogen fuel
+transport trucks
+
+regional impacts, but also requires increased
+electricity generation, some of which may come
+from power plants operating on fossil fuel; thus,
+adding back some regional impacts. Electricity
+would be obtained from the Hydro One
+electrical grid. Electricity is required on-demand,
+often at peak HOEP times when fossil fuel
+sources are in use.
+Diesel trains will produce diesel exhaust
+emissions.
+
+levels of air pollutants, but will
+require increased electricity
+generation, some of which may
+come from power plants
+operating on fossil fuel.
+While hydrogen production will
+require 3 times more electricity
+than track electrification, as
+Hydrail’s use of electricity is
+predominantly at times of low
+grid demand, so fewer CO2generating sources are
+required to produce electricity.
+Using the hourly generation mix
+of the actual 2016 data, it was
+calculated that Hydrail would
+use less electricity from fossil
+fuel sources, and cause less CO2
+emissions than electrification.
+km/d for Hydrogen Fuel Trucks
+Hydrogen fuel transport truck
+traffic will produce emissions. A
+maximum of 78 trucks per day
+will be required to supply fuel.
+The maximum anticipated
+round-trip distance would be
+approximately 150 km, for a
+total maximum of 11,700 km/d.
+
+be required to transport
+hydrogen between the
+production and
+dispensing and refuelling
+facilities.
+
+
+
+Diesel train
+operation
+
+Operational noise levels could be mitigated
+through noise abatement measures. Further
+noise analysis would be needed to determine
+appropriate noise abatement measures, if
+required.
+
+Same as Scenario 1.
+
+Same as Scenario 1.
+
+
+
+Presence of
+new
+aboveground
+infrastructure
+
+All rail corridors had moderate visual impact,
+and four corridors had high visual impacts
+(residential areas where homes are within 8 m of
+the railroad ROW) associated with the
+electrification infrastructure.
+
+Visual impacts would be
+limited to construction of new
+hydrogen production facilities.
+Flexibility to site the facility in
+a visually unobtrusive location.
+
+Visual impacts would be Same as Scenario 2a.
+limited to construction
+of new hydrogen
+production facilities.
+
+Reasoning and Rationale
+
+are preferred, as they
+eliminate diesel trains from
+the RER fleet mix.
+Hydrail Scenarios 2b and
+2c, and electrification
+(Scenario 1) are less
+preferred and are assumed
+to contribute comparable
+emissions. While Hydrail
+requires 3 times more
+electricity than
+electrification, hydrogen
+production can be carried
+out at periods of low grid
+demand, reducing reliance
+on fossil fuel sources.
+Hydrail Scenario 2a is least
+preferred, as diesel trains
+remain part of the fleet mix,
+and the central hydrogen
+production facility
+introduces the requirement
+for 78 additional truck trips
+per day.
+
+and local levels of air
+pollutants, but will require
+increased electricity
+generation, some of which
+may come from power plants
+operating on fossil fuel.
+While hydrogen production will
+require more electricity than
+track electrification, as Hydrail's
+use of electricity is
+predominantly at times of low
+grid demand, fewer CO2generating sources are
+required to produce electricity.
+Using the hourly generation mix
+of the actual 2016 data, it was
+calculated that Hydrail would
+use less electricity from fossil
+fuel sources, and cause less CO2
+emissions than electrification.
+km/d for Hydrogen Fuel Trucks
+Hydrogen fuel transport truck
+traffic will produce emissions. A
+maximum of 110 trucks per day
+will be required to supply fuel.
+The maximum anticipated
+round-trip distance would be
+approximately 150 km, for a
+total maximum
+of 16,500 km/d.
+
+will be required to
+transport hydrogen
+between the production
+and dispensing and
+refuelling facilities.
+
+Reduced noise due to full
+Hydrail vehicle fleet.
+
+Same as Scenario 3a.
+
+Same as Scenario 3a. From a noise and vibration
+perspective, the full
+Hydrail scenarios (3a, 3b,
+and 3c) are preferred, as
+they eliminate diesel trains
+from the fleet mix.
+Assuming the proportion of
+diesel trains is consistent
+between Scenarios 1, 2a,
+2b, and 2c, these scenarios
+are less preferred.
+
+Same as Scenario 2a.
+
+Same as Scenario 2b.
+
+Same as Scenario 2a. From a visual perspective,
+Hydrail scenarios featuring a
+central production facility,
+pipeline, or both (2a, 2c, 3a,
+3c) are preferred, as they do
+not require overhead
+infrastructure; and there is
+flexibility to site production
+facilities in visually
+unobtrusive locations
+(industrial areas).
+Scenarios 2b and 2c are less
+preferred, as it is assumed
+that localized production
+facilities may be located in
+highly visible and residential
+areas.
+Electrification is least
+preferred due to the
+requirement for extensive
+overhead infrastructure.
+
+Preference
+Noise and
+Vibration
+
+Same as Scenario 1.
+
+Preference
+
+Visual
+
+Preference
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+185
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-42 HYDRAIL PRELIMINARY ENVIRONMENTAL REVIEW
+
+Factor Area
+Utilities
+
+Metric
+
+Scenario 1
+
+Scenario 2a
+
+Scenario 2b
+
+Scenario 2c
+
+Scenario 3a
+
+Scenario 3b
+
+Scenario 3c
+
+Diesel - Electric
+
+Diesel - Hydrogen (Central
+Production - Trucked)
+
+Diesel - Hydrogen
+(Localized Production)
+
+Diesel – Hydrogen
+(Pipeline)
+
+Hydrogen Only (Central
+Production - Trucked)
+
+Hydrogen Only
+(Localized
+Production)
+
+Hydrogen Only
+(Pipeline)
+
+
+
+Extent of utility Based on the utilities assessment work completed
+as part of the TPAP, in total, 45 third-party utility
+conflicts
+owners have utilities that are determined to be
+potential conflicts with the proposed
+electrification infrastructure. There were 1,047
+potential conflicts identified: 381 potentially
+conflicted overhead crossings, 55 potentially
+conflicted overhead utilities parallel to the rail
+corridor, 67 potentially conflicted utilities attached
+to bridges, 248 buried potentially conflicted
+crossings, 179 potentially conflicted buried utilities
+parallel to the corridor, and 117 potential
+conflicted stand-alone utilities, such as cellular
+towers and sewer appurtenances. There are also
+77 potential conflicts of unknown ownership.
+Electrification will have an effect on the O&M
+activities of VIA Rail, CN, and CP.
+
+
+
+Presence of
+EMI and EMF
+
+Due to the reduction in
+Same as Scenario 2a.
+required new infrastructure, it
+is anticipated that Hydrail
+scenarios will significantly
+reduce potential utility
+conflicts. Some conflicts may
+still exist associated with
+construction of new hydrogen
+production facilities. Further
+design development is
+required to determine nature
+and extent of utility conflicts.
+
+Same as Scenario 2a, with
+the following exception.
+Some temporary effects on
+underground utilities are
+expected during pipeline
+construction.
+
+Same as Scenario 2a.
+
+Same as Scenario 2a.
+
+Same as Scenario 2c.
+
+Preference
+
+Electromagnetic
+Fields and EMI
+
+Reasoning and Rationale
+
+From a visual perspective,
+Hydrail scenarios featuring
+a central production facility,
+pipeline, or both (2a, 2c, 3a,
+3c) are preferred, as they
+do not require overhead
+infrastructure, and there is
+flexibility to site production
+facilities in visually
+unobtrusive locations
+(industrial areas).
+Scenarios 2b and 2c are
+less preferred, as it is
+assumed that localized
+production facilities may
+be located in highly visible
+and residential areas.
+Electrification is least
+preferred due to the
+requirement for extensive
+overhead infrastructure.
+
+Generally, the EMI and EMF Impact Assessment No effects from EMF or EMI
+study concluded:
+are anticipated.
+No adverse EMI or EMF effects are anticipated due
+to operation of the electric rolling stock
+No adverse EMI or EMF effects are anticipated
+due to installation and operation of the traction
+power facilities
+No adverse EMI and EMF effects are anticipated
+due to installation and operation of tap
+infrastructure
+
+Same as Scenario 2a.
+
+Same as Scenario 2a.
+
+Same as Scenario 2a.
+
+Same as Scenario 2a.
+
+Same as Scenario 2a. According to the
+Electrification TPAP, EMF
+impacts are not
+anticipated. No impacts
+are anticipated under any
+Hydrail scenario.
+
+Stormwater management infrastructure may be
+affected by placement of electrical infrastructure.
+Electrical infrastructure has limited flexibility in
+placement. Stormwater management will be
+required at all new facilities.
+
+Same as Scenario 2a.
+
+Same as Scenario 2a.
+
+Same as Scenario 2a.
+
+Same as Scenario 2a.
+
+Same as Scenario 2a. As existing stormwater
+infrastructure would not
+need to be modified or
+expanded to accommodate
+Hydrail, all scenarios are
+equally preferred.
+Electrification is less
+preferred, as it requires
+modifications to the existing
+stormwater management
+system.
+
+Preference
+Stormwater
+Management
+
+No effects to stormwater
+management along the rail
+corridors is anticipated.
+Stormwater management will
+be required at all new
+facilities.
+
+Preference
+
+Overall
+Assessment
+
+In general, key differentiators from an environmental perspective include footprint impacts (both facility and ROW), impacts to built heritage structures, emissions, and visual and aesthetic impacts. The full Hydrail scenarios (3a,
+3b, and 3c) are generally preferred, as these scenarios eliminate the need for extensive ROW clearing, avoid impacts to heritage bridges, remove diesel trains from the fleet, present the ability to draw power from the grid
+during periods of low demand (reducing reliance on fossil fuel generation), and eliminate the need for extensive aboveground infrastructure with the potential to negatively impact visual aesthetics in and adjacent to the
+corridor. Within these alternatives, there are trade-offs to consider that will depend on the ability to mitigate impacts through design. For example, if the pipeline option could be designed to avoid impacts to vegetation,
+archaeological resources, and utilities, the residual environmental impacts would be minimal.
+As electrification requires significant physical construction of above- and belowground infrastructure, impacts are anticipated to vegetation and wildlife habitat, cultural heritage and archaeology, utilities, and visual aesthetics.
+While a significant improvement over existing conditions, the ongoing operation of diesel trains under electrification will result in increased emissions when compared to the full Hydrail scenarios. And while electrification
+requires less total electricity, there is less flexibility in the timing of grid production, resulting in an increased reliance on fossil fuels.
+
+Preference
+Notes:
+CHVI = Cultural Heritage Value or Interest
+EMI = electromagnetic interference
+ESA = environmental site assessment
+HOEP = Hourly Ontario Energy Price
+km = kilometre
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+km/d = kilometre per day
+m = metre
+OCS = overhead catenary system
+SAR = species at risk
+
+186
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.5.3.2 Evaluation Limitations
+Limited information is available with respect to Hydrail at this early stage of assessment. To fully
+account for the anticipated or potential environmental effects of Hydrail, infrastructure design and
+impact assessment is required at a similar level of detail as has been completed for electrification. For
+these reasons, this should be considered a preliminary high-level review to be used as a guide for
+future assessment.
+
+4.5.3.3 Additional Considerations
+While the 11 environmental factors assessed in the TPAP EPR were considered in the Hydrail
+comparison, additional factors could be considered during a more detailed assessment. Human
+health considerations were not assessed due to a lack of available information, but should be
+addressed. Climate change and the operational constraints of extreme weather should also be
+considered when comparing electrification and Hydrail. Both weather extremes, high electricity
+demand during extreme heat, and operations under extreme cold weather should be assessed.
+Electricity sources were assumed to be from the current power supply sources, but future electricity
+supply may be from more renewable sources. A comprehensive assessment of GHG emissions is
+recommended to allow for a comparison of electrification and Hydrail151.
+The amount of material to construct electrification and Hydrail infrastructure and the energy to
+produce, transport, and dispose of that material could be evaluated in a comprehensive assessment
+associated with the electrification and Hydrail scenarios. Large amounts of galvanized steel will be
+required for construction of the electrification infrastructure, while different production impacts are
+associated with lithium ion batteries. Waste management and recycling for all construction materials,
+including lithium ion batteries, would also need to be considered. A review of plans for recycling
+programs for automotive and other large-scale lithium ion batteries, and the capacity to support the
+high numbers of spent batteries, should be completed.
+
+151 Meegahawatte, Danushka, Stuart Hillmansen, Clive Roberts, Marco Falco, Andrew McGordon, and Paul Jennings. 2010. Analysis of a
+fuel cell hybrid commuter railway vehicle. Birmingham: Birmingham Centre for Rail Research and Education, University of Birmingham; and
+Coventry: Warwick Manufacturing Group, International Manufacturing Centre, University of Warwick. February 1.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+187
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.6
+
+Legal, Policy, and Regulatory Framework
+
+This section provides:
+
+
+an overview of the existing legal, policy, and regulatory framework, and the standards, codes, and
+zoning considerations relevant to the use of hydrogen on passenger trains, as well as the
+generation, storage, and transportation of hydrogen
+
+
+
+an understanding of where existing regulations may need to change to enable the deployment of
+Hydrail and
+
+
+
+where gaps in existing regulations are identified and recommendations are made to resolve them.
+
+4.6.1
+
+Laws and Regulations Governing Metrolinx
+
+The Ontario Metrolinx Act (2006) governs the structure of Metrolinx’s business. This act touches on
+accountability and the applicability of the Canada Transportation Act. The act applies directly to public
+and private railway systems. There is specific federal legislation covering railways that apply to
+Metrolinx operations.
+There are basic legal requirements under building, electrical, and fire codes on building infrastructure
+that apply to Hydrail.
+At the legislative level, there is nothing obvious that applies specifically to the use of hydrogen as fuel.
+The references start to appear at the regulation level.
+Note that there are federal regulations specifically on safety of railways, including:
+
+
+Railway Safety Act
+
+
+
+SOR-2017-121 Locomotive Emissions Regulations
+
+
+
+SOR-2015-26 Railway Safety Management Regulations
+
+
+
+SOR-2014-258 Railway Operating Certificate Regulations
+
+
+
+SOR-87-150 Railway Employee Qualification Standards Regulations
+
+Under the Railway Safety Act (RSA), Metrolinx is responsible for:
+
+
+The safety of their rail line infrastructure, railway equipment and operations.
+
+
+
+Ongoing inspection, testing, and maintenance programs that meet regulatory requirements,
+
+
+
+Any specific operating and environmental conditions.
+
+Under the Railway Safety Act (RSA), Transport Canada is responsible for:
+
+
+Promoting railway safety through education and awareness;
+
+
+
+Overseeing the safety of federally-regulated railways;
+
+
+
+Developing regulations, rules and engineering standards;
+
+
+
+Monitoring industry compliance with rules, regulations and standards through audits and
+inspections; and
+
+
+
+Taking enforcement action, as required.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+188
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Before they could operate their current fleet, Metrolinx had to meet, amongst other requirements, the
+Railway Operating Certificate Regulations (SOR/2014-258). To obtain this certificate, the operator
+needs to have a safety management system that meets the requirements of the Railway Safety
+Management System Regulations (SOR/2015-26). Under the Railway Safety Act, a railway operator
+needs to submit a new Risk Assessment before the introduction of a new technology.
+
+4.6.2
+
+Existing Laws, Regulations, Standards, and Codes –
+Hydrogen Facilities and Transportation
+
+Hydrogen facility legal requirements, codes, and standards include:
+1. CAN/BNQ 1784-000, Canadian Hydrogen Installation Code (2007, currently in review). This code
+(commonly referred to as CHIC) is enforced in Ontario (through the Technical Standards and
+Safety Authority [TSSA], Fuels division) and is intended to apply to most hydrogen equipment and
+systems used for generation, dispensing, storage, and piping. The relevant exceptions are:
+
+
+Industrial use (process feedstock) or production as by-product
+
+
+
+Industrial production of more than 21 kilograms per hour (kg/h)
+
+
+
+Liquid hydrogen production
+
+
+
+Transportation of hydrogen, including pipelines
+
+
+
+Hydrogen onboard vehicles (it is not clear, but inferred, that this includes trains)
+
+For the full-scale deployment of Hydrail, this standard would not apply to the hydrogen
+production plant, since the scale (2,000 kg/h) is much higher than the CHIC limit. However, CHIC
+would likely apply to a pilot Hydrail project and to various parts of the full-scale project (in fuelling
+depots). The CHIC remains as a preferred guide for any hydrogen installation in Canada, since it
+has been developed by those experienced in all parts of the hydrogen industry.
+2. CSA-B51 Part 1, General Requirements for Boilers, Pressure Vessels and Pressure Piping. This
+standard applies to most systems where hydrogen is used or stored at gauge pressure greater
+than 101 kiloPascals (kPa). However, it does not apply to cylinders for transportation of hydrogen
+regulated by Transport Canada, onboard automotive vehicle hydrogen fuel storage, or refuelling
+station pressure piping and ground storage systems.
+3. CSA-B51 Part 3, Compressed Natural Gas and Hydrogen Refuelling Station Pressure Piping
+Systems and Ground Storage Vessels. This standard covers pressure piping systems with design
+pressures greater than 414 kPa (gauge) used in hydrogen refuelling stations and local hydrogen
+storage vessels for refuelling stations. This was not intended to apply to trains, though trains are
+not specifically excluded and should be relevant, though the size of train systems would be
+expected to be much larger than for automobiles or buses.
+4. CSA-C22.1, Canadian Electric Code, Part 1. This safety standard provides requirements for
+installation of electrical equipment. It does not apply to systems that supply motive power to trains
+or are used for railway communications. Of particular note is Section 18 that deals with hazardous
+locations where electrical equipment and hydrogen may be present at quantities greater than its
+lower flammability limit. A prescribed method for determination of the area classification is not
+included in the Canadian Electrical Code, but informative recommendations are provided in
+Appendix L. The prescriptive standard from the International Electrotechnical Commission (IEC),
+IEC-60079-10-1, Explosive Atmospheres - Part 10-1: Classification of Areas - Explosive Gas
+Atmospheres, is the main reference used for area classification.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+189
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+5. ISO 22734-1, Hydrogen generators using water electrolysis process - Part 1: Industrial and
+commercial applications. This international standard applies to caustic and solid polymer
+electrolyte types, regardless of size. It provides a standard for certification of electrolysis systems
+for safety and performance.
+6. ISO/TS 19880-1, Gaseous hydrogen — Fueling stations — Part 1: General requirements. This is the
+first of a series of international standards (there are parts 1 to 8) specifying requirements and
+recommendations for hydrogen fuelling stations for light-duty land vehicles. It particularly notes
+that it is suitable guidance for fuelling stations for larger vehicles (buses and trams, though trains
+are not noted). The other parts of 19880 cover specialized equipment required in a fuel dispenser
+(for example, nozzles). Some discussion of SAE International (SAE) J2601, Fueling Protocols for
+Light Duty Gaseous Hydrogen Surface Vehicles, requirements is also presented.
+7. ANSI/CSA HGV 4.1, Standard for hydrogen dispensing systems. This North American standard
+applies directly to general requirements for integrated automobile hydrogen dispensers. Others
+in this series (HGV 4.1-4.8 and 4.10) cover parts of the dispenser system and operation. HGV 4.9
+deals with design, installation, and O&M of hydrogen fuelling stations for automobiles. These are
+all suitable as some guidance for train hydrogen fuel dispensing systems.
+8. CGA G-5.5, Hydrogen Vent Systems: This North American standard is for the safe design of
+hydrogen vent systems (required to be pressure systems by CHIC).
+9. ISO 14687, Hydrogen fuel quality – Product specification. This international standard specifies the
+minimum quality characteristics of hydrogen fuel, including use in fuel cells.
+Containers and Transportation of Hydrogen (UN1049 – gas, UN1966 – liquid)
+Hydrogen container and transportation requirements, codes, and standards include:
+1. SOR 2017-137, Consolidated Transportation of Dangerous Goods Regulations. This act covers
+requirements for transportation of hydrogen by road and rail.
+2. TP 14877E, Containers for the Transportation of Dangerous Goods by Rail. This Canadian standard
+provides the minimum requirements regarding the design, manufacture, qualification, selection,
+and use, or testing, of containers for transportation by rail. It applies to compressed gas or liquid
+hydrogen.
+3. CSA B620-14, Highway tanks and TC transportable tanks for transportation of dangerous goods.
+This Canadian standard is used in conjunction with Canadian transportation of dangerous goods
+regulations to cover design, fabrication, use, and maintenance of containers transportable by
+road. It (along with CSA B621, Selection and use of highway tanks, TC portable tanks, and other
+large containers for the transportation of dangerous goods, Classes 3, 4, 5, 6.1, 8, and 9; and B622,
+Selection and use of highway tanks, TC portable tanks, and ton containers for the transportation of
+dangerous goods, Class 2) applies to compressed gas and liquid hydrogen in all types of
+acceptable tanks.
+4. CGA G-5, Hydrogen. This well-established North American standard covers hydrogen container
+design, and safe storage and handling of containers for compressed gas and liquid.
+5. CSA Z662-15, Oil and gas pipeline systems. This Canadian standard extensively covers pipelines
+for conveying natural gas, but does not address pipelines specifically for hydrogen.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+190
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Hydrogen-powered Locomotion
+Hydrogen-powered locomotion legal requirements, codes, and standards include:
+1. SAE J2578, Recommended Practice for General Fuel Cell Vehicle Safety. This document relates to
+the overall design, construction, and O&M of FCVs. It is intended for automobiles, but relevant for
+trains.
+2. CSA-B51 Part 2, High-pressure Cylinders for the Onboard Storage of Natural Gas and Hydrogen as
+Fuels for Automotive Vehicles. This standard covers only metal, metal-lined, and composite
+cylinders between 20 and 1000 litres (L) in capacity used for onboard automotive fuel storage. It
+does not appear to apply to trains.
+3. IEC 62282-2, Fuel cell technologies - Part 2: Fuel cell modules. This international standard covers
+all types of fuel cells of any size, but excludes fuel cells on vehicles. While not stated directly, it
+appears to also exclude fuel cells on trains. Part 3 of this standard is for stationary fuel cells, and
+Part 4 is for industrial trucks (that is, forklifts).
+North American standards have been developed for fuel-cell powered vehicles but are limited to
+light-duty vehicles, including automobiles, small trucks, and forklifts. These include:
+1. ANSI HGV 3.1, Fuel System Components for Compressed Hydrogen Powered Vehicles
+2. ANSI-CSA HPRD 1, Thermally Activated Pressure Relief Devices for Hydrogen Vehicle Fuel
+Containers
+3. CSA HPIT 1, Compressed Hydrogen Powered Industrial Trucks On-Board Fuel Storage and
+Hydrogen Components
+4. CSA HPIT 2, Dispensing Hydrogen Powered Industrial Trucks
+
+4.6.3
+
+Other Existing Laws, Regulations, Standards, and Codes
+Relevant to Hydrail
+
+There are many existing rail transportation regulations, codes, and standards to cover aspects other
+than the driving energy source. To supplement the regulations, codes, and standards presented in
+the previous section, there are some additional general codes and standards for hydrogen, including:
+1. NFPA-2, Hydrogen Technologies Code. This code applies to American hydrogen installations and
+has fewer exceptions than CHIC (particularly for industrial installations), but does exempt onboard
+vehicle systems. It is prescriptive, but with disclaimers allowing authority having jurisdiction (AHJ)
+discretion. It clearly applies to the fire safety of fixed, transportable, and mobile hydrogen systems.
+2. ISO-TR 15916, Basic Considerations for the Safety of Hydrogen Systems. This international
+standard provides a comprehensive review of principles for safe design and use of hydrogen in
+systems.
+3. NFPA-55, Compressed Gases and Cryogenics Fluids Code. This United States (U.S.) code is wellaccepted for guidance on the fire-safety aspects of design and use of compressed gas and liquid
+hydrogen systems and containers.
+Web-based resources for hydrogen safety are also available. The U.S. Department of Energy (DOE)
+hosts websites with information about OPEX and background safety resources, including:
+1. Hydrogen Tools, https://h2tools.org/: Developed by Pacific Northwest National Laboratory with
+funding from the DOE Office of Energy Efficiency and Renewable Energy's Fuel Cell Technologies
+Office, the goal of this website is to support implementation of the practices and procedures used
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+191
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+to safely handle and use hydrogen in a variety of fuel cell applications. It provides resources on
+codes, safety, best practices, and lessons learned.
+2. U.S. Department of Energy Hydrogen and Fuel Cells Program, https://www.hydrogen.energy.gov/:
+Hosted directly by the DOE Office of Energy Efficiency and Renewable Energy, this site has more
+general resources on hydrogen technologies.
+
+4.6.4
+
+How Existing Regulations Might Need to Change for Hydrail
+
+The Hydrail System can be logically divided up in two ways—either by step in the sequence of
+production to use, or by process type. For this discussion, the steps are:
+1. Hydrogen Production: This step is assumed to be a single, large-scale, industrial water electrolysis
+plant. The electrolysis equipment would be expected to comply with ISO-22734. The plant would
+not fall under CHIC, but would follow the normal industrial practice of meeting building codes,
+and process vessel and piping codes. As well, hydrogen system engineering expertise would be
+fully involved in the project. The design would be proven to be safe to the satisfaction of the AHJ,
+often with reference to first principles. No change to codes and standards appears to be needed
+in this step.
+2. Hydrogen Storage (Production Site): Existing codes and standards (B51 Part 1 and CGA G-5)
+adequately cover this.
+3. Hydrogen Distribution: Transport Canada regulations and codes adequately cover this, both for
+gas and liquid by road and rail. Pipeline distribution is regulated in Ontario by the Ontario Energy
+Board, with TSSA responsible for review and inspection according to CSA Group (CSA) codes and
+standards (Z662). This is expected to need revision to adequately cover hydrogen, though there
+are already approved and operating hydrogen pipelines in Canada (for example, Heartland in
+Alberta).
+4. Hydrogen Refill (local storage at refuelling site): The existing codes that address refuelling station
+storage systems are directed towards public-access automobile refuelling. The rail system
+refuelling will differ in several ways. It will be much larger, single-purpose, within a controlled area,
+and operated by trained staff. The existing standards (B51 Part 3, ISO/TS 19880) should be able to
+be modified for rail. However, B51 Part 1, CGA G-5, and NFPA-2 are also applicable and could be
+adequate for this purpose.
+5. Hydrogen Dispensing (Refuelling): Requirements for dispensing are not well-defined at this point.
+It is expected that the transfer rates will be high compared with those for existing systems based
+on automobiles. New equipment and codes (that is, the HGV 4 series) may be needed. For
+dispensing liquid hydrogen, existing industrial methods and equipment should be applicable.
+6. Hydrogen Vehicle (onboard use of hydrogen): The codes and standards noted in this section
+address all the types of systems required for Hydrail locomotives, but only for automobiles and
+forklifts. For trains, there is not only a significant change in the size and quantities involved, but the
+situation is different because the operation is controlled by trained staff, and the travel is restricted
+to dedicated areas. Incorporating allowance for trains into the standards for road vehicles may not
+be practical, and new standards may need to be developed. This step in the Hydrail sequence
+provides the most complex situation with the most diverse scenarios for safety analysis.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+192
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.6.5
+
+Need for Additional Laws, Regulations, Standards, and
+Codes specifically for Hydrail
+
+An overview of the existing regulations, codes, and standards relevant to the use of hydrogen on
+passenger trains, as well as the generation, storage, and transportation of hydrogen, has identified
+the following for each Hydrail system component:
+
+
+For hydrogen production, no change to codes and standards appears to be needed.
+
+
+
+For hydrogen storage, existing codes and standards are adequate.
+
+
+
+For hydrogen distribution, revision to the codes and standards for pipelines may be required.
+
+
+
+For hydrogen refill, the existing codes (B51 Part 3, ISO/TS 19880) that address refuelling stations
+for automobiles should be modified for rail applications, but the codes (B51 Part 1, CGA G-5, and
+NFPA-2) are also applicable and could be adequate for rail.
+
+
+
+For hydrogen dispensing, requirements are not well-defined, so new equipment and codes (for
+example, the HGV 4 series) may be needed. For dispensing liquid hydrogen, existing industrial
+protocols and equipment should be applicable.
+
+
+
+For hydrogen vehicles, incorporating allowance for trains into the standards for road vehicles may
+not be practical, and new standards may need to be developed.
+
+4.6.6
+
+Proposed Roadmap
+
+To create a comprehensive regulatory framework for Hydrail, the following steps are proposed:
+1. Engage a group of hydrogen and rail safety experts to work with Metrolinx.
+2. Review Metrolinx’s existing safety management system (for example, programs, procedures,
+protocols, training, work activities) to highlight any modification required for Hydrail.
+3. Review Transport Canada regulations and standards, CSA codes and standards, U.S. standards,
+and ISO standards. Prioritize these codes and standards in terms of applicability to Hydrail.
+4. Engage ISO TC197 and CSA working groups to develop new or modify existing codes and
+standards specifically for Hydrail.
+5. Seek public input and feedback.
+6. Preparation and submission of Safety Case for approval by Transport Canada.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+193
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.7
+
+Socio-economic Impacts
+
+This section provides an assessment of the socio-economic impacts of Hydrail deployment in Ontario, in
+accordance with plans for RER as outlined in the IBC. A quantitative assessment of Hydrail relative to

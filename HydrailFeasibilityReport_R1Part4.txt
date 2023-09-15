@@ -1,0 +1,2659 @@
+Yes
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+Lewis Road
+
+8
+
+8
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+No
+
+Yes
+
+Milton
+
+6
+
+10
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+No
+
+No
+
+Milton Station
+
+2
+
+2
+
+Yes
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+Richmond Hill
+
+Bethesda
+
+8
+
+8
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+No
+
+Yes
+
+Stouffville
+
+Lincolnville Station
+
+7
+
+7
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+Name
+
+Barrie
+
+Kitchener
+
+Lakeshore East
+
+Lakeshore West
+
+Milton
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+106
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Fuelling
+Diesel locomotives presently operating on the network are fuelled every day at one of the three
+permanent exterior fuelling facilities in Barrie, Mimico, and Lincolnville. In the case of Mimico, all trains
+coming through the site are first directed to stop at the fuelling station regardless of the tank fuel
+level.
+The diesel locomotives operating on the GO network have a fuel tank that can carry up to
+2,200 United States gallons (USG), or approximatively 8,330 L of fuel. Based on a witnessed fill rate at
+the Mimico fuel station of 375 L/min, it would take less than 23 minutes to fill an empty tank. Assuming
+that this operational process is appropriate to apply to the Hydrail System, we consider that a target
+fuelling time for a new Hydrail locomotive should be between 20 and 25 minutes.
+Detailed assessment of modifications required to the existing maintenance facilities and additional
+review of the maintenance plan will be needed to properly evaluate the impact on Hydrail’s O&M
+cycle. The revised maintenance approach can also provide opportunities to further optimize the new
+hydrogen dispensing system. For example, fuelling stations can be designed to fill from both sides of
+the locomotives at the same time, or maintenance activities like sand refilling, water and waste
+management, and daily service cleaning could also be done in parallel to either maintain or reduce
+the existing maintenance cycle time.
+The existing direct truck to locomotive access points available at most stations on the network could
+continue to be used for the Hydrail System primarily for emergency situations.
+
+4.2.2
+
+Hydrail System Operation Modelling
+
+This study is a preliminary assessment and is subject to some uncertainties in moving the RER network
+from diesel to electric propulsion, either using track electrification or Hydrail. There are several
+scenarios for how the RER network will be deployed. This study focusses on RER Scenario 5 and the
+assumptions of Metrolinx’s published IBC for electrification. It is decidedly a preliminary assessment
+that deals only with major cost items.
+One source of uncertainty comes from the make-up of the train consists. With the agreement of
+Metrolinx, for locomotive-pulled consists, the Hydrail configuration uses a 2-locomotive, 12-coach
+configuration. This was primarily chosen to provide sufficient space for on-board hydrogen storage
+for a full-day’s operation without refuelling96. Moreover, this configuration also offers operational
+flexibility of deploying half-sized trains for off-peak service97.
+RER Scenario 5 also includes self-propelled double-deck EMUs, and the cost comparison for this
+situation is less straightforward, since fuel storage and fuel cells would replace electrificationassociated power equipment. Fuel cells are notably compact, but hydrogen fuel storage is bulky. As
+for most other gas-fuelled passenger-transport vehicles, single-deck EMUs can use the space above
+the carriage roofs for fuel storage, but the limitation of overhead clearance constrains this option with
+double-deck EMUs. So, the precise effect of fitting Hydrail into double-deck EMUs has still to be
+determined and could reduce passenger-carrying capacity. This introduces some uncertainty into the
+cost comparison.
+
+96 A single locomotive design that has sufficient space for the required hydrogen storage remains a possibility, but identifying such a
+design is a subject for subsequent study.
+97 Hoffrichter, Andreas, Stuart Hillmansen, and Clive Roberts. 2015. Conceptual propulsion system design for a hydrogen-powered regional
+train. Accepted on April 11, 2015. Edgbaston, Birmingham: Birmingham Centre for Railway Research and Education, University of
+Birmingham.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+107
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+With the Hydrail System, the unprecedented scale of fuel-cell power that would be deployed on
+individual trains brings some cost uncertainty, even for this modular technology. However, that
+uncertainty has to be seen in the context of steadily declining costs for the key equipment
+components, a trend expected to continue.
+Operating cost estimates are also subject to uncertainty, since they depend on forecasting electricity
+prices over the medium and long terms. Unlike track electrification’s electricity costs, which have no
+scope for optimization, the Hydrail System can respond to an electricity price structure that is different
+from today’s because of its intrinsic ability to switch its demand for electrical energy, to take
+advantage of the lowest prices of electricity each day.
+
+4.2.2.1
+
+Electricity Supply and Costs
+
+At the centre of the case for Hydrail and its costs is the supply and price of electricity, either from the
+Ontario electricity grid or from electrical generating stations without the market price structure.
+Ontario Electrical Grid Current Energy Supply
+Ontario’s electricity supply is predominantly carbon dioxide (CO2)-emissions-free (or green energy)98.
+Here, green energy refers to various energy and electricity conversion processes that rely on energy
+sources in nature that do not contribute to the emission of CO2 from fossilized carbon-based fuels,
+such as coal, natural gas, and crude oil. Ontario’s electricity demand fluctuates both daily and
+seasonally, as shown on Figure 4-16.
+FIGURE 4-16 MONTHLY AVERAGE ELECTRICITY IN MW FROM WIND AND SOLAR INSTALLATIONS IN
+ONTARIO FOR 2016
+1600
+
+70
+
+1400
+
+60
+
+1200
+
+50
+
+1000
+
+40
+
+800
+30
+
+600
+
+20
+
+400
+
+10
+
+200
+0
+
+0
+
+Average electricity generated (MW)
+
+WIND
+
+SOLAR
+
+98 Independent Electricity System Operator (IESO). 2017b. “Generator Output and Capability (GOC) Tables.” Data Directory. Accessed
+October 2017. http://ieso.ca/en/power-data/data-directory
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+108
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Supply has difficulty in matching demand, which is illustrated as follows:
+
+
+Nuclear plant output is broadly constant.
+
+
+
+Wind output is variable (Figure 4-16) both:
+
+
+
+
+
+Over short intervals
+
+
+
+Seasonally99, the IESO’s Hourly Ontario Energy Price (HOEP) values show that winter monthly
+averages exceed summer averages by about a factor of 2100.
+
+Solar output is variable (Figure 4-16) both:
+
+
+Over short intervals
+
+
+
+Seasonally, when monthly averages vary from a spring peak to a fall low by about a factor
+of 2.5 101.
+
+In recent years, the proportion of wind and solar generation in Ontario has been increasing, and the
+proportion of time when the Ontario grid has excess electricity has been rising. The proportion of
+time when HOEP has negative or zero value over the last 6 years is shown on Figure 4-17. This reflects
+a rising surplus of generating capacity from nuclear and renewable sources that cannot readily be
+curtailed. The grid is burdened with an unwanted supply of electricity of no value that it still has to pay
+the suppliers for.
+FIGURE 4-17 TREND OF ONTARIO GRID HOEP
+14%
+
+Neg. HOEP %
+
+12%
+
+Zero HOEP %
+
+10%
+8%
+6%
+4%
+2%
+0%
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+The IESO HOEP data show that the price of electricity tends to follow demand, and experiences
+morning and evening peaks.
+
+99 Independent Electricity System Operator (IESO). 2017c. “HOEP_2002-2016 table.” Data Directory. Accessed October 2017.
+http://ieso.ca/en/power-data/data-directory, average of the three longest-established wind farms
+100 Independent Electricity System Operator (IESO). 2017c. “HOEP_2002-2016 table.” Data Directory. Accessed October 2017.
+http://ieso.ca/en/power-data/data-directory
+101 Natural Resources Canada (NRC). 2017. Photovoltaic and solar resource maps. (Note that high tilt minimizes seasonal variation.) March
+20. Accessed October 10. http://www.nrcan.gc.ca/18366
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+109
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Electricity Price Estimates for the Hydrail System
+The IESO data (Figure 4-18) show that Ontario’s grid
+is supplied by generating processes that are
+distinctively unusual in two ways:
+
+FIGURE 4-18 AVERAGE CONTRIBUTION TO
+ONTARIO ELECTRICITY SUPPLY IN 2016 BY
+SOURCE TYPE
+Biomass,
+0.1%
+Solar,
+0.3%
+
+1. Over 90 percent of actual generation is produced
+by green (non-GHG-emitting) sources
+2. Much of this green capacity is not controllable
+(wind or solar), or is slow and expensive to adjust
+(nuclear)
+
+Gas‐fired,
+9.9%
+
+Hydraulic,
+23.5%
+
+Nuclear,
+60.0%
+
+Not unique to Ontario but of similar importance:
+
+
+Wind,
+6.2%
+
+Variability of demand exists on almost every time
+scale from night and day to seasonal.
+
+Adding together these three factors, the Ontario grid experiences very substantial surpluses of green
+electricity every day. The cost of this unwanted electricity is recovered by the Global Adjustment (GA).
+The cost of electricity for either Hydrail or track electrification is crucially important to the choice
+between the two technologies. The entire premise of Hydrail is that hydrogen will be generated by
+accessing this unwanted electricity. In storing electricity as hydrogen, it will time-shift energy demand
+by tapping into the unwanted surplus. Consequently, it is our understanding that electricity for Hydrail
+would not be subject to the GA.
+In contrast, the power required for the Overhead Contact System (OCS) does not alleviate the supplydemand imbalance and would, therefore, likely be subject to GA.
+After discussion with IESO102, we have costed the operational cost of the Hydrail System based on
+IESO’s actual hourly HOEP figures for 2016, plus the additional charges for distribution and
+regulation. Our estimates of electricity costs to produce hydrogen are based on selecting times with
+the lowest electricity values for hydrogen production. The results of this analysis are shown in
+Table 4-17, in the row identified as IESO set.
+TABLE 4-17 HYDRAIL CAPITAL AND OPERATING COST IMPACT ON UNIT COST OF HYDROGEN
+Elec. Price
+
+Storage
+Cost
+
+Electrolyzer
+Cost
+
+Capital
+Cost
+
+Electricity
+Cost
+
+Total
+Cost
+
+H2 Cost
+
+$/MWh
+
+$m
+
+$m
+
+$/d
+
+$/d
+
+$/d
+
+$/kg
+
+percent
+Change
+
+24.0
+
+165.1
+
+62,154
+
+70,253
+
+132,407
+
+3.310
+
+90.1
+
+25.6
+
+187.5
+
+70,047
+
+76,961
+
+147,009
+
+3.675
+
+100.0
+
+25.6
+
+165.1
+
+62,680
+
+89,945
+
+152,626
+
+3.816
+
+103.8
+
+Expand 20
+percent
+
+32.53
+
+IESO set
+
+34.29
+
+Compress 20
+percent
+
+41.64
+
+Notes:
+$/MWh = dollar per megawatt hour
+$/d = dollar per day
+$/kg = dollar per kilogram
+
+102 Fox, Conrad, IESO, Planner, Resource Integration. 2017a. Personal communication (email) with Nirmal Gnanapragasam Canadian
+Nuclear Laboratories. September 22.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+110
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+However, whether 2016 prices will precisely reflect electricity prices from 2024 on Table 4-18, to a
+large extent, uncertain because, on the generating supply side, there are planned additions of
+capacity and, on the demand side, there is the potential for growth in time-sensitive demand from
+vehicles powered either by electric batteries or hydrogen.
+A report by Strategic Policy Economics103 argues the case for hydrogen storage in a seasonal
+timeframe and concludes that: “The Hydrogen Economy can provide capacity and reliability benefits
+to the electricity system … to smooth the seasonal differences …”. The basic premise of this report is
+that the imbalances are going to persist. The Hydrail approach takes this principle further by
+smoothing the imbalances over days rather than seasonally.
+One variable that might bear on the cost of hydrogen for Hydrail would be a future compression or
+spread of the variation of hourly electricity costs around the mean. To examine this, the 2024 base
+case was re-optimized with the same average electricity cost but with all HOEP values moved either
+20 percent closer to the mean or 20 percent away from the mean. The results are also provided in
+Table 4-17.
+The difference between the 2016 spread in HOEP prices and those projected for 2024 by IESO is
+about 25 percent compression, so the range in Table 4-17 is well within the bounds of possibility. The
+contrast between the cases with the 20 percent expansion and the 20 percent compression of prices
+shows that effects of compression are diminishing, and further compression would be unimportant.
+
+4.2.2.2 Hydrail System Costs and Scenarios
+Hydrogen Handling Phases: Gas or Liquid
+For both capital and operating costs, the form in which hydrogen is stored—either as liquid hydrogen
+(LH2) or CGH2)—has bearing on this uncertainty because liquid hydrogen is 80 percent denser than
+gas at 700 atmospheres. The disadvantages of using LH2 are discussed in Section 4.1.4.1, but its use
+has been retained as an option for costing. Cost estimates for four hydrogen delivery configurations
+for Hydrail have been prepared as follows:
+
+
+Central production with pipeline delivery as gas throughout the RER network
+
+
+
+Central production with delivery by truck as gas
+
+
+
+Central production with delivery by truck as LH2
+
+
+
+Distributed onsite production as gas
+
+Producing and Costing Hydrogen
+Hydrogen requirements are estimated for RER Scenario 5’s planned train service pattern.
+The cost of producing hydrogen is based on the hourly costs of HOEP (plus fixed electricity charges),
+the cost of electrolysis installations ($655/ kilowatt [kW]104 at a nominal 2.2 A/cm2 of current density),
+and the cost of hydrogen storage ($1,397/kg105). A minimum of these cost inputs is found by varying
+storage and electrolysis capacity, and a complex set of conditions to determine when hydrogen will
+be produced and at what rate (varied by changing the current density, which modulates the cell
+103 Brouillette, Marc. 2016b. Ontario’s Emissions and the Long-Term Energy Plan; Phase 2 Meeting the Challenge. Strategic Policy
+Economics. December. Accessed October 2017. https://www.generationenergy.ca/images/documents/Strapolec percent20percent20Ontarios_Emissions_and_the_LTEP_-_Ph_2_Report_Final_December_2016.pdf
+104 Cargnelli, Joseph, Chief Technology Officer, Hydrogenics. 2017. Personal communication (via teleconference) with Nirmal
+Gnanapragasam Canadian Nuclear Laboratories. August 16.
+105 Compiled from data sent by Hexagon Composites, email dated September 16, 2017.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+111
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+voltage so also the electricity consumption, using figures supplied by Hydrogenics106) and based on
+the hourly price of electricity and the level of hydrogen in storage.
+The study had initially used the IESO pattern of HOEP in 2016 as input, with the actual cost escalated
+using IESO’s Large Industrial Price Forecast Module 4 (selected pertinent parts are provided in
+Table 4-18). IESO subsequently supplied their projection of HOEP prices through 2035107. In the
+absence of information beyond 2035, the figures for 2035 have been assumed to apply to subsequent
+years.
+TABLE 4-18 LARGE INDUSTRIAL PRICE FORECAST VALUES FROM IESO MODULE 4
+All $/MWh
+
+2016
+
+2024
+
+2032
+
+HOEP
+
+28
+
+56
+
+67
+
+Transmission
+
+12
+
+14
+
+16
+
+Regulatory
+
+7
+
+7
+
+8
+
+DRC
+
+7
+
+-
+
+-
+
+GA
+
+43
+
+35
+
+32
+
+Notes:
+- = not applicable
+DRC =Distribution and Regulatory Charges
+
+The newer IESO set was used for this assessment. The DRC for either 2024 or 2032 were added to
+IESO’s projected HOEP. GA costs have been excluded based on the understanding that they will not
+be applied to applications of RER’s nature. The DRC cost element in electricity charges ceases
+after 2018.
+Water requirements to produce hydrogen are for direct conversion plus evaporative losses to
+dissipate heat through a cooling tower; details of the cooling tower have not been assessed, but this
+is a minor item of equipment.
+Hydrogen Use
+Hydrogen produced by electrolysis will move to Hydrail-powered trains in the form either of
+compressed gas or LH2. For the main deployment of storage, compressed gas would be stored at
+200 to 300 bar in conventional, high-pressure steel tanks, and LH2 in double-walled vacuum vessels.
+Four options have been costed:
+1. As gas with production at a central site remote from the refuelling points and then delivered to the
+train refuelling points by a pipeline.
+2. Same as 1., but with gas delivered by tube-trailer-carrying trucks.
+3. Same as 1., but with liquid hydrogen delivered by truck; in this case, the costs of liquefaction have
+been added. A liquefaction plant would run continuously, and the additional electricity is costed at
+the average electricity price, including GA.
+4. As gas produced by electrolysis close to the train refuelling points. (Because electrolysis is
+intrinsically modular, production could be divided between several sites with little impact on cost.)
+106 Cargnelli, Joseph, Chief Technology Officer, Hydrogenics. 2017. Personal communication (via teleconference) with Nirmal
+Gnanapragasam Canadian Nuclear Laboratories. August 16.
+107 Fox, Conrad, Planner, Resource Integration, IESO. 2017b. Personal communication with Nirmal Gnanapragasam Canadian Nuclear
+Laboratories. October 8.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+112
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+In either gas or liquid form, storage capacity (as days of RER Hydrail demand) is determined by the
+hydrogen production optimization. Storage for an additional 1 day of demand is added to provide
+overnight refuelling of the RER fleet. The land areas for these hydrogen-supply options have been
+estimated and costed. These costs are preliminary, as the actual location of the generation, storage,
+and dispensing facilities are unknown.
+Hydrail Operational Scenarios – Description
+There are several operational scenarios being considered for Hydrail, taking advantage of flexibilities
+that hydrogen technology must offer for the rail application. To simplify discussions, the Hydrail
+operational scenarios are grouped in various ways:
+1. Infrastructure Configuration Scenario: The Hydrail system as shown on Figure 4-13 comprises
+various subsystems that may or may not be required, depending on the nature of hydrogen
+required (gaseous vs. liquid) and the option of producing hydrogen locally or remotely.
+2. 2024-Cost Case: This is the high-cost scenario where all the Hydrail infrastructure and vehicle
+components assume the start of the RER Scenario 5 (2024) costs—though these are projected to
+decline as the volume of production of these components grows.
+3. Future-Cost Case: This is a low-cost case where the component costs presume projected future
+costs reflecting both design advances and increasing volume of production as demand from other
+applications of hydrogen technology grow. The other applications are discussed in Section 3.3, all
+increasing production of similar components for hydrogen-fuelled cars, buses, transport trucks,
+ships, and forklifts. Demand from stationary applications for the electrical grid and for renewable
+energy storage, CHP, and back-up power has already been expanding.
+4. Low-Power Case: The base-case assumption uses a locomotive peak power of 7,500 horsepower
+(hp) (5,593 kW). This requirement is derived from the initial acceleration required for a full train
+consist. It may be too large, so a low-power case was included at 6,500 hp (4,847 kW) to show the
+sensitivity to this variable.
+5. Fleet Mix Scenario: Since Hydrail would use 2 locomotives for every 12 bi-level coaches, this
+allows an option of splitting the train consist into two 1+6 (as discussed in Section 4.1.8.3),
+resulting in the same economy of operation as EMUs. There are two fleet-mix options: (1)
+combination of locomotives and EMUs in the fleet; and (2) only locomotives in the fleet.
+6. RER Scenario 4108: RER Scenario 5 deploys Hydrail exclusively on Lakeshore East, and a mix of
+Hydrail and diesel on Lakeshore West, Barrie, Stouffville, and Kitchener. Whereas, RER Scenario 4
+is a more extensive deployment with Hydrail exclusively on all GO corridors.
+Equipment Capital Cost Sensitivities
+Costs for various equipment and subsystems within the Hydrail system is estimated based on cost
+factors available from hydrogen technical literature and from market relevant data obtained via
+stakeholder engagements. These factors for the two cost cases described earlier for key equipment
+are provided in Table 4-19.
+
+108 Metrolinx. 2015. GO RER Initial Business Case. Accessed October 2017.
+http://www.metrolinx.com/en/regionalplanning/projectevaluation/benefitscases/GO_RER_Initial_Business_Case_EN.pdf
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+113
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-19 EQUIPMENT CAPITAL COST FACTORS FOR 2024 AND FUTURE-COST CASES
+Fixed Infrastructure Equipment Costs
+Capital Cost Sensitivity
+of Principal Equipment
+
+Vehicle Equipment Costs
+
+Dispenser
++ Cooling
+($m/unit)
+
+Fuel cell
+($/kWe)
+
+Batteries
+($/kWh)
+
+700-bar
+tank
+($/kg)
+
+Electrolyzer
+($/kWe)
+
+200-bar
+tank ($/kg)
+
+850-bar
+tank ($/kg)
+
+2024-cost case
+
+823
+
+266
+
+1396
+
+1.09
+
+1197
+
+845
+
+1087
+
+Future-cost case
+
+655
+
+160
+
+1117
+
+0.87
+
+720
+
+676
+
+870
+
+Reduction (%)
+
+20
+
+40
+
+20
+
+20
+
+40
+
+20
+
+20
+
+A main attraction of Hydrail is that it is an assembly of components from a suite of relatively young
+technologies whose costs have been falling steadily over time and are expected to continue to fall.
+This is particularly true of the PEM technology (for both the electrolysis and fuel cell equipment) where
+Ballard109 has supplied the projections for fuel cell costs, as shown on Figure 4-19.
+FIGURE 4-19 FUEL CELL SYSTEM COST CHANGES
+2,500
+
+Fuel Cell Cost ($/kWe)
+
+2024 cost‐case
+Future cost‐case
+
+2,000
+
+1,500
+
+1,000
+
+500
+
+0
+2015
+
+2020
+
+2025
+
+2030
+
+2035
+
+2040
+
+2045
+
+2050
+
+For the 2024-case, this study used 1197 $/kWe, as provided in Table 4-19. While that looks somewhat
+high for 2024, the Ballard numbers could themselves not fully reflect the economies of scale in fuelcell production. In 2015, the U.S. Department of Energy (DOE) estimated110 current costs for
+manufacture of PEM fuel cells in very large numbers ranging from:
+
+
+US$280/kWe for 20,000 units
+
+
+
+US$60/kWe for 100,000 units
+
+
+
+US$53/kWe for 500,000
+
+While those numbers look highly optimistic, they indicate the likely trend of prices as production of
+PEM fuel cells expands to support other transportation applications using hydrogen.
+
+109 Campbell, R., Chief Commercial Officer, Ballard Power. 2017. Personal communication with Nirmal Gnanapragasam Canadian Nuclear
+Laboratories. October 27.
+110 Marcinkoski, Jason, Jacob Spendelow, Adria Wilson, and Dimitrios Papageorgopoulos Fuel Cell System Cost - 2015. DOE Hydrogen
+and Fuel Cells Program Record 15015. September 30. Accessed November 2017.
+https://www.hydrogen.energy.gov/pdfs/15015_fuel_cell_system_cost_2015.pdf.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+114
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Broadly, the assumptions made in costing the main components of the Hydrail system seem likely to
+be conservative.
+Hydrail Vehicle Cost Breakdown
+There are two types of Hydrail vehicles similar to the rail vehicles in existence: locomotives and EMUs.
+The costs of various vehicle types in the IBC are provided in Table 4-20.
+TABLE 4-20 COST OF VEHICLE TYPES111
+Costs
+($m)
+
+Vehicle Type
+Diesel locomotive
+
+3.5
+
+Discount for nondiesel locomotive platform (Hydrail)
+
+1
+
+Electric locomotive
+
+6.0
+
+Bi-level coach
+
+3.2
+
+EMU
+
+5.5
+
+Discount for nonelectric EMU platform (Hydrail)
+
+0.5
+
+Hydrail locomotive
+
+6.4
+
+HMU
+
+6.8
+
+Notes:
+HMU = hydrogen multiple unit
+
+The diesel locomotive is used as the reference for the Hydrail locomotive in the table. Based on
+discussions with rail vehicle experts, the cost for electric locomotives listed in the IBC at $6 million is
+quite low. To address this deficiency and enable a like-for-like comparison to the Hydrail locomotive,
+the cost of diesel is reduced by half from $ 7 to 3.5 million, as per Table 4-20.
+From the above table, the cost of a Hydrail locomotive is the result of: 3.5-1+3.86 = $6.4 million. Note
+here that 3.86 is the cost of the hydrogen equipment onboard the locomotive, as shown on
+Figure 4-20.
+
+111 Metrolinx. 2015. GO RER Initial Business Case. Accessed October 2017.
+http://www.metrolinx.com/en/regionalplanning/projectevaluation/benefitscases/GO_RER_Initial_Business_Case_EN.pdf
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+115
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 4-20 VEHICLE COST BREAKDOWN OF LOCOMOTIVE HYDROGEN COMPONENTS
+
+3.8 M$
+28%
+
+52%
+
+Hydrogen Fuel Cell System per
+Vehicle
+Battery System per Vehicle
+Hydrogen Storage System per
+Vehicle
+
+20%
+
+From the same table, the cost of an HMU, or the Hydrail equivalent of an EMU, is the result of
+5.5-0.5+1.75 = $6.8 million. Here, $1.75 million is the cost of the hydrogen equipment onboard the
+HMU, as shown on Figure 4-21.
+FIGURE 4-21 VEHICLE COST BREAKDOWN OF HMU HYDROGEN COMPONENTS
+
+1.75 M$
+
+20%
+
+Hydrogen Fuel Cell System per
+Vehicle
+Battery System per Vehicle
+
+23%
+
+57%
+Hydrogen Storage System per
+Vehicle
+
+4.2.2.3 Hydrail Operational Simulation Model: Design and Characteristics
+The Hydrail operational model is designed based on techno-economic assessment capabilities for the
+individual subsystems, as shown on Figure 4-13. The design of the Hydrail Operational Simulation
+Model is summarized by the flowchart shown on Figure 4-22.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+116
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 4-22 HYDRAIL OPERATIONAL SIMULATION MODEL DESIGN
+
+Key Model Setup for Electricity Price Optimization
+This section explains how the CNL Hydrail Model operates to minimize the cost of electricity. It gives a
+sense of the level of details involved in the techno-economic estimates for the GO Hydrail System.
+The objective of the optimization process is to produce hydrogen at the lowest possible cost, taking
+into consideration both the price of electricity (the HOEP set by the IESO) and the amortized cost of
+capital. Actual HOEP values for 2016 are the basis used for this optimization. Other cost factors, such
+as the levies for distribution and administrative costs, can be added to the HOEP: HOEP+. These
+HOEP+ values are deployed in an Excel spreadsheet with one row for each hour of the year.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+117
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+At the two extremes:
+
+
+One could deploy a massive installation of capital equipment to produce a year’s supply of
+hydrogen in the single hour of lowest HOEP+ and store it for the entire year’s consumption.
+
+
+
+One could produce hydrogen continuously with a minimum of capital equipment and only
+enough storage capacity to provide for a concentrated daily period of train refuelling.
+
+The optimized solution lies between those two extremes, deploying enough electrolysis cell and
+storage capacity to produce hydrogen intermittently to take advantage of periods with low HOEP+.
+Because HOEP follows a highly erratic pattern, there is no smooth function to determine the optimum.
+Instead, the optimizing model allows the user to search for an optimum between the two extremes by
+varying the sizes of the electrolysis equipment and storage capacity.
+The user also has a series of operating variables that are set to determine whether hydrogen should
+be produced depending on HOEP+ and the level of hydrogen in storage. A final variable allows
+operation of the electrolysis equipment at a higher current density up to a specified maximum; this is
+intended to allow the system to leverage its advantage when HOEP+ is notably low, even though
+higher current density raises the electricity consumption to produce a unit of hydrogen. The model
+tracks the quantity of hydrogen in storage (expressed in hours of average demand) and uses this to
+determine the minimum current HOEP+ value that will be accepted for hydrogen production.
+For an acceptable solution, the quantity of hydrogen in storage must always meet refuelling demand;
+refuelling is assumed to occur uniformly between midnight and 6 a.m. Hydrogen production is
+curtailed so that the storage capacity is never exceeded. On the assumption that hydrogen
+production will not change electricity prices, the cost of producing hydrogen by electrolysis is
+assumed to be indifferent to how much needs to be produced; any desired quantity is obtained by
+linear scaling.
+Optimization of parameters listed and referenced in this section allows the user to set two physical
+variables: (1) the quantities of electrolysis equipment, and (2) the hydrogen storage capacity. The
+other parameters determine when the electrolyzers will draw power. Basically, there are three bands
+of electricity price: (3) is a basic low price; (4) is a higher price if the storage level (5) is running low;
+and (6) is a storage level that is considered so low that production of hydrogen will occur at any
+HOEP+. (7) allows the cell current density to be raised to up to three times the nominal density. This
+produces hydrogen in proportion to the current density, but the voltage rises with current density
+according to a formula supplied by Hydrogenics; power used is current density multiplied by voltage.
+An optimization set is indicated and disqualified if, at any point in the year, the hydrogen in storage
+drops to zero. Production is curtailed or switched off when storage is full.
+The parameters on the System tab of the Hydrail Model are:
+1. Available quantity of electrolysis equipment (a multiple of the requirement for 24 hours per day,
+7 days per week [24/7] continuous production)
+2. Available quantity of hydrogen storage (in hours of average demand)
+3. A threshold electricity price below which hydrogen can always be produced ($/kWh), subject to
+space in storage being available
+4. A higher threshold electricity price below which hydrogen can be produced ($/kWh) if …
+5. … hydrogen storage is less than specified percentage of storage capacity
+6. An extreme low level of storage (in hours), below which electricity at any price will be accepted
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+118
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+7. A threshold electricity price below which the cell current density can be raised from its standard
+level of 2.2 A/cm2 for a PEM electrolyzer to as high as ...
+8. … a (higher) current density level with the power consumption adjusted according to PEM
+electrolyzer characteristics supplied by Hydrogenics.
+Variables 3 to 8 determined the rate at which hydrogen should be produced in any hour-long period
+at a rate that reflected available storage space and current HOEP+. The rate ranged from zero (when
+the electricity price was high and storage levels acceptable), to a standard rate (when considerations
+of electricity price and storage justify production), to an augmented rate with a higher current density
+(when the electricity price was acceptably low).
+The variables were adjusted manually to search for the best result. Any optimization unable at any
+time to meet fuelling demand is alarmed and rejected.
+The eight variables are adjusted manually, usually (but not necessarily) to produce the lowest overall
+cost of electricity plus capital recovery. As an example, the average daily distribution of the hydrogen
+production for Hydrail in the year 2024 would look something like that shown in Figure 4-23.
+FIGURE 4-23 DAILY HYDROGEN PRODUCTION REFLECTING THE USE OF CHEAPER ELECTRICITY PRICE
+PERIODS STARTING IN 2024
+
+Percentage of Daily Production
+
+16%
+14%
+12%
+10%
+8%
+6%
+4%
+2%
+0%
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+
+Hour of the day
+
+4.2.2.4 Hydrail Operational Scenarios – Results
+Results from the Hydrail Operational Simulation Model were generated for the scenarios discussed
+earlier. Here, the costs provided do not include any financial assumptions and conditions, so they are
+direct costs (without any discounting for future time periods), mainly based on equipment cost factors
+and electricity pricing. These are presented here to highlight the difference between various options
+that are available within the Hydrail infrastructure for both fixed and mobile assets.
+Infrastructure Configuration Scenario
+The Hydrail System configuration involves locating and grouping fixed subsystems that take
+advantage of some characteristics of hydrogen and relevant equipment that handles hydrogen.
+Table 4-21 shows the results of four configuration scenarios for the 2024-cost case.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+119
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+The hydrogen and water requirement shown in the table are the same for all scenarios. The water
+consumed by the Hydrail system would be equivalent to about 0.04 percent of the daily water
+consumption by the City of Toronto. Most of this water would return to Ontario and the Great Lakes
+region via rainfall as the trains operate on the GO network every day using the hydrogen produced
+from this water.
+TABLE 4-21 COMPARISON OF INFRASTRUCTURE CONFIGURATION OPTIONS
+Infrastructure Configuration Scenarios,
+2024-cost Case
+Parameters
+
+Unit
+
+Hydrogen phase
+
+Central production +
+Pipeline distribution
+
+Central Production + Truck
+Distribution
+
+Onsite
+Production
+
+Gas
+
+Gas
+
+Liquid
+
+Gas
+
+Hydrogen required
+
+tpd
+
+40
+
+40
+
+40
+
+40
+
+Water required
+
+tpd
+
+402
+
+402
+
+402
+
+402
+
+GWh/d
+
+2.2
+
+2.2
+
+2.7
+
+2.2
+
+Electricity cost
+
+$K/d
+
+90.3
+
+91
+
+127
+
+91
+
+Hydrogen cost
+
+$/kg
+
+4.2
+
+3.8
+
+5.1
+
+3.5
+
+Total operating cost
+
+$m/y
+
+33
+
+37
+
+47
+
+34
+
+Pipeline length, total
+
+km
+
+367
+
+0
+
+0
+
+0
+
+No. of tanker-trucks
+
+No.
+
+0
+
+83
+
+13
+
+0
+
+Electrolyzer size (total)
+
+MW
+
+250
+
+250
+
+250
+
+250
+
+Land area required
+
+m2
+
+23721
+
+15048
+
+4686
+
+16166
+
+Production equipment
+
+$m
+
+211
+
+211
+
+211
+
+211
+
+Production storage
+
+$m
+
+59
+
+58
+
+227
+
+58
+
+Hydrogen distribution
+
+$m
+
+205
+
+24
+
+14
+
+0
+
+Refuelling storage
+
+$m
+
+73
+
+68
+
+73
+
+68
+
+Dispensing equipment
+
+$m
+
+48
+
+48
+
+54
+
+48
+
+Electricity required
+
+Notes:
+$K/d = thousand dollars per day
+$m/y = million dollars per year
+GWh/d = gigawatt hour per day
+m2 = square metre
+tpd = tonne per day
+
+The results for the four configuration scenarios are distinct, and some aspects are discussed here:
+1. Central production with pipeline distribution: There is about 367 km of pipeline, representing the
+physical length of the GO corridors within the RER Scenario 5, on the assumption that hydrogen
+could be made available anywhere on the entire network. In reality, this number would be
+different, as we would determine more details on the location of production as the next step. The
+land area for this scenario is larger than others due to the lower pressure of hydrogen that the
+pipeline could accommodate; thereby, increasing the number of storage tanks.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+120
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+2. Central production with truck distribution for gaseous hydrogen: There are about 83 trucks (each
+carrying about 800 kg of hydrogen) required each day to transport the 40 tonnes of hydrogen
+produced to the various refuelling locations. While this is cheaper than the pipeline option for gas,
+having these many trucks on the road every day increases the risk for supply disruption.
+3. Central production with truck distribution for liquid hydrogen: The number of trucks is down to
+13 in this scenario, as each liquid hydrogen truck could carry about 4,200 kg of hydrogen. But this
+option puts a huge penalty on the Hydrail system energy requirements from 2.2 to 2.7 GWh/d, an
+increase of 18 percent of daily electricity consumption. The storage tanks are also specialized,
+which increases the cost of storage by 74 percent. However, this option requires the lowest land
+area due to the higher density of storage.
+4. Onsite production: This has the lowest cost of the four scenarios, as the cost for distribution is
+discounted. If the land area required (16,166 m2) is available at or near the site of the refuelling or
+dispensing facilities, then this could be the preferred option for Hydrail infrastructure.
+Cost and Timeframe Scenarios: 2024 and Future Cost Cases
+As discussed earlier in Section 4.2.2.2, the capital cost of hydrogen equipment used in various Hydrail
+subsystems is changing with time due to the evolution in the technology and the volume of
+production of this equipment. Using the two cost cases in the Hydrail model, the reduced costs for the
+future-cost case are provided in Table 4-22 for the onsite production scenario. Note that the
+deployment of the vehicles in the fleet would continue until 2044 (based on train service pattern), so a
+comparison is provided for the two cost cases to that timeframe, as well.
+TABLE 4-22 COMPARISON OF TIME-BOUND COSTS
+Cost and Timeframe Scenarios
+(Configuration: Onsite Production, Gas phase)
+Unit
+
+2024,
+2024-cost
+
+2044,
+2024-cost
+
+2024,
+Future-cost
+
+2044,
+Future-cost
+
+Hydrogen required
+
+tpd
+
+40
+
+48
+
+40
+
+48
+
+Water required
+
+tpd
+
+402
+
+484
+
+402
+
+484
+
+Electricity required
+
+GWh/d
+
+2.2
+
+2.5
+
+2.2
+
+2.5
+
+Electricity market price
+
+$/MWh
+
+34.2
+
+48.4
+
+34.2
+
+48.4
+
+Electricity cost
+
+$K/d
+
+90.9
+
+122.5
+
+90.9
+
+122.5
+
+Water cost
+
+$K/kg
+
+1.2
+
+1.5
+
+1.2
+
+1.5
+
+Hydrogen cost
+
+$/kg
+
+3.5
+
+3.5
+
+3.3
+
+3.3
+
+Total operating cost
+
+$m/y
+
+34
+
+41
+
+34
+
+41
+
+No. of locomotives
+
+No.
+
+70
+
+88
+
+70
+
+88
+
+No. of powered EMUs
+
+No.
+
+42
+
+42
+
+42
+
+42
+
+Land area required
+
+m2
+
+16166
+
+19467
+
+16166
+
+19467
+
+Production equipment
+
+$m
+
+211
+
+254
+
+168
+
+203
+
+Production storage
+
+$m
+
+58
+
+70
+
+45
+
+54
+
+Refuelling storage
+
+$m
+
+68
+
+97
+
+57
+
+81
+
+Dispensing equipment
+
+$m
+
+48
+
+65
+
+38
+
+52
+
+Parameters
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+121
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Between the 2024-cost and future-cost cases (columns 3 and 5 in Table 4-22), the production
+subsystem cost is reduced by 20 percent; production storage by 23 percent; refuelling storage by
+16 percent; and dispensing equipment by 20 percent. There is approximately a 16 percent reduction
+in costs for the powered vehicle fleet – Hydrail locomotives and drive EMUs (not shown in the table).
+These reductions would only be realized for equipment purchased after the initial Hydrail infrastructure,
+which is set at the 2024 costs. The reduction would affect the additional infrastructure required to
+support the progressive increase in vehicle fleet by 2044 and any replacements made during this time
+and beyond. The fleet addition reflected for the 2044 case, with 18 additional locomotives, is presented
+in the IBC report112. It is also important to remember that the number of HFC locomotives is twice the
+number of electric locomotives in the IBC report.
+However, the additional requirement for hydrogen of about 8 tpd for 2044 is reflective of the train
+service pattern for each corridor, which could be indicative of a higher number of trains being added to
+the corridors. Based on the service pattern used in the Hydrail Operational Simulation Model, the
+addition of trains extends beyond 2030, up to 2044 in some corridors.
+In this respect, the Hydrail estimates are higher than the electrification (OCS) ones beyond the 2030
+timeframe, which requires careful consideration when a comparison of lifetime costs is made.
+Peak Power Scenario
+The hydrogen requirement and every other aspect of the Hydrail system was deduced based on the
+peak and average power requirements for the locomotives and EMUs. When the peak power is
+adjusted without much sacrifice on the acceleration of the entire train, the change in the system and
+cost parameters are highlighted in Table 4-23. A 20 percent reduction in peak power between the
+two cases: 7500 and 6000 hp, respectively, shows a significant reduction in costs and energy
+requirements, for a 11 percent reduction in the acceleration of the train.
+TABLE 4-23 COMPARISON OF PARAMETERS FOR PEAK POWER CHANGE IN POWERED VEHICLES
+Peak Power Scenarios
+(Onsite Production, Gas Phase, 2024, 2024-cost)
+Parameters
+
+Unit
+
+7500 hp
+
+6000 hp
+
+Reduction (%)
+
+Hydrogen required
+
+tpd
+
+40
+
+32
+
+20
+
+Water required
+
+tpd
+
+402
+
+322
+
+20
+
+Electricity required
+
+GWh/d
+
+2.2
+
+1.8
+
+20
+
+Electricity market price
+
+$/MWh
+
+34.2
+
+34.2
+
+0
+
+Electricity cost
+
+$K/d
+
+90.9
+
+72.8
+
+20
+
+Water cost
+
+$K/kg
+
+1.2
+
+1.0
+
+20
+
+$/kg
+
+3.5
+
+3.5
+
+0.5
+
+Total operating cost
+
+$m/year
+
+34
+
+27
+
+20
+
+No. of locomotives
+
+No.
+
+70
+
+70
+
+0
+
+No. of powered EMUs
+
+No.
+
+42
+
+42
+
+0
+
+Peak Velocity
+
+kph
+
+70
+
+63
+
+11
+
+Acceleration
+
+m/s2
+
+0.33
+
+0.29
+
+11
+
+m2
+
+16166
+
+12941
+
+20
+
+Hydrogen cost
+
+Land area required
+
+112 Metrolinx. 2015. GO RER Initial Business Case. Accessed October 2017.
+http://www.metrolinx.com/en/regionalplanning/projectevaluation/benefitscases/GO_RER_Initial_Business_Case_EN.pdf
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+122
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-23 COMPARISON OF PARAMETERS FOR PEAK POWER CHANGE IN POWERED VEHICLES
+Peak Power Scenarios
+(Onsite Production, Gas Phase, 2024, 2024-cost)
+Parameters
+
+Unit
+
+7500 hp
+
+6000 hp
+
+Reduction (%)
+
+Production equipment
+
+$m
+
+211
+
+169
+
+20
+
+Production storage
+
+$m
+
+58
+
+47
+
+19
+
+Refuelling storage
+
+$m
+
+68
+
+55
+
+19
+
+Dispensing equipment
+
+$m
+
+48
+
+32
+
+33
+
+Fuel cell size, locomotive
+
+MW
+
+1.68
+
+1.34
+
+20 percent
+
+Fuel cell size, EMU
+
+MW
+
+0.84
+
+0.67
+
+20 percent
+
+Notes:
+kph = kilometre per hour
+m/s2 = metre per square second
+
+The train consist considered for this scenario is made up of 2 locomotives pulling 12 bi-level coaches
+with all seats occupied by passengers, with a total of 882 tonnes of gross weight. The time to
+accelerate was set at 60 seconds. If the time savings to passengers is calculated and weighed against
+the cost savings to the Hydrail System for a slightly slower commute, then the peak power comparison
+should be scrutinized further. Note that the acceleration numbers chosen here are arbitrary just to
+show the impact of peak power on the acceleration and the entire system.
+Fleet Mix Scenario
+The Hydrail fleet mix is included as a scenario and follows the discussions in Section 4.1.8.3, where
+having 2 locomotives with 12 bi-level coaches (2+12 consist) was flexible enough to be used as 1+6
+consist during off-peak times of rail operations within the GO corridors. Table 4-24 provides a
+comparison between the fleet with a mix of locomotives and EMUs versus a fleet with only
+locomotives.
+TABLE 4-24 COMPARISON OF FLEET MIX SCENARIOS, LOCOMOTIVES, AND EMUS
+Fleet Mix Scenarios
+(Onsite Production, Gas Phase, 2024, 2024-cost)
+Unit
+
+Locomotives and
+EMUs
+
+Locomotives Only
+
+Change (%)
+
+tpd
+
+40
+
+40
+
+0
+
+Tonne/day
+
+402
+
+402
+
+0
+
+Electricity required
+
+GWh/d
+
+2.2
+
+2.2
+
+0
+
+Electricity market price
+
+$/MWh
+
+34.2
+
+34.2
+
+0
+
+Electricity cost
+
+$K/d
+
+90.9
+
+90.9
+
+0
+
+Water cost
+
+$K/kg
+
+1.2
+
+1.2
+
+0
+
+Hydrogen cost
+
+$/kg
+
+3.5
+
+3.5
+
+0.0
+
+Total operating cost
+
+$m/y
+
+34
+
+34
+
+0
+
+Parameters
+Hydrogen required
+Water required
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+123
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-24 COMPARISON OF FLEET MIX SCENARIOS, LOCOMOTIVES, AND EMUS
+Fleet Mix Scenarios
+(Onsite Production, Gas Phase, 2024, 2024-cost)
+Unit
+
+Locomotives and
+EMUs
+
+Locomotives Only
+
+Change (%)
+
+No. of locomotives
+
+No.
+
+70
+
+81
+
+-16
+
+No. of powered EMUs
+
+No.
+
+42
+
+0
+
+100
+
+Land area required
+
+m2
+
+16166
+
+16166
+
+0
+
+Production equipment
+
+$m
+
+211
+
+211
+
+0
+
+Production storage
+
+$m
+
+58
+
+58
+
+0
+
+Refuelling storage
+
+$m
+
+68
+
+68
+
+0
+
+Dispensing equipment
+
+$m
+
+48
+
+48
+
+0
+
+Powered vehicles
+
+$m
+
+960
+
+515
+
+46
+
+Parameters
+
+The biggest change is in the powered vehicles’ cost, with the locomotives-only option providing a
+saving of 46 percent when compared to the initial capital cost of the Hydrail system at the 2024
+timeframe using the 2024-costs. The significance highlighted here is an indication to scrutinize this
+option of having only locomotives for the Hydrail system, provided the locomotives could achieve a
+similar time savings as purported to be achieved using EMUs.
+RER Scenario 4 Option
+RER Scenario 4 assumes that the entire GO network in the current layout would be electrified and in
+2024 timeframe and would have a mix of existing diesel-powered vehicles and hydrogen- or electricpowered vehicles in the fleet. The comparison of results between Scenarios 4 and 5 are provided in
+Table 4-25. The addition in the hydrogen, energy, water, and operating requirements for Scenario 4
+implies the scope of the full GO network electrification. The additional capital required for the fixed
+infrastructure is also significant. Due to the modular nature of the technologies involved, Hydrail
+would be implemented in stages while taking advantage of lessons learned while implementing
+Hydrail subsystems in the GO corridors initially, so these numbers should be used only for the relative
+difference between the scenarios compared.
+TABLE 4-25 COMPARISON OF RER SCENARIOS 4 AND 5
+RER Scenarios 4 and 5
+(Onsite production, gas phase, 7500 HP, 2024, 2024-cost,
+Locomotives+EMUs)
+Parameters
+
+Unit
+
+RER Scenario 4
+
+RER Scenario 5
+
+Change (%)
+
+Hydrogen required
+
+tpd
+
+59
+
+40
+
+32
+
+Water required
+
+tpd
+
+594
+
+402
+
+32
+
+Electricity required
+
+GWh/d
+
+3.2
+
+2.2
+
+31
+
+Electricity market price
+
+$/MWh
+
+34.2
+
+34.2
+
+0
+
+Electricity cost
+
+$K/d
+
+129
+
+91
+
+30
+
+Water cost
+
+$K/kg
+
+1.8
+
+1.2
+
+32
+
+Hydrogen cost
+
+$/kg
+
+3.4
+
+3.5
+
+-3.4
+
+Total operating cost
+
+$m/y
+
+48
+
+34
+
+30
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+124
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-25 COMPARISON OF RER SCENARIOS 4 AND 5
+RER Scenarios 4 and 5
+(Onsite production, gas phase, 7500 HP, 2024, 2024-cost,
+Locomotives+EMUs)
+Parameters
+
+Unit
+
+RER Scenario 4
+
+RER Scenario 5
+
+Change (%)
+
+No. of locomotives
+
+No.
+
+156
+
+70
+
+55
+
+No. of powered EMUs
+
+No.
+
+42
+
+42
+
+0
+
+Land area required
+
+m2
+
+23692
+
+16166
+
+32
+
+Production equipment
+
+$m
+
+311
+
+211
+
+32
+
+Production storage
+
+$m
+
+86
+
+58
+
+32
+
+Refuelling storage
+
+$m
+
+101
+
+68
+
+32
+
+Dispensing equipment
+
+$m
+
+64
+
+48
+
+25
+
+Powered vehicles
+
+$m
+
+1506
+
+960
+
+36
+
+4.2.2.5 Summary of the Hydrail Operational Model Findings
+The Hydrail operational model and the maintenance assessment has revealed the following
+information:
+
+
+The model is capable of estimating operational parameters and costs with sufficient rigor that the
+improvement in the inputs and assumptions would narrow the error margin.
+
+
+
+The costs and cost factors used in this section are for indicative and comparison purposes only.
+The actual costs are presented in Section 4.4, along with the BCR.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+125
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.3
+
+Electricity Policy and Pricing
+
+Electricity is the flow of electrons from a negatively charged body to a positively charged body113.
+Electricity is commonly used in everyday life as a source of energy for a wide range of applications,
+including lighting, heating, and powering appliances or other motorized equipment. Power is the rate
+(energy amount per time period) at which energy converted (Figure 4-24). The scientific unit of power
+is the watt (W), which is equal to one joule (energy amount) per second (time period)114.
+FIGURE 4-24 ELECTRIC POWER MEASURES
+
+The amount of electricity that is generated or used over a period of time is typically measured in
+kWh115. A watthour is equal to the energy of 1 watt steadily generated or supplied over 1 hour
+(Figure 4-25).
+FIGURE 4-25 WATT-HOUR MEASURES
+
+Ontario has seen a net increase in electricity production from 2005 to 2015, with production growing
+from 156TWh to 160TWh. The growth in production has however, not been met by increased
+demand. Changing economic conditions and conservation programs have resulted in non-weathercorrected grid demand116 within the province declining by approximately 10 percent from 151TWh in
+2006 to 137TWh in 2015. Accordingly, Ontario currently generates significant surplus electricity,
+estimated at 9 percent of Ontario’s net demand in 2016, a major change from the deficits that existed
+in the early 2000s.
+
+113 Natural Resources Canada (NRC). 2016. About Electricity. Accessed October 2017. http://www.nrcan.gc.ca/energy/electricityinfrastructure/about-electricity/7359. 114 “Power – Scientific Definition.” UQ.edu.au. The University of Queensland, Australia, n.d. Web. 02
+Nov 2017.
+114 “Power – Scientific Definition.” UQ.edu.au. The University of Queensland, Australia, n.d. Web. 02 Nov 2017.
+115 “Measuring Electricity – Energy Explained, Your Guide To Understanding Energy – Energy Information Administration.” EIA.gov. U.S.
+Department of Energy, 10 Feb 2017. Web. 24 Sep. 2017.
+116 Non-weather-corrected grid demand has not been adjusted for variations in weather patterns that may impact demand for electricity.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+126
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+As the province seeks to improve efficiencies, plans through to 2035 focussed on improvement in the
+alignment between demand and supply of electricity, and continuing conservation initiatives and
+demand response programs. The following sections will describe the governance and policy
+framework that guide strategic planning for Ontario’s electricity needs; Ontario’s electricity system
+and generation capacity; and electricity demand forecasts as well as plans to balance the electricity
+system, while limiting investment in additional infrastructure.
+
+4.3.1
+
+Governance, Regulatory, and Management Framework
+
+4.3.1.1 The Ministry of Energy117
+The Ministry of Energy (the Ministry) facilitates the development of Ontario’s electricity generation,
+transmission and other energy related facilities. One of the Ministry’s top priorities is ensuring that
+Ontario’s energy needs are met in a sustainable manner.
+The mandate letter from the Premier to the Ontario Minister of Energy (the Minister), dated
+23 September 2016, outlines the Minister’s priorities, including:
+
+
+Taking further action to mitigate the impact of electricity prices on consumers and businesses,
+partly through expanding eligibility for the Industrial Conservation Initiative (ICI).
+
+
+
+Promoting energy conservation and the adoption of renewable energy.
+
+
+
+Supporting the growth of the low-carbon economy and reductions in GHG emissions.
+
+
+
+Driving efficiencies and maximizing return on investment from the electricity sector.
+
+If successful, these actions will drive efficiencies, lead to an increasing reliance on renewable energy
+and encourage greater levels of energy conservation, thereby reducing electricity demand in lieu of
+increasing supply.
+
+4.3.1.2 The Ontario Energy Board118
+The Ontario Energy Board (OEB) is Ontario’s independent energy regulator, whose goal is to ensure
+the energy system remains sustainable and reliable, and that the energy rights of Ontarians are
+protected. The OEB’s mandate and authority come from the Ontario Energy Board Act, 1998; the
+Electricity Act, 1998; and other provincial statutes, including the Energy Consumer Protection Act,
+2010.
+The OEB:
+
+
+Sets rules for energy companies operating in Ontario
+
+
+
+Establishes energy rates
+
+
+
+Licenses energy companies
+
+
+
+Monitors the wholesale electricity market and energy companies
+
+
+
+Develops new energy policies in partnership with the Ministry
+
+
+
+Advises the Government of Ontario on energy policy
+
+117 “About the Ministry”. Web. 10 Oct. 2017.Energy.gov.on.ca, 26 Sep. 2016.
+118 05 Oct. 2017. “About Us”. OEB.ca. Ontario Energy Board, n.d. Web.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+127
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+The OEB assisted the government in the development of the regulatory framework for Ontario’s cap
+and trade program, and is also in the process of implementing a five-point plan to redesign electricity
+prices (OEB, 2012-2017a).
+
+4.3.1.3 The National Energy Board119
+The National Energy Board (NEB) is a federal body that, amongst other things, regulates the construction
+and operation of international and designated interprovincial power lines, as well as the import of
+electricity. The NEB also authorizes and regulates energy trade through long-term licences, permits, and
+short-term orders. The amount of electricity exported cannot exceed limits approved by the NEB.
+In performing its duties, the NEB considers the impact of exports on adjacent provinces and fair market
+access for Canadians. The NEB reports to Parliament through the Minister of Natural Resources.
+
+4.3.1.4 The Independent Electricity System Operator120
+The Independent Electricity System Operator (IESO) manages Ontario’s electricity system, forecasts
+the demand and supply of electricity to plan for the province’s future energy needs, promotes
+conservation, and operates the wholesale electricity market.
+The IESO was established through the Electricity Act in 1998 as a not-for-profit corporate entity.
+Through amendments to the Electricity Act on January 1, 2015, the IESO was merged with the Ontario
+Power Authority. Through legislation, the Ministry oversees the IESO, which is governed by a Board of
+Directors that is appointed by the Province of Ontario. The IESO operates independently of all other
+participants in the electricity market.
+The IESO forecasts the Ontario’s current, short-term and long-term energy needs, and assesses the
+adequacy and reliability of the integrated power system to ensure Ontarians have sustainable
+solutions to meet energy needs now and in the future.
+
+4.3.2
+
+Ontario’s Electricity System
+
+Ontario’s electricity system is made up by a network of generation, distribution and transmission
+systems that supply electricity across the province (Figure 4-26). The network is part of a larger North
+American system, through which Ontario’s network is connected to neighbouring provinces and states.
+
+119 “NEB – Who we are”. 03 Oct. 2017NEB-one.gc.ca. Government of Canada, 01 Dec. 2016. Web.120 Independent Electricity System
+Operator (IESO). 2017a. “What We Do.” About the ISEO. Accessed October 5, 2017. http://ieso.ca/en/learn/about-the-ieso/what-we-do.121
+“Electricity – Energy Explained, Your Guide To Understanding Energy – Energy Information Administration.” EIA.gov. U.S. Department of
+Energy, 21 Nov. 2016. Web. 24 Sep. 2017.
+120 Independent Electricity System Operator (IESO). 2017a. “What We Do.” About the ISEO. Accessed October 5, 2017.
+http://ieso.ca/en/learn/about-the-ieso/what-we-do.121 “Electricity – Energy Explained, Your Guide To Understanding Energy – Energy
+Information Administration.” EIA.gov. U.S. Department of Energy, 21 Nov. 2016. Web. 24 Sep. 2017.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+128
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 4-26 ELECTRICITY INDUSTRY STRUCTURE IN ONTARIO
+
+(Source: Adapted, with permission, from the Hydro One Limited 2016 Annual Report)
+
+The electricity system is described in further detail in the sections that follow.
+
+4.3.2.1 Generation
+Electricity is the flow of electrical power or charge produced by converting energy into electrical power.
+Energy sources may be renewable or non-renewable. The main sources of renewable energy include
+solar, hydro, and wind energy.121 Non-renewable sources include fossil energy sources, such as coal,
+oil, and natural gas. Nuclear energy, generated from uranium, is a nonrenewable, nonfossil energy
+source.
+Historically, Ontario relied heavily on
+coal-fired generation. From 2005 to
+2015, the province significantly
+reduced the level of GHG emissions
+from the electricity sector, as installed
+coal-fired capacity was wound-down
+and replaced with renewable and
+natural gas-fired capacity. Ontario’s
+electricity is presently generated from
+wind, solar, bioenergy, hydro, nuclear
+and natural gas-fired resources, with
+approximately 90 percent of the
+electricity being generated from nonfossil sources.
+
+FIGURE 4-27 ONTARIO’S 2015 ENERGY PRODUCTION
+
+The province’s electricity needs can
+vary by as much as 10,000 MW in any
+given day. The province’s diverse energy supply mix allows for the management of different resources
+to perform different roles to meet its varying electricity needs. Baseload refers to the minimum
+amount of electric power delivered or required over a given period of time at a steady rate. A
+baseload plant is normally operated to take all or part of the minimum load of a system, and
+consequently produces electricity at an effectively constant rate, and runs continuously122. Nuclear
+power plants and “run-of-the-river” hydro facilities produce a constant and steady output of electricity
+121 “Electricity – Energy Explained, Your Guide To Understanding Energy – Energy Information Administration.” EIA.gov. U.S. Department of
+Energy, 21 Nov. 2016. Web. 24 Sep. 2017.
+122 “Glossary.” EIA.gov. U.S. Energy Information Administration, n.d. Web. 02 Nov 2017.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+129
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+and are considered baseload generation. Natural gas facilities and hydro generators with reservoirs
+for storage allow for variable output, as needed. Peaking generators are relied upon to meet the
+peaks on the highest demand days, while intermediate generators work throughout the day, with
+output adjusted as demand varies. Wind and solar facilities generate variable output, based on
+weather conditions. They are highly flexible in respect of the ability to adjust output, subject to energy
+availability, allowing for variable but controlled generation.
+A key difference between traditional and variable generators is that traditional generators store their
+primary energy source (for example, uranium, water or natural gas) onsite and convert it to energy as
+needed. Variable generators on the other hand, can only produce energy when the primary source
+(for example, wind or sunlight) is available. As such, the principle challenge with variable energy
+sources is that they can regularly drive a mismatch between demand and supply.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+130
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Installed capacity refers to the maximum
+possible output of electricity generators
+installed within the province’s electricity
+system. Actual electricity production may vary
+based on the availability of energy sources
+and direction from the IESO to adjust output
+to efficiently meet energy needs.
+
+FIGURE 4-28 ONTARIO’S 2016 INSTALLED CAPACITY
+
+There is currently over 37,000 MW of installed
+capacity within Ontario’s transmission system
+and an additional 3,600 MW of generation
+capacity within local distribution systems.
+Nuclear and renewable sources represent
+approximately 74 percent of the installed
+capacity and natural gas sources account for
+the remaining 26 percent. Actual production
+levels are discussed in the section that follow.
+Energy Sources
+
+Nuclear
+Nuclear energy, generated by splitting uranium atoms, is a non-renewable source of energy. Nuclear
+generation is, however, considered sustainable, given significant uranium resources relative to the
+rate of use, and the low environmental impact of its use. Nuclear power accounts for approximately
+58 percent of the province’s electricity production. There are three nuclear plants, Bruce, Darlington
+and Pickering, with 18 generating units in operation within the province.
+
+Hydroelectric
+Hydroelectric (or hydro) energy is generated by converting the kinetic or potential energy of water
+into electrical energy. Hydro generation is an important component of Ontario’s baseload and
+peaking energy mix. Hydro currently accounts for roughly 23 percent of the province’s electricity
+production, and is therefore the most significant source of renewable energy. Given the ability to
+predict the level of hydro generation throughout any given day and across seasons, hydro is a stable
+source of renewable energy.
+
+Natural Gas and Oil
+Thermal generating plants generate electricity by burning natural gas. They can quickly adjust output
+based on changes in demand, thereby easily meeting peak demand needs or providing back up for
+more volatile wind or solar generation. Natural gas is a fossil fuel, and generates GHGs as a byproduct of energy production. The volume of emissions is however, significantly lower than coal-fired
+resources. Natural gas and oil now account for roughly 10 percent of the province’s electricity
+production.
+
+Wind, Solar, and Bioenergy
+Wind, solar and bioenergy now accounts for roughly 9 percent of the province’s electricity
+production. The contribution levels are largely attributed to wind energy, as significant government
+incentives along with improvements in technology have resulted in greater output and lower unit
+costs.
+Wind energy generating potential is greatest in the winter and at night. Wind energy generators can
+quickly adjust output in response to system requirements. Solar generation is important to Ontario’s
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+131
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+energy mix, with high production levels during the summer peaking hours. Bio energy is produced
+either by combusting organic fuel (biomass) or by allowing organic matter to decompose, producing
+CH4, which is then combusted to produce electricity. In Ontario, there are abundant sources of
+organic matter as a by-product of forestry, agricultural and livestock, and food processing operations,
+as well as from municipal waste. The key challenge to the establishment of bioenergy plants is
+however, the high capital cost.
+
+4.3.2.2 Transmission
+Electricity is produced from generation plants and transmitted across Ontario’s transmission system at
+high voltage before being stepped down to lower voltage for delivery to end-users. The province’s
+high voltage transmission system consists of a network of transmission lines that are equal to or
+greater than 50 kilovolts (kV).
+The stability of Ontario’s electricity system depends on supply constantly meeting demand. The IESO
+directs the flow of electricity across the grid, balancing demand and supply to ensure stability. Over
+the past decade, the Province has focussed on maximizing the use of the existing transmission system.
+Accordingly, significant renewable energy resources have been added without any major expansion
+of the transmission network. The network is, however, nearing capacity, and now has limited ability to
+accommodate additional generation.
+Further constraints are presented when resource potential is not located within proximity to the grid,
+as is the case for many of the Province’s untapped renewable energy sources. Significant new
+transmission additions typically require a lead time of 7 to 9 years; therefore, the management of the
+transmission system requires careful planning.
+Capacity constraints lead to congestion in some areas. System congestion refers to instances during
+the operation of the power system when there is not enough transmission capacity available to
+accommodate scheduled generation. Over the long-term, transmission facilities are efficiently used
+where there is a manageable level of congestion. In Ontario, as the use of existing assets is being
+maximized, many parts of the system are frequently congested.
+Current Grid Capacity
+Ontario’s power transmission system is broken down into 10 zones, as reflected in Figure 4-29.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+132
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 4-29 GEOGRAPHICAL ZONES IN ONTARIO’S POWER TRANSMISSION SYSTEM
+
+(Source: Copyright © 2017 Independent Electricity System Operator, all rights reserved)
+
+Supply and demand characteristics vary across each zone. As Table 4-26 demonstrates, in three
+zones, Essa, Toronto and Ottawa, total resources tend to be lower than peak demand. In contrast,
+supply in the Bruce and Niagara zones significantly exceed peak demand, largely due to the presence
+of the Bruce nuclear generating plant and the Niagara Falls hydro facilities, respectively. In the
+remaining zones, total resources either exceed or are balanced with peak demand.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+133
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-26 RESOURCES IN RELATION TO DEMAND ACROSS THE GEOGRAPHICAL ZONES IN ONTARIO'S
+POWER TRANSMISSION SYSTEM123
+Zone
+
+Primary Energy Source
+
+Bruce
+
+Nuclear, with some wind
+
+Resources significantly exceed peak demand
+
+Niagara
+
+Hydro, with some natural gas
+
+Resources significantly exceed peak demand
+
+East
+
+Hydro, oil, and natural gas, with some wind and solar
+
+Resources exceed peak demand
+
+Northeast
+
+Hydro, with some cogeneration, wind, solar, and biofuel
+
+Resources exceed peak demand
+

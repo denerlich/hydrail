@@ -1,0 +1,2659 @@
+follows:
+
+
+Energy Input: To include LH2 as part of the Hydrail System, energy usage is increased by
+10 percent, and energy cost is increased by 20 percent because—unlike electrolysis—the
+liquefaction process is not readily interruptible and cannot focus on periods of low-cost grid
+values.
+
+
+
+Capital Cost: The cost of a liquefaction plant for the entire RER system is estimated at $160 million
+This adds complexity to the supply chain and, with no evident substantial cost offsets, this is an
+additional cost.
+
+
+
+Distribution Cost: Centralization of LH2 would be preferred on economic grounds—the capital cost
+of liquefaction plants does not scale well. That leads to a need for extensive distribution, and LH2
+precludes gas distribution by pipeline. Admittedly, pipeline distribution may encounter some
+public resistance, but is likely to be practicable. Trucking is cheaper with liquid than with gas, but
+either, for almost any distance, is much more expensive than pipelining.
+
+
+
+Problems with Solid Oxygen: Hydrogen needs extreme purification from oxygen before
+liquefaction. Purification can be arranged, but it is a particularly significant issue with
+electrolytically produced H2 with its inevitable initial oxygen content. This is much less of an issue
+with steam-methane reforming (SMR) H2, which is generally oxygen-free. Traces of oxygen present
+in hydrogen liquefaction can accumulate in lines and tanks as solid oxygen, and can lead to violent
+detonation.
+
+
+
+Accident Scenarios: In the event of a spill, LH2 does not disperse nearly as readily or quickly as H2
+gas. This increases fire risks.
+
+
+
+Hydrogen Losses: Design can curtail but will not eliminate H2 losses from boil-off within the entire
+production and consumption chain, thereby increasing the operating cost.
+
+
+
+Extra Handling Risk: While fast vehicle-fill times could be easier with LH2, it is considered more
+prone to accidents than fuelling using the well-established technology for fuelling with CGH2.
+Overall, LH2 is a much less familiar fuel than CGH2.
+
+4.1.4.2 Storage Tank Characteristics
+There is significant difference in the storage tank design in terms of materials, construction, and
+capital costs. The design is primarily driven by the storage pressure requirements. For the transition
+storage system, lower-pressure storage would save significant capital costs, as the volume of storage
+is at least three times larger than the upcoming refuelling storage system. There are at least two
+distinct types of tanks worth comparing (as summarized in Table 4-5) to provide a basis for the storage
+system design.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+77
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-5 COMPARISON OF STEEL AND CARBON-FIBRE GAS STORAGE TANKS
+No.
+
+Parameter
+
+Steel or Metal Tanks
+
+Carbon-fibre Tanks
+
+1
+
+Storage pressure
+
+From 0.1 to 20 MPa
+
+From 10 to 100 MPa
+
+2
+
+Manufacturing process
+
+Established, rolled steel and welded end
+covers
+
+Established, carbon-fibre wound on steel
+liner with or without fibre-glass
+reinforcement
+
+3
+
+Supply chain
+
+Many local manufacturers available
+
+Few; no local manufacturers available
+
+4
+
+Raw material
+
+Carbon, stainless, or alloy steel
+
+Carbon fibre, steel liner, fibre-glass
+
+5
+
+Cost
+
+Lowest possible, due to low cost raw
+materials
+
+Currently higher than steel tanks due to
+material costs
+
+6
+
+Impact of storage
+pressure
+
+Wall thickness increases, and diameter
+decreases as dictated by the pressure
+limit
+
+Wall thickness increases, and volume of
+individual tanks decreases; thereby,
+increasing the total number of tanks
+needed
+
+7
+
+Lifetime
+
+10 years
+
+20 years
+
+8
+
+Risks from hydrogen
+
+Embrittlement over the lifetime of the tank
+
+The refill cycle impacts the stress
+retained by the fibres
+
+4.1.5
+
+Hydrogen Distribution Subsystem
+
+The hydrogen distribution subsystem connects the storage system with the refuelling system, and it
+differs based on gas or liquid phases of hydrogen. For the gas phase, distribution can be by either
+pipeline or trucks; but for liquid phase, only trucking is possible for longer distances (beyond
+1 kilometre [km] in length). Although for shorter distances (less than 1 km in length), pipeline is
+feasible for the liquid phase.
+The distribution system comprises the following equipment, shown on Figure 4-6:
+
+
+Blowers
+
+
+
+Pressure regulator and gas distribution
+
+
+
+Temperature control
+
+
+
+Flow meters, valves, and sensors
+
+
+
+Control system that distributes and manages electrical power and control signals to all the
+relevant equipment within the respective distribution system
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+78
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 4-6 HYDROGEN DISTRIBUTION SUBSYSTEM
+
+The parameters in Table 4-6 were used to design the hydrogen distribution subsystem, using a
+pipeline solution for the Hydrail System to support its long-term investment and operations. For
+gaseous distribution through pipeline, the fibre-reinforced polymer 81 is chosen as the default
+material. These are made by coating layers of polymer that has the lowest permeability for hydrogen
+on to solid substrate, such as steel or polyvinyl chloride (PVC) pipes, depending on the gas pressure.
+TABLE 4-6 PIPELINE DISTRIBUTION SUBSYSTEM DESIGN PARAMETERS
+Parameter
+Operating
+pressure (MPa)
+
+Description
+
+Significance
+
+Pressure at which the pipeline can
+safely operate
+
+Medium, dictates the material and
+dimensions needed for the pipeline
+design and construction, so higher
+pressures would lead to expensive
+construction
+
+Capital cost
+
+Total length of the pipeline per GO rail
+corridor and the Hydrail System
+
+High, currently specified as the total
+length of the GO rail network, not
+knowing exactly where the production
+and storage facilities would be
+located; any increase in length would
+increase costs
+
+Capital,
+operating, and
+maintenance
+costs
+
+Internal diameter of the pipeline
+determined by the operating pressure
+and the volume of gas that needs to be
+transported
+
+Low, with respect to the capital cost;
+the gas pressure drop varies with the
+diameter and the length of the
+pipeline
+
+Capital cost
+
+Range: 2 to 10
+
+Pipeline length
+(km)
+
+Size, internal
+diameter (m)
+Range: 0.1 to 0.0
+
+Impacts
+
+81 U.S. Department of Energy (DOE). 2008. "Section iii.E.3, Fiber-Reinforced Polymer Pipelines for Hydrogen Delivery." FY 2007 Annual
+Progress Report, DOE Hydrogen Program. Accessed October 2017. https://www.hydrogen.energy.gov/pdfs/progress07/iii_e_3_smith.pdf
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+79
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-6 PIPELINE DISTRIBUTION SUBSYSTEM DESIGN PARAMETERS
+Parameter
+Capital cost factor
+($/km)
+
+Lifetime
+(years)
+
+Description
+
+Significance
+
+Impacts
+
+Determines the capital cost of the
+pipeline based on the length of the
+pipeline infrastructure
+
+High, might become a significant
+portion of the Hydrail infrastructure if
+the pipeline length is substantial for a
+scenario where the production and
+storage are far away from the GO rail
+network
+
+Capital cost
+
+This is the lifetime of the pipeline
+material that allows continuous
+operation without impacting reliability
+
+Medium, usually approximately 10 or
+more years, but other factors could
+impact this, especially the gas
+pressure, and implementation of
+joints and connections
+
+Replacement
+cost
+
+Notes:
+m = metre
+
+The parameters in Table 4-7 helped to design the hydrogen distribution using road transportation
+trucks (tanker-trucks) for the Hydrail System to support its long-term investment and operations. The
+trucks are usually managed by the hydrogen supplier, so the cost of trucks would be complicated. For
+simplicity, we assume that the trucks would be owned and operated by Metrolinx.
+TABLE 4-7 TRUCK-BASED DISTRIBUTION SUBSYSTEM DESIGN PARAMETERS
+Parameter
+
+Description
+
+Significance to the system
+
+Impacts
+
+Onboard storage
+pressure (MPa)
+
+Pressure at which the gas or liquid
+hydrogen is stored onboard the truck,
+legally allowed for transporting
+hydrogen by road
+
+High, determines the type of tank
+required, and the volume of gas or
+liquid that could be stored, so results
+in the cost factor
+
+Capital cost and
+Hydrail
+operating cost
+
+Storage volume
+(kg or m3)
+
+Volume of gas or liquid that could be
+stored per truck for transportation
+
+High, determines the number of trips
+or number of trucks that are needed
+per day to transport hydrogen from
+storage to the refuelling system
+
+Hydrail
+operating cost
+and capital cost
+
+Storage tank cost
+factor ($/kg)
+
+Cost for the design, materials,
+manufacturing, and testing of the tanks
+suitable for use to transport hydrogen
+on trucks
+
+High, dictates the cost of the trucks if
+owned by the rail operator; if
+contracted, this would affect the
+operating cost
+
+Capital or
+operating cost
+
+Storage phase, gas
+
+Phase at which hydrogen is stored in
+the tank onboard the truck
+
+Medium, affects the volume of
+hydrogen that could be transported
+per truck
+
+Capital cost
+
+Storage phase,
+liquid
+
+Phase at which hydrogen is stored in
+the tank onboard the truck
+
+Medium, denser than gaseous
+hydrogen, so two to four times more
+hydrogen could be transported per
+truck
+
+Hydrail
+operating cost
+
+Lifetime (years)
+
+Lifetime of the tanker truck, including
+the tanks onboard
+
+Medium, differs based on the storage
+pressure, phase, and number of refill
+cycle
+
+Replacement
+cost
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+80
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.1.5.1 Pipeline and Truck based Distribution
+The distribution of hydrogen would only be required in the case of distributed production or
+combined central production for various corridors. The current industry practice for gaseous fuel
+distribution is either through pipeline or through tanker-trucks. They are chosen for few specific
+reasons based on the parameters listed in Table 4-8.
+TABLE 4-8 COMPARISON OF PIPELINE AND TRUCK DISTRIBUTION
+No.
+
+Parameter
+
+Pipeline
+
+Tanker-truck
+
+1
+
+Demand for hydrogen
+
+If higher and long-term, pipeline is
+cost-effective
+
+If smaller and short-term, trucks are
+cost-effective
+
+2
+
+Distance from
+production to refuelling
+
+Economic, if shorter (less than 100 km
+per corridor)
+
+Economic for longer distances, when
+used as a backup supply (or short-term)
+
+3
+
+Accessibility
+
+Could support an entire array of
+additional users along the length of the
+pipeline by allowing access to tap into
+the pipeline for permanent use
+
+Difficult to do this with one truck, as the
+pressure drop after each transfer
+impacts on the transfer rate
+
+4
+
+Operating pressure
+
+Pipeline has limited operating
+pressure, so the compressor power
+requirement at the refuelling system
+would increase
+
+Trucks could carry up to the pressure
+required by the refuelling and
+dispensing systems
+
+5
+
+Operational risk
+
+Lower, especially if located along the
+ROW of the Ministry of Transportation
+
+Higher, irrespective of the
+transportation routes taken
+
+6
+
+Hydrogen phase
+
+Only useful for gaseous phase,
+especially for longer distances (>1 km)
+
+Could be used to transport both gas
+and liquid phases of hydrogen
+
+7
+
+Initial capital cost
+
+Higher
+
+Lower
+
+Notes:
+> = greater than
+
+The pipeline option could be selected if the production and storage systems are within the lengths of
+the GO rail corridors to keep the capital costs at a reasonable level. Although the return on
+investment would take longer than for trucks, but other advantages, including the higher reliability
+and lower operational risk, strengthen the choice for the pipeline option. Additional information on
+pipelines is available elsewhere82.
+However, the reality of Hydrail implementation would occur in phases over a few years, so the first few
+trains could go into service even before the full implementation of the Hydrail infrastructure if the rail
+vehicles could be refuelled by trucks every day.
+The truck option has another advantage in that it may not require the refuelling and dispensing
+systems if the logistics of refuelling each train is planned accordingly. The trucks could be coordinated
+to refill a small number of tanks near the dispensing point at higher pressure using a compressor for
+the gaseous phase. If the trucks carry liquid hydrogen, they can be transferred to the train directly
+without buffer refill storage, provided the train is storing hydrogen onboard as liquid. But in real train
+82 National Institute of Standards and Technology (NIST). 2015. NIST Calculates High Cost of Hydrogen Pipelines, Shows How to Reduce It.
+July 20. Accessed October 2017. https://www.nist.gov/news-events/news/2015/07/nist-calculates-high-cost-hydrogen-pipelines-showshow-reduce-it
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+81
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+operational experience, this arrangement would not work due to increased chances for accidents
+(due to many numbers of moving pieces within the refuelling and maintenance facility) and impacts to
+the reliability of daily operation.
+This scenario of trucks refuelling the trains directly or through a small number of buffer tanks is not
+currently considered in this study, as there are unknowns that do not yield sufficient and confident
+information to assess the impact. There are two key unknowns: (1) the location of the refuelling
+system, and (2) the number of trains that can be refuelled in parallel at these refuelling locations.
+
+4.1.6
+
+Hydrogen Refuelling Subsystem
+
+The hydrogen refuelling subsystem is required to provide enough hydrogen for a full day of GO train
+service, so the storage tanks are sized such that they can store up to 24 hours of gas – the volume of
+gas required for 1 full day’s service for the RER Scenario 5 train service pattern. These tanks would be
+located within the dispensing or refuelling facility where each train gets the required volume of
+hydrogen for a full day’s service.
+The refuelling system consists of the following equipment, as shown on Figure 4-7:
+
+
+Compressors in a cascaded arrangement
+
+
+
+Pressure regulator and gas distribution
+
+
+
+Temperature control
+
+
+
+Flow meters, valves, and sensors
+
+
+
+Control system that distributes and manages electrical power
+
+
+
+Control signals to all relevant equipment within the refuelling system
+
+The temperature control is necessary during transfer of gaseous hydrogen onto refuelling tanks, as
+hydrogen could cool down or warm up, depending on the pressures, during transfer from the
+distribution system.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+82
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 4-7 HYDROGEN REFUELLING SUBSYSTEM
+
+The design parameters for the refuelling system are similar to those for the storage system provided
+in Table 4-4. The main difference within the refuelling system is for the gaseous phase, which is stored
+at a higher-pressure range from 70 to 100 MPa. For the current Hydrail System, refuelling tanks are
+designed to store the compressed gas at a pressure of 85 MPa, based on similar experience on
+automotive refuelling system design83. This would provide enough pressure to fill the tanks onboard
+the rail vehicles, which are designed to be at 70 MPa. The liquid storage is done in the same fashion
+as it is done in the storage system.
+
+4.1.7
+
+Hydrogen Dispensing Subsystem
+
+The hydrogen dispensing subsystem comprises the following equipment, shown on Figure 4-8:
+
+
+Nozzle
+
+
+
+Temperature-controlled hose
+
+
+
+Cooling system
+
+83 National Renewable Energy Laboratory (NREL). 2014. Hydrogen Station Compression, Storage, and Dispensing Technical Status and
+Costs. Independent Review published for the U.S. Department of Energy Hydrogen and Fuel Cells Program. Technical Report NREL/BK6A10-58564. Contract No. DE-AC36 08GO28308. May. Accessed October 2014. https://www.nrel.gov/docs/fy14osti/58564.pdf
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+83
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+
+
+Flow meter, valves, and sensors
+
+
+
+Control system that distributes and manages electrical power
+
+
+
+Control signals to all relevant equipment within the dispensing system
+
+The refrigeration plant is necessary during the transfer of gaseous hydrogen onto the onboard tanks,
+as hydrogen warms up during its expansion from the higher pressure at the refuelling tanks into the
+lower pressure of the onboard tanks.
+For liquid hydrogen transfer between the refuelling tanks to the tank onboard the vehicle, the transfer
+lines have to be maintained with good insulation such that the boil-off is minimized.
+FIGURE 4-8 HYDROGEN DISPENSING SYSTEM
+
+The parameters in Table 4-9 were used to design the hydrogen dispensing subsystem for the Hydrail
+System to support its long-term investment and operations.
+TABLE 4-9 HYDROGEN DISPENSING SYSTEM DESIGN PARAMETERS
+Parameter
+
+Description
+
+Significance
+
+Flow rate (kg/h)
+
+Flow rate required at the dispenser
+such that the tanks onboard the rail
+vehicle are filled within a set time by
+the operators, usually 15 minutes of fill
+time
+
+High, dictates how much hydrogen
+can be transferred from the refuelling
+tanks into the onboard tanks;
+significantly faster flow rates are
+required (please read the discussion
+after this table)
+
+Operations of
+the rail network
+
+Dispensing
+pressure (MPa)
+
+Applies mainly to gaseous hydrogen,
+usually set higher than the allowed
+storage pressure onboard the rail
+vehicle, and matches the pressure
+delivered from the refuelling system
+
+High, enables faster transfer and
+could trigger the requirement for a
+booster compressor if the flow rates
+are not adequate
+
+Operating cost
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+84
+
+Impacts
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-9 HYDROGEN DISPENSING SYSTEM DESIGN PARAMETERS
+Parameter
+
+Description
+
+Significance
+
+Impacts
+
+Dispenser cost
+factor ($M/unit)
+
+Current form of the dispenser cost
+factor to account mainly for the costs
+of the dispensing unit and the cooling
+system
+
+High, depends on the number of
+dispensing units required; the real
+cost factor would be the redesign
+engineering cost of the existing
+dispensing units used for automotive
+or bus application
+
+Capital cost
+
+Dispensing phase,
+gas
+
+Gaseous hydrogen that would be
+dispensed either from the gas phase
+storage in the refuelling system or
+vaporized liquid hydrogen into gas for
+the liquid-based refuelling system
+
+High, the flow rates are usually lower
+than the liquid phase transfers, so
+additional engineering design is
+needed to accomplish the flow rates
+
+Operating cost
+
+Dispensing phase,
+liquid
+
+Direct transfer of liquid hydrogen from
+the refuelling system that would store
+the liquid hydrogen in tanks
+
+Medium, in a situation where liquid
+hydrogen is still considered within the
+Hydrail System, it has faster flow rates
+than gaseous hydrogen
+
+Operating cost
+
+Lifetime (years)
+
+Lifetime of materials and equipment
+involved in the dispensing system,
+including the nozzle, tubing, pipes,
+hoses, and the cooling system
+(refrigeration plant for example)
+
+Medium, as the material degrades,
+the operational aspects change in
+time
+
+Replacement
+cost
+
+Notes:
+kg/h = kilogram per hour
+
+To achieve 15-minute fill times for each train, the gas flow rate currently existing for the hydrogen
+vehicle application (at 432 kg/h or 7.2 kilograms per minute [kg/min]84) needs to be at least 4 to
+5 times faster. This requires additional engineering design to split the flow into parallel manifolds. This
+is helped by the design of the gas phase storage tanks onboard the vehicle where there are several
+tanks. Simultaneous fill of multiple tanks using the parallel manifolds would enable faster fill rates
+required to meet the 15-minute timeframe.
+
+4.1.8
+
+Hydrogen Vehicle Subsystem
+
+The hydrogen propulsion subsystem is designed to fit within the two motor vehicle types that are
+planned for the RER Scenario 5: (1) high-power locomotive (with 3 to 6 MW of peak power), and
+(2) EMUs (with about 2 MW of peak power per EMU). Both of these vehicle platforms would be fitted
+with the following hydrogen-related equipment, shown on Figure 4-9, based on available space:
+
+
+Storage tanks
+
+
+
+Fuel cell
+
+
+
+Power management
+
+
+
+Electrical batteries
+
+84 Elgowainy, Amgad, and Krishna Reddi. 2017. Hydrogen Refueling Analysis of Heavy-Duty Fuel Cell Vehicle Fleet. Presented at the 2017
+DOE Hydrogen and Fuel Cells Program Annual Merit Review. Argonne National Laboratory. June 8. Accessed October 2017.
+https://www.hydrogen.energy.gov/pdfs/review17/pd014_elgowainy_2017_o.pdf
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+85
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+
+
+Cooling system
+
+
+
+Ultracapacitors
+
+The vehicle itself would have the power control system, traction motors, regenerative braking, and
+head-end power (for HVAC, lights, braking power, and other accessories, including the air
+compressors or vacuum system for the brakes).
+There are two possible hydrogen storage options based on the physical phase: (1) gaseous hydrogen
+at a pressure of about 70 MPa (700 bar) with operational pressure ranging from -20 to 30°C, and
+(2) liquid hydrogen at atmospheric pressure and maintained at -253°C. The liquid hydrogen is twice
+as dense as the gaseous hydrogen at that pressure.
+FIGURE 4-9 HYDROGEN VEHICLE SYSTEM
+
+4.1.8.1 Hydrogen Rail Vehicle: Platform
+The powered vehicle (locomotive or powered EMU) design is at the core of the Hydrail System’s
+design, providing the total energy required with hydrogen as the primary energy source. There are
+three fundamental criteria that were used to design the Hydrail vehicle framework for this study:
+1. Power Requirement: This dictates how much traction power is required for each powered vehicle
+(delivered through several motors and axles as part of the vehicle platform). There are two
+components of traction power:
+a) Peak power: Determined by the acceleration required from each of the trains leaving a station
+in the GO corridors. The acceleration requirement is not found in the IBC (Initial Business Case)
+documentation as a specific number, usually defined as a speed to be achieved in a shortduration (km/h per second or m/s2). So, the basis for the peak power chosen for Hydrail is to
+match the rated power of an equivalent electric locomotive or EMU considered for the IBC
+model. Figure 4-10 shows the peak power requirement per locomotive based on the intended
+acceleration. This shows that the faster acceleration requires significant peak power as well as
+being proportional to the train weight.
+b) Average or coasting power: Determined by the time allotted between each station as per the
+train service plan for RER Scenario 5. There are additional parameters that impact the time and
+the average power such as the number of signals; stops made along each journey; and
+number of stations. So, an average of coasting power for all corridors was estimated by
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+86
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+analysing power profiles from simulation data for at least five GO corridors. This analysis
+helped determine the average power requirement per corridor. The average power for this
+study as a base-case was estimated at about 60 percent of the peak power.
+The peak and average powers determine the total fuel required per train per trip. These power
+parameters need to be estimated based on the actual requirement for GO RER Scenario 5, taking into
+consideration all the associated changes that would need to be done to accommodate the desired
+acceleration. For this study, the total hydrogen required is based on specified peak and average
+powers from a known vehicle design available from a rail vehicle manufacturer. Any subsequent study
+should pay attention to these two parameters as the starting point.
+FIGURE 4-10 RELATIONSHIP BETWEEN PEAK POWER AND ACCELERATION 85
+
+Peak or acceleration power required (MW)
+
+25
+Train weight: 1 loco + 6 bi‐level coaches + passengers = 507 tonnes
+Train weight: 1 loco + 12 bi‐level coaches + passengers = 882 tonnes
+
+20
+
+15
+
+10
+
+5
+
+0
+0.00
+
+0.20
+
+0.40
+
+0.60
+0.80
+2
+Acceleration (m/s )
+
+1.00
+
+1.20
+
+2. Weight Requirement: The peak power and the coasting or average power would also depend on
+the total weight of the locomotive or EMUs. This depends on the train consist configuration with
+the number of passenger bi-level coaches to be pulled at peak and off-peak hours. The difference
+in peak power required is shown in Figure 4-10 for two train consists:
+a) 1+6 consist: 1 locomotive (132 tonnes) with 6 bi-level coaches (294 tonnes) having passengers
+in all seats (81 tonnes) for a total of 507 tonnes
+b) 1+12 consist: 1 locomotive (132 tonnes) with 12 bi-level coaches (588 tonnes) having
+passengers in all seats (162 tonnes) for a total of 882 tonnes
+The train weight is directly related to the total energy required to move the train, so dictates the total
+amount of fuel required for the train per trip. As an example, the fuel requirement during acceleration
+for various train weights is shown in Figure 4-11 For proper comparison, all the fuel requirements
+85 The data used in this chart is available in the model developed for this study: the “Hydrail Operational Simulation Model” (V1.85), in the
+“Results” tab.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+87
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+(diesel, hydrogen and electricity) are presented in terms of energy required expressed in kilowatthour (kWh). The respective engine efficiencies listed in Figure 4-11 are the typical fuel conversion
+efficiencies for each of the propulsion technologies currently available – diesel (35 percent)86,
+hydrogen (50 percent) and electricity (90 percent)87.
+Given the significance of the train weight, the fuel savings pertaining to the 1+6 consist during offpeak hours (like EMUs) should be considered when estimating the lifetime costs for operation,
+maintenance and replacement. In the current study, the fuel requirement is calculated based on peak
+and average powers applied to the start-stop pattern for each corridor. But savings based on changes
+in weights are not accounted due to the uncertainties involved, including the lack of a finalized vehicle
+design.
+FIGURE 4-11 RELATIONSHIP BETWEEN TRAIN WEIGHT AND FUEL REQUIREMENT 85
+
+Respective fuel required to accelerate (kWh)
+
+400
+Diesel required at 35% engine efficiency
+
+350
+
+Hydrogen required at 50% engine efficiency
+Electricity requied at 90% engine efficiency
+
+300
+250
+200
+150
+100
+50
+0
+200
+
+300
+
+400
+
+500
+600
+700
+Train weight (tonne)
+
+800
+
+900
+
+1000
+
+3. Space Availability: To minimize the cost of redesign involved in a new rail vehicle platform, it was
+decided to use the existing design from either electric or diesel vehicle platforms available in the
+market. The available space onboard the vehicle platform was broken down into large blocks for
+key equipment or human space (passenger seating in EMUs or cabin for engineers in
+locomotives). Figure 4-12 shows the breakdown of space availability onboard the two vehicle
+types providing the basis for fitting hydrogen equipment on an existing vehicle platform.
+
+86 S. Chandra, MM. Agarwal. Railway Engineering, Oxford University Press, New Delhi, 2007.
+87 S. Frey. Railway Electrification Systems and Engineering, White Word Publishing, New Delhi, 2012.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+88
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 4-12 SPACE DISTRIBUTION ABOVE THE POWERED RAIL VEHICLE FLOOR AND TRUCKS 85
+Fuel cell
+3%
+
+Batteries
+1%
+
+Other
+equipment
+20%
+
+Fuel cell
+7%
+
+Hydrogen
+tanks
+16%
+
+Batteries
+2%
+
+Other equipment
+35%
+Hydrogen
+tanks
+36%
+
+Human space
+60%
+Human space
+20%
+
+(a) EMU
+
+(b) Locomotive
+
+4. Regenerative Brake Energy: Regenerative braking helps recover the resident motive energy when
+the vehicle is decelerating to respond to a slow/stop signal or to bring the train to a stop at a
+station. From practical evaluation of energy flows in European rail operation, the regenerated
+energy with respect to the total energy consumed is given in Table 4-10 in row 4 – “Energy
+returned to catenary”. Remember that all the data given in this table is for electric locomotives with
+overhead catenary system with the recovered energy directly fed into the grid.
+TABLE 4-10 COMPARISON OF REGENERATIVE BRAKING ENERGY IN ELECTRIC LOCOMOTIVES
+Parameter
+
+88
+
+UK
+
+Spain
+
+Sweden
+
+Energy consumed at PCC
+
+100 percent
+
+100 percent
+
+100 percent
+
+Energy consumed at pantograph
+
+88 percent
+
+83.3 percent
+
+91.2 percent
+
+Energy returned to catenary
+
+7.2 percent
+
+9.6 percent
+
+8.3 percent
+
+Energy returned to grid
+
+1.7 percent
+
+2.6 percent
+
+0 percent
+
+The energy returned to grid as given in the table above suggests that there are energy losses incurred
+in returning the recovered energy back into the grid, since there is no onboard energy storage
+feature in these electric locomotives to use the recovered energy efficiently. The recovery can be
+improved if energy storage capabilities are available, either onboard like in hydrogen-powered
+locomotives and EMUs or wayside within the railway control. The recovered energy could be stored
+and optimized for later use, and up to 30 percent of energy reduction can be realized, depending on
+
+88 I. González and E. Pilo. Regenerative braking and the different traction systems. Energy Recovery Workshop, Madrid, September 29,
+2015. Available at: https://uic.org/forms/IMG/pdf/regenerative_braking_traction_systems.pdf
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+89
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+the vehicle speed, storage size and recuperation ratio89, 90. The efficiency of recovery (recuperation
+ratio) could be improved if smart onboard power management systems (combination of batteries,
+electronics and sophisticated software) are included in the vehicle design91.
+The hydrogen equipment onboard was designed by first breaking down the space occupied by each
+component from an existing locomotive or EMU design based on external dimensions from
+manufacturer data. This was done in a very general manner, as actual dimensions were not available
+for EMUs or for the right locomotive platform.
+Then the space available for the hydrogen propulsion equipment was estimated by assessing the
+primary components, such as fuel cells (includes power electronics and cooling system), batteries, and
+storage tanks. The fuel cell and batteries were then sized based on the average and peak power
+requirement of the vehicle platform (EMU or locomotive).
+The storage tanks are designed to fill all the remaining usable space available on the vehicle.
+Allowance is given to unusable space, including the corners, space between equipment,
+passageways, external dimension of tanks, and support structures. This design approach helped
+determine the actual number of trips that a train could provide, depending on the peak and average
+power of the vehicle.
+An onboard storage contingency is stipulated based on prior experience with diesel locomotives. Ten
+percent of additional hydrogen was included in the vehicle design, so that there is additional fuel
+onboard for unusual situations where a train would otherwise take longer to reach a station. This
+contingency affects both the Hydrail System design and the vehicle design:
+
+
+The Hydrail System is only trivially impacted by the requirement to generate this additional
+hydrogen for initial fills and rare occasions when a train consumes this contingency hydrogen.
+
+
+
+The vehicle design is affected via the additional space and weight required to carry this additional
+10 of hydrogen each trip.
+
+An optimum contingency value should be estimated for design of the Hydrail System and hydrogen
+vehicle.
+
+4.1.8.2 Hydrogen Rail Vehicle: Hydrogen Onboard Equipment
+Based on the peak and average power required per train per corridor, the hydrogen components
+onboard were designed to meet the power requirements. For example, batteries by themselves or
+combined with ultracapacitors could provide the peak power needed during acceleration towards the
+maximum allowable speed, so batteries were sized to provide the peak power required by the rail
+vehicle – locomotive or EMU. The batteries were designed to retain about 70 percent of the state of
+charge (SOC) to ensure recharging of the remaining 30 percent happens between stops per trip.
+Fuel cells could provide power directly to the motors via the power management system, or they
+could recharge the batteries on a continuous basis. In the latter, the batteries would then provide
+
+89 U. Henning, et al. Innovative Integrated Energy Efficiency Solutions for Railway Rolling Stock, Infrastructure and Operation. Available at:
+https://uic.org/cdrom/2008/11_wcrr2008/pdf/R.3.4.3.1.pdf
+90 Kent, Stephen, Dimantha Gunawardana, Tom Chicken, and Rob Ellis. 2016. Future Railway Powertrain Challenge Fuel Cell Electric
+Multiple Unit (FCEMU) Project. FCEMU Project - Phase 1 Report - Issue 1. University of Birmingham, Hitachi Rail, Fuel Cell Systems Limited.
+June.
+91 M. Shimada et al. Energy Storage System for Effective Use of Regenerative Energy in Electrified Railways. Available at:
+http://www.hitachi.com/rev/pdf/2010/r2010_01_104.pdf
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+90
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+both peak and average power to the traction motors based on the demand during the trip. For this
+study, fuel cells were sized to match the average power requirement.
+The design parameters for the hydrogen equipment onboard the rail vehicle (both EMU and
+locomotive) are provided in Table 4-11, and were used to design the hydrogen vehicle system for the
+Hydrail system to support its long-term investment and operations.
+TABLE 4-11 HYDRAIL VEHICLE SYSTEM (EMU AND LOCOMOTIVE) DESIGN PARAMETERS
+Parameter
+
+Description
+
+Significance
+
+Impacts
+
+Fuel cell size (MWe)
+Range: 0.5 to 2
+
+Size of the fuel cell onboard the vehicle, High, determines the physical size of the Capital cost and
+determined to match the average
+fuel cell system and the space required onboard space
+power requirement
+onboard
+
+Fuel cell efficiency
+(kWh/kg)
+Range: 15 to 18
+
+Volume of hydrogen required to
+produce the electrical energy required
+to provide the average power
+
+High, affects the overall electrical energy Operating cost
+of the Hydrail system by demanding that of Hydrail
+much more hydrogen
+system
+
+Fuel cell cost factor
+($/kWe)
+
+Determines the capital cost of the fuel
+cell system, including the power
+electronics, cooling system, and other
+relevant equipment
+
+High, affects the total fleet capital cost
+
+Capital cost
+
+Fuel cell
+refurbishment cost
+(% of initial capital)
+Range: 40 to 60
+
+Discount on reusing certain
+components within the fuel cell stack
+
+Medium, determines the cost-savings
+when replacing the fuel cell stack by
+refurbishing the depreciated parts
+
+Replacement
+cost
+
+Fuel cell lifetime
+(hours)
+Range: 25,000 to
+40,000
+
+Lifetime of fuel cell system and its
+components; represents the actual
+hours of operation, not the time since it
+was commissioned
+
+High, the lifetime is also determined by Replacement
+the performance (or efficiency), such that cost;
+if the volume of hydrogen required
+Operating cost
+suddenly increases, the operating
+aspects could mark the fuel cell to be
+removed from service for a
+refurbishment
+
+Storage tank
+pressure (MPa)
+Range: 70 to 85
+
+Pressure at which the gaseous
+hydrogen is stored onboard the vehicle;
+also makes the tanks much more
+complex and expensive to fabricate
+
+High, critical to conserve the space
+onboard the vehicle to maximize the
+number of trips that the vehicle could
+provide every day
+
+Capital cost;
+Onboard space
+
+Storage tank cost
+factor ($/kg)
+
+Determines the cost of the storage tank
+and the support structure onboard the
+vehicle; a function of the storage
+pressure
+
+High, since the pressure is at the upper
+limit of the design, this needs to be
+lowered
+
+Capital cost
+
+Storage phase, gas
+
+Phase when hydrogen is stored in the
+tanks onboard the vehicle
+
+Medium, affects the volume of hydrogen Capital cost;
+that could be stored onboard, so the
+number of trips
+
+Storage phase,
+liquid
+
+Phase when hydrogen is stored in the
+tank onboard the vehicle
+
+Medium, denser than gaseous
+hydrogen, so two to four times more
+hydrogen could be stored onboard,
+which helps increase the number of
+trips, but is energy intensive
+
+Hydrail
+operating cost
+
+Storage tank volume Volume of hydrogen than can be stored Low, irrelevant to the cost, as other
+Onboard space
+(m3)
+per tank onboard the vehicle; depends parameters, such as pressure and
+on pressure or density
+storage phase, affects the cost; however,
+this helps in optimizing the space
+requirement and for parallel refilling of
+tanks
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+91
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-11 HYDRAIL VEHICLE SYSTEM (EMU AND LOCOMOTIVE) DESIGN PARAMETERS
+Parameter
+
+Description
+
+Significance
+
+Storage tank lifetime
+(number of fills)
+Range: 3,000 to
+5,000
+
+Lifetime of the storage tank onboard the
+vehicle represented in number of fills; if
+the tanks are filled once a day, then that
+yields the number of years
+
+Battery size (MWh)
+Range: 0.5 to 2
+
+Indicates the battery size determined by High, determines the cost of the battery
+assessing the peak power requirement system, and the relevant space and
+of the vehicle and the time needed to
+weight requirements that go with it
+deliver in one continuous instance
+
+Capital cost;
+Onboard space
+
+Battery state of
+charge (%)
+Range: 70 to 90
+
+The amount of electrical charge stored
+in the battery at any given time.
+
+High, this needs to be at a certain
+minimum level (70 to 90 percent) such
+that there is sufficient time available to
+re-charge the batteries by the fuel cells
+while the train is at cruising speed.
+Batteries that have charge lower than
+this state would not be fully available to
+support the various electrical load
+onboard
+
+Capital cost;
+Operating cost
+
+Battery efficiency (%) Efficiency of the battery to store and
+discharge electricity; for Li-ion-based
+Range: 60 to 80
+batteries, the efficiency is at the upper
+end
+
+High, a reduction in efficiency would
+suggest that there is insufficient
+electricity supply onboard that could
+affect vehicle acceleration and the hotel
+loads
+
+Operational
+reliability;
+Replacement
+cost
+
+Battery cost factor
+($/kWh)
+
+Determines the cost of the battery
+system onboard based on the size
+required; Li-ion based batteries are
+currently expensive
+
+High, affects the vehicle capital cost and
+would be impacted by alternate and
+cheaper battery material if performance
+is not impacted
+
+Capital cost
+
+Battery lifetime
+(years)
+Range: 5 to 10
+
+Lifetime of the battery material; since
+Medium, battery lifetime would be
+batteries are made in modules, only the improved if devices such as
+affected modules could be replaced
+ultracapacitors are used
+
+High, the number of fills per day is
+determined by the volume of hydrogen
+that can be carried onboard, which is
+determined by the number of trips that
+could be provided by each vehicle
+
+Impacts
+Replacement
+cost
+
+Replacement
+cost
+
+Notes:
+Li = lithium
+MWe = megawatt-equivalent
+
+4.1.8.3 Vehicle Fleet Mix Options
+The Hydrail vehicle fleet could include the same combination of the powered multiple units or one or
+two locomotives pulling the 12 bi-level coaches per RER Scenario 5. For Hydrail, a stronger case can
+be made for two locomotives pulling 12 bi-level coaches in a push-pull configuration, as follows:
+
+
+Splitting the peak power required by a single locomotive into two half-powered locomotives
+enables storage of additional hydrogen onboard each of the two locomotives; thereby, increasing
+the number of trips that these trains could provide in a day
+
+
+
+During off-peak periods, the 2 locomotives with 12 coaches (2+12 consist) could be split with
+1 locomotive with 6 coaches (1+6 consist) to provide the service, reducing hydrogen use
+
+
+
+If the 1+6 consist is economical compared to the 4- or 8-car EMU, then the entire fleet mix would only
+have locomotives, simplifying the O&M aspects of the GO rail network
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+92
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.1.8.4 Options for train service plans
+The train service plan for RER Scenario 5 is one of the most important design bases for the Hydrail
+System. This dictates how much hydrogen is to be generated. The key design parameter that
+determines the total hydrogen required (in tonnes per day [tpd]) for the Hydrail System is the energy
+(in megajoules or MJ) used by each train for a given trip across each of the GO rail corridors.
+The energy required by each train in each of the GO rail corridors was assessed using the RER
+Scenario 5 train service pattern. The energy estimates were based on the start-stop pattern by linking
+the peak and average powers required by the rail vehicle with the journey time between each stop.
+This energy was then converted into the amount of hydrogen required based on the efficiencies of
+fuel cells onboard the vehicle and the electrolyzer within the hydrogen production subsystems. When
+this estimate was developed for all the trains over a day in each corridor, it helped in determining the
+total hydrogen required per corridor and for the entire GO rail network under Scenario 5.
+If the start-stop pattern changes per corridor, say, due to the addition of stations or other signalrelated stops, the hydrogen required for each trip in that corridor would increase. The train service
+plan is critical to the Hydrail infrastructure and vehicle design.
+To show the difference of the effect of the service plan, the study compares the model results for two
+timeframes in the RER Scenario 5 deployment: (1) 2024 as the beginning of the Hydrail train service;
+and (2) 2044 as the completion of the deployment of the Hydrail train service with all the additional
+trains added since 2024. This would therefore require addition of hydrogen infrastructure to support
+the addition of trains in a modular fashion as discussed earlier in the production and storage
+subsystems design. Table 4-12 shows the impact of the difference in train service plans between the
+two timeframes in terms of locomotives required, hydrogen production, and electricity required.
+TABLE 4-12 TRAIN SERVICE PLAN IMPACT FOR TWO TIMEFRAMES UNDER RER SCENARIO 5
+Train Service Plan
+
+2024
+
+2044
+
+Electric locomotives
+
+35
+
+44
+
+Hydrail locomotives
+
+70
+
+88
+
+EMU (4-car set)
+
+84
+
+84
+
+Hydrogen required (tpd)
+
+40
+
+48
+
+Electricity required (GWh)
+
+2.2
+
+2.5
+
+Notes:
+EMU = electrical multiple unit
+GWh = gigawatt-hour
+Tpd = tonne per day
+
+In the IBC, five RER scenarios were listed, of which Scenario 5 represents a partial electrification of the
+GO network. However, Scenario 4 within the RER program involves electrification of the entire GO
+network, assuming this could be done. This involves complete conversion of all diesel-powered
+vehicles in the GO network with the RER train service plan. When the design basis for the Hydrail
+System is applied to Scenario 4 using the service plan, the additional requirement for locomotives,
+hydrogen and electricity increased to that shown in Table 4-13.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+93
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-13 TRAIN SERVICE PLAN IMPACT FOR TWO TIMEFRAMES UNDER RER SCENARIO 4
+Train Service Plan
+
+2024
+
+2044
+
+Electric locomotives
+
+78
+
+88
+
+Hydrail locomotives
+
+156
+
+176
+
+EMU (4-car set)
+
+84
+
+84
+
+Hydrogen required (tpd)
+
+59
+
+71
+
+Electricity required (GWh)
+
+3.2
+
+3.7
+
+Notes:
+EMU = electrical multiple unit
+GWh = gigawatt-hour
+Tpd = tonne per day
+
+Note that in both tables above, the number of locomotives for Hydrail is twice the number of electric
+locomotives. This is part of the Hydrail System vehicle design, where the peak power of the vehicle is
+halved to accommodate hydrogen in two locomotives of identical power. This provides both range
+and flexibility, the former ensuring enough hydrogen to provide a full day’s service, and the latter
+allowing for efficient fleet operation between peak and off-peak hours of the day.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+94
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.2
+
+Hydrail System Operations and Maintenance
+
+The objective of this section is to present performance and economic outcome data from the
+simulated operation of the Hydrail System and its options.
+The Operational Simulation Model contains a definition of how the Hydrail System would operate as a
+functional railway. It then applies this functionality, in combination to the hydrogen technology subsystems, to a model of the Hydrail System.
+Both the railway model and the Hydrail System model are sufficiently flexible to accommodate new
+data and options but results from the current underpinning assumptions are presented in this section.
+The operational design and the subsystem sizing of the Hydrail System (discussed in Section 4.2.2.2)
+were developed using a spreadsheet model created specifically for this feasibility study by scientists
+from the hydrogen research group at CNL92. It is called the Hydrail Operational Simulation Model. It
+was used to generate hydrogen process results and feasibility level cost estimates for this report.
+The results from the Hydrail Operational Simulation Model were then fed into Metrolinx’s IBC of the RER
+Program. In this section, costs are reported before applying the financial model assumptions and
+conditions to distinguish the change in costs per the system design or cost scenarios discussed later, so,
+the costs here are different from those used in the Business Case modelling, described in Section 4.4.
+
+4.2.1
+
+Operating, Maintaining, and Renewing the Hydrail System
+
+4.2.1.1 Static and Onboard Hydrogen Infrastructure
+Certain Hydrail system components (or equipment) have distinctive maintenance and renewal
+characteristics, such as fuel cells, electrolyzers, batteries, storage tanks, and compressors. They are
+usually associated with the lifetime of these components, as discussed in Section 4.2.2.2. A summary
+of the lifetimes of various fixed and mobile Hydrail infrastructure is presented in Table 4-14.
+TABLE 4-14 LIFETIME OF HYDRAIL SYSTEM COMPONENTS
+No.
+
+Hydrail System Component – Fixed
+
+Lower Value
+
+Higher Value
+
+1
+
+Electrolyzer (PEM)
+
+40,000 hours
+
+50,000 hours
+
+2
+
+Electrolyzer (Alkaline)
+
+55,000 hours
+
+100,000 hours
+
+3
+
+Storage tanks (20 MPa)
+
+10 years
+
+15 years
+
+4
+
+Pipeline (10 MPa)
+
+10 years
+
+30 years
+
+5
+
+Refuelling tanks (85 MPa)
+
+15 years
+
+20 years
+
+6
+
+Dispensing units
+
+10 years
+
+15 years
+
+1
+
+Fuel cells (PEM)
+
+25,000 hours
+
+60,000 hours
+
+2
+
+Batteries (lithium ion)
+
+40,000 hours
+
+50,000 hours
+
+3
+
+Storage tanks (70 MPa)
+
+3,000 fills
+
+5,000 fills
+
+Hydrail System Component – Mobile
+
+Notes:
+MPa = megapascal
+No. = number
+PEM = proton-exchange membrane
+92 Canadian Nuclear Laboratories. www.cnl.ca
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+95
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Fuel Cells and Electrolyzer Maintenance and Lifetime
+Extending the lifetime of PEM fuel cells has been a major objective of developers, and steady
+progress has been made, as suggested by the upward curves shown on Figure 4-13. This is
+representative of the PEM electrolyzers, as well, since they have similar internal components as fuel
+cells, so would follow similar lifetime expectancies.
+FIGURE 4-13 FUEL CELL SYSTEM LIFETIME CHANGES
+70,000
+
+Fuel Cell Lifetime (hours)
+
+60,000
+50,000
+40,000
+30,000
+20,000
+2024 cost‐case
+
+10,000
+
+Future cost‐case
+0
+2015
+
+2020
+
+2025
+
+2030
+
+2035
+
+2040
+
+2045
+
+2050
+
+Currently, leading manufacturers of PEM fuel cells have demonstrated 30,000 hours of lifetime. To be
+conservative, this study assumes 25,000 hours for the base or 2024-cost case. For this study, “lifetime”
+is not to a point of failure, but the point when a gradual loss of conversion efficiency from hydrogen to
+electricity has reached a level that justifies taking the cell out of service and refurbishing it. The
+manufacturers confirm that lifetime should be calculated in terms of hours of full-power operation.
+For GO trains, it would be conservative to assume 18 hours per day of operation and half of that time
+equivalent to operation at full power (to discount periods of no acceleration, coasting, braking, and
+being stationary). So, 25,000 hours translates in real-time to an interval between refurbishment of:
+25000 x 24/18 x 1/0.5/8760 = 9.1 years
+The relationship between fuel cell lifetime and operational life is summarized on Figure 4-14.
+FIGURE 4-14 RELATIONSHIP BETWEEN FUEL CELL LIFETIME AND OPERATIONAL TIME
+80
+25,000 hours
+
+Fuel Cell Lifetime (years)
+
+70
+
+50,000 hours
+
+60
+50
+40
+30
+20
+10
+0
+0
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+5
+
+10
+15
+20
+Operating time of fuel cell in a day (hours)
+96
+
+25
+
+30
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Refurbishment consists of disassembly, replacement of the cell’s central membrane, and reassembly.
+Today, refurbishment is estimated to cost about 60 percent of the original cost, and this figure is used
+in this study. This is a conservative assumption, since future refurbishment costs will likely be less than
+60 percent of today’s cost because of the continuing decline in original equipment manufacturer
+(OEM) costs for fuel cells.
+If alkaline electrolyzers are used, maintenance requirements are insignificant, since this type of cell
+operates for decades with an occasional need to remove accumulated carbonate sludge and makeup of caustic.
+If PEM cells are used, their technology is to PEM fuel cells, so it is reasonable to assume that they will
+match fuel cell characteristics and require refurbishment in the same way after 25,000 hours at the
+nameplate-power rating. For example, if 2.8 times more cell capacity were installed than needed for
+continuous hydrogen, and current density averaged 3.11 A/cm2 rather than a nameplate rating of
+2.2 A/cm2, lifetime before refurbishment would be:
+25,000 x 2.8 x 2.2/3.11 x 1/8,760 = 5.7 years
+The relationship between electrolyzer lifetime and operational life is summarized on Figure 4-15.
+FIGURE 4-15 RELATIONSHIP BETWEEN ELECTROLYZER LIFETIME AND CURRENT DENSITY
+30
+Electrolyzer Lifetime (years)
+
+25,000 hours
+25
+
+50,000 hours
+
+20
+15
+10
+5
+0
+0
+
+1
+
+2
+3
+4
+Electrolyzer operating current density (A/cm2)
+
+5
+
+6
+
+Battery Maintenance and Lifetime
+The lifetime of lithium ion batteries (LIBs) is beyond the scope of a preliminary assessment because
+their lifetimes are impacted by numerous factors that can be mitigated through design. The effects
+include the following:
+
+
+Pushing the battery to its limits at either the very-high or the very-low ends of its capacity shortens
+life. Systems are usually designed to avoid these zones or even to work in a comparatively narrow
+range, which could be thought of as a way of adding overcapacity.
+
+
+
+High temperatures (above 30°C) shorten battery life, especially when the battery is fully charged.
+Charging at low temperatures (below 0°C) shortens their life.
+
+
+
+High rates of charge tend to shorten life. This is why integrating them with ultracapacitors can be
+worthwhile, since the latter can accept very high rates of charge.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+97
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Storage Tank Maintenance and Lifetime
+The 700-bar composite tanks for on-train storage of hydrogen have been assigned a lifetime of
+5,500 pressure cycles in a study by Argonne National Laboratory93. While specifically for automotive
+applications, the critical factor is the diameter of storage cylinders, and this will be effectively similar
+for Hydrail. However, specifying 5,500 cycles is a very conservative assumption, since Comond et al.94
+have shown that a tank can be designed to sustain 15,000 cycles. The lifetime of these tanks is
+determined by flexing of the steel liner. At 15,000 cycles and 1 cycle per day, the lifetime is
+40-50 years and comparable to the expected life of the Hydrail locomotive.
+The same lifetime expectancy applies to the composite tank construction for the very high-pressure
+tanks used to store hydrogen at refuelling locations.
+Lower-pressure steel tanks for buffer storage to accommodate optimized operation of the
+electrolyzers will experience lesser stresses and have even longer lifetimes.
+In short, no provision for replacement of hydrogen tanks will be needed.
+Compressor Maintenance and Lifetime
+Compressors are rugged mechanical devices and should have indefinite lifetimes if properly
+maintained. Exactly what maintenance will be required is impossible to define without specifications
+of the equipment to be deployed. However, a detailed independent review for the U.S. National
+Renewable Energy Laboratory (NREL) 95 recommends that the cost of ongoing maintenance would be
+covered by adding one-third to the initial capital cost.
+
+4.2.1.2 Railway Operations and Maintenance
+Maintaining railway system availability is crucial to providing an efficient and competitive rail
+operation. Availability can be defined as the probability that a system is operating properly when it is
+requested for use, or the probability that a system is not failed or undergoing a repair action when it
+needs to be used. Therefore, system reliability, which represents the probability of components, parts,
+and systems to perform their required functions for a desired period of time without failure in
+specified environments, is closely related to the availability of the same system. Reliability addresses
+the probability that a system is not failed, but because availability is also driven by the probability that
+a system is not undergoing a repair, it will also be a function of its maintainability.
+Operations
+The Hydrail system was designed to provide the same level of service (LOS), or same frequency of
+service, to the same number of passengers as presently considered in RER Scenario 5. The Hydrail
+service patterns considered are an exact match to the Electrification scenario, and the passenger
+capacity in each train consist has also been extracted and copied. The result is that from an operations
+
+93 Hua, T.Q., R.K. Ahluwalia, J.-K. Peng, M. Kromer, S. Lasher, K. McKenney, K. Law, and J. Sinha. 2011. “Technical assessment of
+compressed hydrogen storage tank systems for automotive applications.”. International Journal of Hydrogen Energy. Volume 36, Issue 4,
+February. pp. 3037-3049.
+94 Comond O, D. Perreux, F. Thiébaud, P. Delobelle, D. Chapelle, P. Robinet, M. Weber, and H. Barthelemy. 2009. Analysis of the fatigue life
+of hydrogen high pressure tanks. FEMTO-ST - Franche-Comté Électronique Mécanique, Thermique et Optique - Sciences et Technologies.
+Accessed November 2017. Translated at http://www.escm.eu.org/docs/eccm13/2618.pdf.
+95 Parks, G. R. Boyd, J. Cornish, and R. Remick. 2014. Hydrogen Station Compression, Storage, and Dispensing Technical Status and Costs.
+Technical Report NREL/BK-6A 10-58564. Golden, Colorado: National Renewable Energy Laboratory. May. Accessed November 2017.
+https://www.nrel.gov/docs/fy14osti/58564.pdf
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+98
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+point of view, the number of trains per day to provide the service, and the distance in train-kilometres
+(km) travelled is exactly the same for both scenarios.
+The RER model is also increasing the revenue service train-km travelled by 9.3 percent to consider all
+nonrevenue train movements (including dispatching, rerouting trains for maintenance activities, and
+run-in to layover facilities) that are required for proper operation. A conservative 10 percent allocation
+has been considered in the Hydrail Simulation Operational Model, described in Section 4.2.2, to
+account for nonrevenue train movements.
+Mixed Fleet Operation
+RER Scenario 5 is currently considering a fleet mix of bi-level coaches pushed or pulled by either a
+diesel or an electric locomotive. For bidirectional operation, the last bi-level coach is a cab car, and to
+provide accessibility, an Americans with Disabilities Act (ADA) coach is inserted in the consist. Consists
+of 6, 8, or 12 coaches are considered to offer the required service patterns. Also considered in RER
+Scenario 5 is the introduction of a new fleet of EMU consists of four or eight coaches.
+Table 4-15 presents the composition of the fleet required to achieve the higher frequency and higher
+performance considered in RER Scenario 5. Note that the Union Pearson (UP) Express is not presented
+in this table because there is no modification of its actual service in the Electrification scenario 20-year
+horizon between 2025-2045.
+TABLE 4-15 ROLLING STOCK EQUIPMENT CONSIDERED FOR EACH CORRIDOR
+Equipment
+Coach
+
+EMU
+
+Electric
+
+Diesel
+
+4
+
+8
+
+12
+
+6
+
+8
+
+12
+
+Passengers
+
+480
+
+960
+
+1,789
+
+895
+
+1,193
+
+1,789
+
+Lakeshore West
+
+YES
+
+YES
+
+YES
+
+-
+
+YES
+
+YES
+
+Lakeshore East
+
+YES
+
+YES
+
+YES
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+YES
+
+Kitchener
+
+YES
+
+YES
+
+YES
+
+-
+
+YES
+
+Barrie
+
+YES
+
+YES
+
+YES
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+YES
+
+YES
+
+YES
+
+YES
+
+-
+
+-
+
+-
+
+Milton
+
+Richmond Hill
+Stouffville
+
+The Hydrail fleet mix can also be similar. Four and eight EMUs can find direct replacement with
+hydrogen multiple units (HMUs). Nonpowered HMUs will carry 150 passengers each, like a standard
+bi-level coach, while the powered HMUs passenger capacity has been reduced to 90 passengers to
+allow space for traction powers and HFC components. Since each multiple unit consist is powered at
+50 percent, the passenger carrying capacity is the same in the EMU or HMU configuration.
+Each electric locomotive is replaced by 2 HFC locomotives; therefore, bi-level cab cars are no longer
+required in a 12-coach consist to offer bidirectional functionality. A standard coach could be used
+instead, which would offer slightly more seats for each consist. This difference in increased passenger
+capacity has not been considered in this analysis.
+For the alternative where diesel locomotives are also replaced with HFC locomotives, the same ratio is
+used for the replacement. A 6-car consist is pushed and pulled with 1 HFC locomotive, while a 12-car
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+99
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+consist is equipped with 2 locomotives. These configurations provide higher acceleration
+performance than the existing diesel configuration and also provide a better power to weight ratio.
+Service patterns will also need to be adapted in the Lakeshore West corridors where an eight-car
+consist is considered. A single HFC locomotive should be designed to efficiently move six coaches.
+Therefore, the existing 8-car trains could be replaced by a different combination of either 6 or
+12 coaches to offer the same or very similar number of seats.
+As presented in Section 4.2.2.4, there is also an alternative where all EMUs have been replaced by
+new HFC locomotives pulling standard, nonpowered BL coaches. The proposed replacement was
+made on a passenger seats equivalent basis. Adaptation of the service patterns will be required to
+complete the evaluation of this alternative, which is outside the scope of the present study.
+EMUs could also be eliminated from the Electrification scenario and service offered with an electric
+locomotive with three, four, six, or seven standard coaches, depending on the number of seats
+required. The downside of this approach is that, since the locomotive was originally designed for
+12-coach operation, it will be overpowered for a smaller consist. From that point of view, the HFC
+locomotive is better sized for those smaller consist operations.
+Although EMUs are more flexible to reconfigure from small to larger consist and offer better
+acceleration performance, they also introduce additional complexity from an O&M standpoint. Since
+diesel, electric, and EMUs will be operating on the same corridors, this better acceleration will
+somehow be lost when creating the service timetable. The passenger waiting for a train at any station
+should not have to remember that at a peak period, the train is an electric locomotive, while at other
+times of the day, the line could be serviced by a diesel locomotive or an EMU. The passenger is more
+interested in having a constant service, coming to his or her station every 15 minutes, for example,
+than the specific performance characteristics of a given type of railway car crossing the station. For
+that reason, although an EMU may be able to brake and accelerate faster from any station and recover
+time lost during the operation, it will be limited by the slowest equipment running on the same
+corridor.
+Normally, multiple units (MUs) are used to introduce a new service, where the ridership is lower and it
+is more cost-effective to have a distributed power approach than an over-powered locomotive pulling
+three or four passenger coaches. This explains why a DMU was the selected technology for the
+UP Express. With the increase of ridership, more coaches are added to provide the service and,
+eventually, it becomes more economical to pull those coaches with centralized power or a
+locomotive. The GO service has already been proven, and high ridership levels are a reality, making
+the MUs less attractive economically. The existing diesel and electric locomotives considered so far
+have been designed with the goal of pulling 12 coaches, somehow explaining why EMUs are also
+considered. The proposed approach of designing a Hydrail locomotive for six coaches also makes the
+EMUs less attractive. Fewer coaches simplifies the fleet mix and its O&M, and makes better use of the
+existing BL coaches.
+Dispatching
+The dispatching operation, consisting of trains coming out of the layover facilities to gradually feed
+the daily service activities, will be exactly the same for each scenario. Independently of the fleet mix
+considered, each train will be prepped for service in a similar manner. Preconditioning of the
+locomotives and passenger coaches will be performed using wayside power. Predeparture tests
+could be slightly different, depending of the motive power being used, but should have no significant
+effect on the dispatching timeline.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+100
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Operating Range
+Since the service patterns are the same, the only remaining difference between the number of trains
+that need to be dispatched on any given day is the operating range associated with each technology.
+Electric locomotives and EMUs do not have any operating range limitations; as long as the power
+infrastructure operates normally, trains dispatched at the opening of the network could operate
+throughout the day and clock up to 20 hours of revenue service operation.
+Diesel locomotive daily hours of operation would be limited by their operating range, which is
+proportional to the operating power profile and fuel-carrying capacity. For the present operation,
+centered around a wave operating concept (all trains coming to Union station during AM peak period,
+and returning wave during PM peak period), the diesel locomotives need to go to layover facilities
+after the AM peak period until they are dispatched again in time for the PM peak periods. Based on
+the current LOS, there is sufficient time to refuel the trains during that period; therefore, every train is
+systematically refuelled every day, even if it only needs 1,500 litres (L) out of an 8,300-L tank. Diesel
+locomotives are operating an average of 7-8 hours per day, way below their potential operating
+range.
+By 2025, the RER program will replace this wave operating concept and will provide a core network
+that has a train every 15 minutes, all day, while outer parts of the network would be served every 30 or
+60 minutes. The diesel trains operating under this new scenario will have extended operating hours
+every day and will not necessarily be fuelled in the middle of the day. Nevertheless, because a full
+tank of diesel provides close to 20 hours of normal operation, as long as all locomotives are fuelled
+every day, the 2025 and beyond proposed plan can be achieved with the existing diesel locomotive
+operating range. New Diesel-AC locomotives that will be purchased in the future should maintain this
+range.
+The HFC locomotives will likely have a shorter operating range than its diesel counterpart. A
+combination of additional fuelling points at terminal stations and additional rolling stock equipment
+may be required to erase the effect of this shorter operating range. Although additional rolling stock
+may need to be dispatched daily, it does not automatically imply a larger fleet. It could be addressed
+with fewer trains set aside for maintenance activities on any given day, which may be adequate given
+that the level of maintenance required on HFC-related subsystems is expected to be less than for the
+diesel equivalent. This could also me made possible by the potentially increased reliability level of
+HFC over diesel engines.
+Run-in Operations
+Run-in operations, consisting of the gradual removal of a train in service during or at the end of the
+day, when the LOS is reduced or the time to end the service, are also essentially the same for each
+scenario. This statement is true if the time to recondition the trains at the end of the day is similar for
+each motive power technology, there is enough time between removal of service until the next
+dispatch cycle to carry all daily maintenance activities, or both.
+The major daily maintenance activity that is different between each technology is the fuelling
+requirement, which is covered in the following subsection. Although each technology has a different
+cycle time for its fuelling activity, because it can be performed in parallel with other more timeconsuming servicing activities that must be done during that period of the day, there should be no
+impact on the number of rolling stock required to prepare the trains for the next day.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+101
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Degraded Modes of Operation
+Up to this point in the analysis, only the normal mode of operation has been considered. This section
+provides a high-level comparison between the electrification and HFC scenarios under a degraded
+mode of operation.
+From a system point of view, some elements are identical between both technologies. For example,
+the rail network and the train control and signalling system are the same, and potential failure of those
+elements will have the same effect on the rolling stock equipment and overall service delivery.
+Besides those elements, the rest of the systems are different.
+Although the reliability associated with the infrastructure (power stations, switching stations,
+transmission lines, overhead catenary system) essential to the proper operation of electric trains is
+high and offers some level of redundancy, it does introduce an additional potential for interruption of
+service. Notwithstanding the initial disruption effect to the existing system operation throughout the
+construction period (which also requires raising overpasses and station roofs, and possibly
+modification to the rail alignment), failure of any electrification infrastructure elements will create
+service disruptions on at least part of the electrified network. Some of the failure modes could
+introduce performance limitations to electric locomotives and EMUs, or completely stop the service in
+the affected section of the rail network.
+Another element that needs to be considered is the additional activities required to maintain this
+mainline infrastructure. Although some of those activities may be done at night when the system is not
+operational, some activities will need to be performed during the day and will impose speed
+restrictions on the portion of the network where the maintenance is carried out.
+Hydrail also has an infrastructure that needs to be operational and needs to be maintained to
+produce, store, and distribute the hydrogen required for the trains to operate. Those elements are
+also subject to some malfunctions or maintenance activities that will limit their operation. The main
+difference is that the complete system is designed to offer at least 3 days’ of hydrogen storage for the
+complete fleet of trains, providing more than enough time to perform the necessary system
+investigation and repairs. Also, independently of the infrastructure design, it will always be possible,
+although less practical, to proceed with a direct truck to train fuelling scheme, bypassing the
+complete hydrogen-producing infrastructure if required.
+Therefore, from an infrastructure point of view and considering the potential impact to the train
+operation, Hydrail has an overall advantage over electrification. Can this infrastructure benefit also be
+extended to the rolling stock equipment?
+To answer this question, the first element to consider is the overall reliability comparison between
+diesel, electric, and Hydrail locomotives. In recent locomotive design, the main difference within the
+locomotive propulsion system is the main electricity source, since all locomotives use this primary
+source to power AC propulsion drive systems.
+A diesel locomotive will have a diesel engine, cooling system, fuel tank and fuel delivery system,
+exhaust system, alternator, and associated controls to produce the primary power source. For an
+electric locomotive, the power source is external; but it needs a pantograph, a transformer, and highvoltage switchgear to harness this external power to the drive system. The equipment required in an
+electric locomotive is much simpler than its diesel counterpart, is inherently more reliable, and
+provides a higher power to weigh ratio, leading to better performance. For a Hydrail locomotive, fuel
+cells, cooling system, hydrogen tank and delivery system, batteries, and associated controls make up
+the subsystems required to produce the primary source of energy. Although a Hydrail locomotive has
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+102
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+yet to be designed, manufactured, and tested, based on the maturity level of all components required
+to make such a locomotive, its reliability is also expected to be better than that of a diesel locomotive
+and comparable to electric locomotive reliability. Because it needs to carry its own fuel, similar to a
+diesel locomotive, a Hydrail locomotive will also not be as powerful as electric locomotive.
+Nevertheless, besides its intrinsic reliability level, from a degraded mode operation point of view, the
+Hydrail approach has two major advantages over competing technologies: (1) its redundancy when
+operating a 12-coach consist because it has 2 locomotives instead of 1; and (2) its leap home
+functionality, made possible from the onboard batteries.
+The introduction of EMUs in the fleet mix will decrease the overall reliability of the passenger coaches.
+At the same reliability level as the locomotive, because of the multiplication of systems in any given
+consist, up to four propulsion systems in an eight-car EMU or HMU, the overall reliability will be lower.
+This will be largely compensated by the inherent redundancy of this distributed power approach. For
+example, losing one propulsion package in an 8-car EMU still maintains 75 percent of the traction
+capability, reducing the normal operational characteristics, but also limiting the impact on overall
+system performance.
+The Hydrail system will also need to address a potential degraded mode of operation. Considering
+that the rolling stock reliability should be similar to the electric option and better than the diesel
+option, that it is not directly affected by power generation infrastructure potential failure modes, offers
+some level of redundancy and leap home capability, it should offer a more reliable system. Extending
+this approach and eventually replacing all diesel locomotives and eliminating the need for EMU,
+Hydrail also represents a level of operational simplification that cannot be achieved with the
+Electrification scenario.
+Emergency and Rescue Operations
+Although each system may have a different reliability level, a degraded mode of operation can
+eventually require emergency or rescue operations to remove the nonworking rolling stock
+equipment from the rail network.
+If the electrification infrastructure fails, then rescue can only be achieved using compatible equipment
+that is not electric. Depending on the extent of the infrastructure failure, more than one train could
+need rescue from a diesel locomotive. The service could also be temporarily replaced by remaining
+diesel equipment. The LOS and performance would then be slightly affected.
+For the most likely equipment-related failures, compatibility between electric and diesel locomotives
+should allow for appropriate emergency and rescue operation on the electrified portion of the
+network, which would remain as it is today for the rest of the network. Hot standby trains will need to
+be considered at strategic layover facilities in the network to provide proper operation during
+recovery mode.
+An extra level of complexity will be introduced with the fleet of MUs in the system. Because of the
+different physical characteristics between locomotives and MUs, it is less likely that compatibility can
+be achieved between those equipment types. Hot standby trains remain the appropriate response,
+but this also means the need for two types of train on standby for rescue operations. This will need to
+be evaluated considering the reliability of each equipment type.
+The same concept should be used for Hydrail. Similar to the degraded mode of operation presented
+in the previous section, based on Hydrail’s foreseen reliability level, redundancy, leap mode, and
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+103
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+equipment type rationalization, should reduce the frequency of emergency operations and simplify
+the deployment of hot standby trains.
+Maintenance
+The maintenance of the rolling stock equipment can be associated to four main categories:
+1. Daily
+2. Progressive
+3. Corrective
+4. Overhaul
+The first category includes all activities required daily to service each train coming back through run-in
+operations to be ready for the next dispatching cycle. Cleaning of all passenger coaches, water and
+waste management, cab cars and power car servicing (including top-up windshield wiper fluid, sand,
+diesel fuel, and diesel fluid additive for Tier IV engines), and running predeparture tests are likely daily
+maintenance activities.
+Progressive maintenance activities are normally established around a 90-day cycle, when the
+equipment needs to go into a maintenance facility to perform systematic inspection, detection, and
+correction of emergent failures either before they occur or before they develop into major defects.
+Based on equipment manufacturer recommendations, the progressive maintenance plan is generally
+designed to preserve and restore equipment reliability by replacing worn components before they
+fail. Some activities need to be repeated every 90 days, while others may only need to be done at
+180- or 270-day intervals or on a yearly basis; therefore, every 90-day inspection is slightly different
+but normally requires that the equipment, locomotives, and passenger coaches be removed from
+revenue service for 3 days.
+The ideal progressive maintenance program would prevent all equipment failure before it occurs. In
+practice, this cannot be achieved; therefore, there is always some unplanned maintenance activities or
+corrective maintenance that need to be performed.
+The last maintenance category that covers the heavy maintenance activities and overhaul is also a
+planned maintenance activity. This time, the equipment is removed from service for an extended
+period, where major subsystems maintenance is addressed. Heating, ventilation, and air conditioning
+(HVAC); truck; diesel engine reconditioning; and mid-life interior component; replacements are a few
+examples of activities performed as part of this category.
+With the introduction of any new equipment or technology, the maintenance plan needs to be revised
+to include this new equipment. As a result of this review, the cycle time, amount of materials and
+human resources, required training, procedures, tools, and maintenance facilities will need to be
+adjusted. Hydrail will not be an exception to this reality.
+One of the important modifications to the daily maintenance activities is related to the fuelling, which
+is covered in the next section. The other daily activities will remain essentially the same and are not
+expected to modify the existing timeline. The progressive maintenance will also be modified and
+simplified due to ending diesel-related subsystem maintenance. It is too early to determine if this
+maintenance category for Hydrail trains could be shorter than the existing downtime for diesel trains.
+Since this cycle is also driven by the passenger coach maintenance cycle, it may not be possible to
+reduce the progressive maintenance cycle even if Hydrail locomotive maintenance activities take less
+time. This will be reviewed more closely as part of the pilot locomotive design.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+104
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Based on Hydrail’s expected reliability level, corrective maintenance activities should be positively
+affected, especially after the technology has been proven in revenue service. Nevertheless, this
+category of maintenance will still be required.
+The heavy maintenance or overhaul activities will also be revised and are expected to be simplified.
+The selection of the Hydrail system components will dictate the overhaul cycle. Fuel cell
+reconditioning and batteries replacement will be covered in this maintenance category. It is expected
+that it will take less time to perform those activities than for existing technology, but frequency may be
+higher. The fuel cell meantime between overhaul is currently around 20,000 to 25,000 hours of
+operation, which is probably around 3 years of operation, relatively short compared to diesel- and
+electric-based technology. Batteries replacement will also drive the overhaul timeline. Proper sizing of
+batteries during the design stage as a compromise between performance, weight, and state of charge
+will influence this replacement activity. The future development of both fuel cells and batteries should
+also improve the time between overhaul.
+Infrastructure and Organizational Modifications Required
+Table 4-16 presents the expected state of layover and maintenance facilities by the end of 2020. All
+the sites presented in this table also allows for minor cleaning activities and minor defect repairs,
+supported by local material and parts storage, except for Oshawa and Milton that do not have that
+storage capacity. Based on an equivalent LOS, this study considers that the number of tracks at
+layover and maintenance facilities will be the same between the electrification and Hydrail systems.
+The capability at each facility is presently under review to verify it will also be adequate to support the
+expand LOS in 2025. The results of this analysis will also need to be considered for Hydrail.
+Once Hydrail is introduced, maintenance yard and layover facilities will not need to be modified to
+include the overhead catenary system currently provisioned for in the Electrification scenario.
+Although the current height of the maintenance facilities is sufficient to incorporate an overhead
+catenary system, for safety reasons, the current plan did not include this building modification.
+Instead, electric trains and EMUs will be pushed in and out of the maintenance facilities by an external
+source, creating additional operation and limiting the throughput of the maintenance line.
+Existing interior maintenance tracks are equipped with sensors and extraction fans to remove exhaust
+from diesel locomotives. The same approach will be used for Hydrail locomotives. Different sensors
+will be required to detect potential hydrogen leaks, which will trigger extraction fans. The size of the
+fan should be sufficient but will need to be confirmed.
+Wayside power is available is all maintenance facilities and most of the layover locations, per
+Table 4-16. The Union Pearson (UP) Express service track and Oshawa station should be modified to
+also offer wayside power. This is important to limit the hydrogen consumption during network
+operation. For the same reasons, any side tracks at maintenance facilities, where the trains will preheated or preconditioned before revenue service, should be equipped with wayside power.
+The maintenance facilities’ existing workforce will need to go through a new training program to work
+around Hydrail and especially hydrogen-related components. There is already a specific certification
+program that exists for this technology in Ontario, developed for other industries, that could easily be
+adapted to the rail industry.
+During the transition period, until the Hydrail system is fully deployed, it may beneficial to create a
+specific organization within Metrolinx to concentrate their effort on the successful introduction and
+maintenance of the specific Hydrail installation and workforce requirement.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+105
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-16 LAYOVER AND MAINTENANCE FACILITIES INSTALLATION
+Fuelling
+
+Sanding
+
+No. Tracks
+
+Consist
+Capacity
+
+Wayside
+Power
+
+Fuel /DEF
+Storage &
+Dispensing
+
+Direct Truck
+Locomotive
+Access
+
+Toilet Servicing
+
+Fixed
+Storage &
+Dispensing
+
+Storage for
+Mobile
+Dispensing
+
+Barrie
+
+5
+
+8
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+No
+
+Bradford Station
+(temp)
+
+2
+
+2
+
+Yes
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+Bradford /Barrie
+
+8
+
+8
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+No
+
+Yes
+
+Heritage
+
+8
+
+8
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+No
+
+Yes
+
+Georgetown Station
+
+4
+
+3
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Kitchener (Temporary)
+
+2
+
+2
+
+Yes
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+Kitchener (Shirley Ave)
+
+4
+
+4
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+No
+
+No
+
+UP Express Service
+Track
+
+1
+
+0
+
+No
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+Oshawa Station
+
+2
+
+2
+
+No
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+Don Yard
+
+10
+
+10
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+No
+
+Yes
+
+Henry Street
+
+2
+
+2
+
+Yes
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+Bathurst North
+
+6
+
+6
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Mimico
+
+3
+
+6
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+Hamilton
+
+2
+
+4
+
